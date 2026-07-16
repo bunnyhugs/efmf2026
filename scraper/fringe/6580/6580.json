@@ -1,0 +1,165 @@
+{
+  "image": "6580\\6580.jpg",
+  "title": "The Human Cat Experience",
+  "description": "4000 years in the future. Humans are the size of cats and cats are the size of humans. 2 cats high on catnip make an emergency trip to Catsco. Serial killer sex dolls, rotisserie chicken burlesque, a parody of a Canadian log-driving classic. Cheech and Chong, but with cats. Absurd! 90% clown-free. And did we mention CATS?!",
+  "credits": "<strong>Playwright</strong>: ira cooper &amp; Hilary Fillier<br/><strong>Director</strong>: ira cooper &amp;. Hilary Fillier<br/><strong>Cast</strong>: 2<br/><strong>Designers</strong>: Ruby Arnold<br/>",
+  "website": "https://spectheatre.com",
+  "plain_language": "The Human Cat Experience is a story about two cats, who are high on catnip. They realize they have run out of kitty litter and have to go to Catsco, a large department store. Along the way, they run into many obstacles that test their friendship and risk their 9 lives.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Holy Trinity Anglican Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 23: The Bliss Stage",
+  "locationId": 23,
+  "location": "23: The Bliss Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol, Religious Content, Smoke/Fog</div> </span>",
+  "location_html": "<h3>Holy Trinity Anglican Church</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> <p>T6E 2G6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>23: The Bliss Stage</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52050040,-113.49051258&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42739",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-15 15:00:00",
+          "performanceDate": "15th August 2025 15:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42740",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-16 17:00:00",
+          "performanceDate": "16th August 2025 17:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42741",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-17 19:00:00",
+          "performanceDate": "17th August 2025 19:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42742",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:30",
+          "performanceRealTime": "2025-08-18 12:30:00",
+          "performanceDate": "18th August 2025 12:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42743",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-19 15:00:00",
+          "performanceDate": "19th August 2025 15:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42744",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:15",
+          "performanceRealTime": "2025-08-21 15:15:00",
+          "performanceDate": "21st August 2025 15:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42745",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:45",
+          "performanceRealTime": "2025-08-22 17:45:00",
+          "performanceDate": "22nd August 2025 17:45",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42746",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:45",
+          "performanceRealTime": "2025-08-23 17:45:00",
+          "performanceDate": "23rd August 2025 17:45",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6580",
+    "showAvailabilityInCalendar": true
+  }
+}

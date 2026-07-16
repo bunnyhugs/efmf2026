@@ -1,0 +1,131 @@
+{
+  "image": "6578\\6578.jpg",
+  "title": "First Love",
+  "description": "First Love is a poetic reflection on a misanthropic outcast's relationship with love — particularly with a woman named Lulu, who he encountered on the canal-side bench that was once his nocturnal home. This darkly comic short story by Samuel Beckett explores love, death and one man's inability to comprehend humanity.",
+  "credits": "<strong>Playwright</strong>: Samuel Beckett<br/><strong>Director</strong>: Kathleen Weiss<br/><strong>Cast</strong>: David Ley<br/><strong>Designers</strong>: Sarah Fett<br/>",
+  "website": "https://vaulttheatre.net | https://instagram.com/vaulttheatreyeg",
+  "plain_language": "A homeless man speaks to the audience about how he remembers love in his life.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $12.00 inc $2.50 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 65 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Roxy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 32: Lorne Cardinal Theatre",
+  "locationId": 32,
+  "location": "32: Lorne Cardinal Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content,</div> </span>",
+  "location_html": "<h3>The Roxy Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> <p>T5M 0H1</p> </div> <!--<a href=\"#\"></a>--> <span>780-453-2440</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>32: Lorne Cardinal Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.55171317,-113.53618310&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42724",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-15 15:30:00",
+          "performanceDate": "15th August 2025 15:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42725",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-16 15:30:00",
+          "performanceDate": "16th August 2025 15:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42726",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-19 17:00:00",
+          "performanceDate": "19th August 2025 17:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42727",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-21 18:30:00",
+          "performanceDate": "21st August 2025 18:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42728",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-22 17:30:00",
+          "performanceDate": "22nd August 2025 17:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42729",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-23 17:00:00",
+          "performanceDate": "23rd August 2025 17:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6578",
+    "showAvailabilityInCalendar": true
+  }
+}

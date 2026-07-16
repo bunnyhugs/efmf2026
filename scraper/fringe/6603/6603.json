@@ -1,0 +1,114 @@
+{
+  "image": "6603\\6603.jpg",
+  "title": "The Perfect Pour",
+  "description": "Embark on a playful journey in \"The Perfect Pour,\" where mastering the art of pouring tea becomes an extraordinary adventure. With puppetry, juggling, balancing acts, and captivating storytelling, this one-hour show is a lively and entertaining experience for all ages.",
+  "credits": "<strong>Playwright</strong>: Alex Payne<br><strong>Director</strong>: Alex Payne<br/><strong>Cast</strong>: Alex Payne<br/><strong>Designers</strong>: Alex Payne<br/></br>",
+  "website": "https://lamplighter-entertainment.com/onemanshow",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Circus",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $10.00 inc $2.50 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 20, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Old Strathcona Public Library",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 10: Old Strathcona Public Library",
+  "locationId": 10,
+  "location": "10: Old Strathcona Public Library",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "",
+  "location_html": "<h3>Old Strathcona Public Library</h3> <div class=\"addres-pin\"> <p>8331 104 St NW</p> <p>T6E 4E9</p> </div> <!--<a href=\"#\"></a>--> <span>(780) 496-1828</span> <a href=\"mailto:\"></a> <h3>10: Old Strathcona Public Library</h3> <div class=\"addres-pin\"> <p>8331 104 St NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51990000,-113.49760000&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42927",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-15 11:00:00",
+          "performanceDate": "15th August 2025 11:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42928",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-16 15:00:00",
+          "performanceDate": "16th August 2025 15:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42929",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:00",
+          "performanceRealTime": "2025-08-17 13:00:00",
+          "performanceDate": "17th August 2025 13:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42930",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-19 16:45:00",
+          "performanceDate": "19th August 2025 16:45",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42931",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-20 15:00:00",
+          "performanceDate": "20th August 2025 15:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6603",
+    "showAvailabilityInCalendar": true
+  }
+}

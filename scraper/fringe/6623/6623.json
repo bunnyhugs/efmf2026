@@ -1,0 +1,165 @@
+{
+  "image": "6623\\6623.jpg",
+  "title": "Afeni",
+  "description": "The mother of Tupac was famous in her own right when she took on the US Government by acting as her own lawyer, as a member of the wrongly accused Panther 21. A charged political drama from the writer behind Franz Ferdinand Must Die: “Overall absorbing — and pierces into a fascinating piece of history” - CBC",
+  "credits": "<strong>Playwright</strong>: Adam Bailey<br/><strong>Director</strong>: Adam Bailey<br/><strong>Cast</strong>: Onika Henry<br/>",
+  "website": "https://stillyourfriend.com",
+  "plain_language": "Afeni Shakur, a Black woman in New York, joins the Black Panthers and is put on trial by the US government. She becomes her own lawyer to speak for herself. Her strength helps win the case for the Panther 21. During the trial, she decides to name her unborn son Tupac Shakur.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Holy Trinity Anglican Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 23: The Bliss Stage",
+  "locationId": 23,
+  "location": "23: The Bliss Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Political Content, Violence,</div> </span>",
+  "location_html": "<h3>Holy Trinity Anglican Church</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> <p>T6E 2G6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>23: The Bliss Stage</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52050040,-113.49051258&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43144",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-15 17:15:00",
+          "performanceDate": "15th August 2025 17:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43145",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-16 19:00:00",
+          "performanceDate": "16th August 2025 19:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43146",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-17 12:15:00",
+          "performanceDate": "17th August 2025 12:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43147",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-18 15:00:00",
+          "performanceDate": "18th August 2025 15:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43148",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-19 17:15:00",
+          "performanceDate": "19th August 2025 17:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43149",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:30",
+          "performanceRealTime": "2025-08-20 12:30:00",
+          "performanceDate": "20th August 2025 12:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43150",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-21 20:15:00",
+          "performanceDate": "21st August 2025 20:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43151",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:30",
+          "performanceRealTime": "2025-08-23 12:30:00",
+          "performanceDate": "23rd August 2025 12:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6623",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "image": "6553\\6553.jpg",
+  "title": "Who Drinks Mocktails on the Beach?!",
+  "description": "Told in the style of Fleabag with an early 2000’s pop-punk soundtrack, this award-winning one-woman comedy follows party-girl Candace as she runs away to Mexico for her best friend's destination wedding. You won't have regrets... but Candace might. Awards: Outstanding Production, Audience Choice (On the Edge Fringe 2024)",
+  "credits": "<strong>Playwright</strong>: Sara Mayfield<br/><strong>Director</strong>: Damon Bradley Jang<br/><strong>Cast</strong>: Sara Mayfield<br/><strong>Stage Manager</strong>: Andrew Wade<br/>",
+  "website": "https://paintedfernproductions.com",
+  "plain_language": "\"Who Drinks Mocktails on the Beach?!\" is a one-woman show about a girl named Candace going to her best friend Jacki's wedding in Mexico. Candace's party-girl persona is challenged as she tells the audience stories about her relationships and past experiences. As we follow her through the wedding activities, she tells us about Jacki's pet cat, a night she met a guest at a hotel, her ex-boyfriend who had a thing for feet, and how Jacki met her fiancée Ken.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $19.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 55 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Campus Saint-Jean",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 16: Sue Paterson Theatre at Campus Saint-Jean",
+  "locationId": 16,
+  "location": "16: Sue Paterson Theatre at Campus Saint-Jean",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol, Sexual Content</div> </span>",
+  "location_html": "<h3>Campus Saint-Jean</h3> <div class=\"addres-pin\"> <p>8406 Rue Marie-Anne Gaboury</p> <p>T6C 4G9</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>16: Sue Paterson Theatre at Campus Saint-Jean</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52192746,-113.46883945&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42516",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:45",
+          "performanceRealTime": "2025-08-14 21:45:00",
+          "performanceDate": "14th August 2025 21:45",
+          "availability": 75,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42517",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-16 20:45:00",
+          "performanceDate": "16th August 2025 20:45",
+          "availability": 75,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42518",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-17 22:30:00",
+          "performanceDate": "17th August 2025 22:30",
+          "availability": 75,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42519",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-19 17:15:00",
+          "performanceDate": "19th August 2025 17:15",
+          "availability": 75,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42520",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-20 20:45:00",
+          "performanceDate": "20th August 2025 20:45",
+          "availability": 75,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42521",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-21 22:30:00",
+          "performanceDate": "21st August 2025 22:30",
+          "availability": 75,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42522",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-22 19:00:00",
+          "performanceDate": "22nd August 2025 19:00",
+          "availability": 75,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42523",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-23 15:30:00",
+          "performanceDate": "23rd August 2025 15:30",
+          "availability": 75,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42524",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-24 12:00:00",
+          "performanceDate": "24th August 2025 12:00",
+          "availability": 75,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6553",
+    "showAvailabilityInCalendar": true
+  }
+}

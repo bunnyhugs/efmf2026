@@ -1,0 +1,18 @@
+Update DataTable row on heard/star change:
+
+
+var rowToUpdate = table.row($('#row_id'));
+var rowToUpdate = table.row(rowIndex);
+var rowToUpdate = table.row(':contains("some_value_in_cell")');
+
+var newDataObject = { column1: 'New Value 1', column2: 'New Value 2' };
+rowToUpdate.data(newDataObject);
+
+
+var currentData = rowToUpdate.data();
+currentData[0] = 'Updated Cell Value'; // Assuming column 0
+rowToUpdate.data(currentData);
+
+
+
+rowToUpdate.draw(false); // Using false prevents full table redraw and paging reset

@@ -1,0 +1,131 @@
+{
+  "image": "6520\\6520.jpg",
+  "title": "La rondine",
+  "description": "La Rondine (The Swallow), Puccini’s underrated gem, is the story of Magda, a Parisian courtesan who dreams of a simpler life. A poignant meditation on love, illusion, and the price of self-knowledge.",
+  "credits": "<strong>Playwright</strong>: Giacomo Puccini<br><strong>Director</strong>: Amanda Testini MUSIC DIRECTOR Spencer Kryzanowski<br/><strong>Cast</strong>: Elias Theochiridis, Sawyer Craig, Jeremy Scinocca, Bertrand Malo, Aemilia Moser, Mandy Maher, Sarah Caulfield, Max Fingerote, Josh Thayer, Grayson Mackenzie<br/><strong>Designers</strong>: Stephen Enfield Elgar<br/><strong>Stage Manager</strong>: Sarah Austin<br/></br>",
+  "website": "https://www.instagram.com/thisisagoodmess",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $19.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 16-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 90 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Gateway Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 06: The Gateway Theatre",
+  "locationId": 6,
+  "location": "06: The Gateway Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol, Smoke/Fog, Strobe Lights</div> </span>",
+  "location_html": "<h3>The Gateway Theatre</h3> <div class=\"addres-pin\"> <p>8529 Gateway Blvd</p> <p>T6E 6P3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>06: The Gateway Theatre</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52114748,-113.49475723&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-16": [
+        {
+          "id": "601:42288",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-16 14:15:00",
+          "performanceDate": "16th August 2025 14:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42289",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-17 19:15:00",
+          "performanceDate": "17th August 2025 19:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42290",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-19 12:15:00",
+          "performanceDate": "19th August 2025 12:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42291",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:45",
+          "performanceRealTime": "2025-08-21 21:45:00",
+          "performanceDate": "21st August 2025 21:45",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42292",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:15",
+          "performanceRealTime": "2025-08-23 23:15:00",
+          "performanceDate": "23rd August 2025 23:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42293",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:45",
+          "performanceRealTime": "2025-08-24 14:45:00",
+          "performanceDate": "24th August 2025 14:45",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6520",
+    "showAvailabilityInCalendar": true
+  }
+}

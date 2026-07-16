@@ -1,0 +1,148 @@
+{
+  "image": "6633\\6633.jpg",
+  "title": "GHOST STORIES: Paul Strickland",
+  "description": "A one-man Twilight Zone—told mostly in the dark! From the AWARD-WINNING creators of \"13 Dead Dreams of Eugene\" comes a new immersive ghost story experience like no other. Paul Strickland (★★★★★ Edm Sun, ★★★★★ Free Press) has told ghost stories OFF-BROADWAY and at the NATIONAL STORYTELLING FESTIVAL in Jonesboro Tennessee.",
+  "credits": "<strong>Playwright</strong>: Paul Strickland<br><strong>Cast</strong>: Paul Strickland<br/></br>",
+  "website": "",
+  "plain_language": "Storyteller Paul Strickland tells five ghost stories. Each one is scarier than the last.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Gateway Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 06: The Gateway Theatre",
+  "locationId": 6,
+  "location": "06: The Gateway Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Death, Violence</div> </span>",
+  "location_html": "<h3>The Gateway Theatre</h3> <div class=\"addres-pin\"> <p>8529 Gateway Blvd</p> <p>T6E 6P3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>06: The Gateway Theatre</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52114748,-113.49475723&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43223",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-14 22:00:00",
+          "performanceDate": "14th August 2025 22:00",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43224",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-16 17:30:00",
+          "performanceDate": "16th August 2025 17:30",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43225",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-18 19:15:00",
+          "performanceDate": "18th August 2025 19:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43226",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-20 14:15:00",
+          "performanceDate": "20th August 2025 14:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43227",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:30",
+          "performanceRealTime": "2025-08-22 21:30:00",
+          "performanceDate": "22nd August 2025 21:30",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43228",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-23 12:15:00",
+          "performanceDate": "23rd August 2025 12:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43229",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-24 17:15:00",
+          "performanceDate": "24th August 2025 17:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6633",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,2602 @@
+{
+  "161": {
+    "_id": 161,
+    "date_end": "2025-08-07",
+    "date_start": "2025-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 125,
+      "title": "Aysanabee Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-07",
+    "ref_date_end": "2025-08-07",
+    "slug": "aysanabee-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      155
+    ],
+    "time_end": "19:35:00",
+    "time_start": "18:35:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "162": {
+    "_id": 162,
+    "date_end": "2025-08-07",
+    "date_start": "2025-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 126,
+      "title": "Serena Ryder Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-07",
+    "ref_date_end": "2025-08-07",
+    "slug": "serena-ryder-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      156
+    ],
+    "time_end": "21:00:00",
+    "time_start": "19:50:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "163": {
+    "_id": 163,
+    "date_end": "2025-08-07",
+    "date_start": "2025-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 127,
+      "title": "Rainbow Kitten Surprise Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-07",
+    "ref_date_end": "2025-08-07",
+    "slug": "rainbow-kitten-surprise-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      144
+    ],
+    "time_end": "22:45:00",
+    "time_start": "21:25:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "164": {
+    "_id": 164,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 128,
+      "title": "Stephen Wilson Jr. Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "stephen-wilson-jr-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      157
+    ],
+    "time_end": "22:15:00",
+    "time_start": "21:05:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "165": {
+    "_id": 165,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 129,
+      "title": "Allison Russell Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "allison-russell-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      152
+    ],
+    "time_end": "23:52:00",
+    "time_start": "22:42:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "166": {
+    "_id": 166,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 130,
+      "title": "Las Cafeteras Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "las-cafeteras-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      147
+    ],
+    "time_end": "15:00:00",
+    "time_start": "14:00:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "167": {
+    "_id": 167,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 131,
+      "title": "Taj Mahal Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "taj-mahal-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      158
+    ],
+    "time_end": "19:44:00",
+    "time_start": "18:44:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "168": {
+    "_id": 168,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 132,
+      "title": "Goldie Boutilier Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "goldie-boutilier-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      146
+    ],
+    "time_end": "20:54:00",
+    "time_start": "19:59:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "169": {
+    "_id": 169,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 133,
+      "title": "Danielle Ponder Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "danielle-ponder-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      159
+    ],
+    "time_end": "22:07:00",
+    "time_start": "21:07:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "170": {
+    "_id": 170,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 134,
+      "title": "The Roots Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "the-roots-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      160
+    ],
+    "time_end": "23:59:00",
+    "time_start": "22:30:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "171": {
+    "_id": 171,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 135,
+      "title": "Jupiter & Okwess Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "jupiter-okwess-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      148
+    ],
+    "time_end": "15:00:00",
+    "time_start": "14:00:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "172": {
+    "_id": 172,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 136,
+      "title": "Richy Mitch & The Coal Miners Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "richy-mitch-the-coal-miners-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      149
+    ],
+    "time_end": "19:50:00",
+    "time_start": "18:50:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "173": {
+    "_id": 173,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 137,
+      "title": "John Butler Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "john-butler-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      154
+    ],
+    "time_end": "21:15:00",
+    "time_start": "20:10:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "174": {
+    "_id": 174,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 138,
+      "title": "Mt. Joy Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "mt-joy-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      150,
+      153,
+      151
+    ],
+    "time_end": "22:50:00",
+    "time_start": "21:40:00",
+    "venue": {
+      "_id": 142,
+      "title": "Main Stage"
+    }
+  },
+  "401": {
+    "_id": 401,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 262,
+      "title": "Mentors",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "mentors",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      356,
+      357,
+      361,
+      155
+    ],
+    "time_end": "20:50:00",
+    "time_start": "19:40:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "402": {
+    "_id": 402,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 263,
+      "title": "The Spirit Sings",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "the-spirit-sings",
+    "sort_order": null,
+    "tags": [
+      345,
+      145,
+      349,
+      355,
+      361,
+      363,
+      375
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "403": {
+    "_id": 403,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 266,
+      "title": "Once Upon a Time",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "once-upon-a-time",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      361,
+      146,
+      389,
+      391
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:40:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "404": {
+    "_id": 404,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 265,
+      "title": "Imagine",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "imagine",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      152,
+      155,
+      391,
+      392
+    ],
+    "time_end": "19:15:00",
+    "time_start": "18:00:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "405": {
+    "_id": 405,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 267,
+      "title": "AV & the Inner City Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "av-the-inner-city-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      354,
+      362
+    ],
+    "time_end": "20:45:00",
+    "time_start": "19:35:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "406": {
+    "_id": 406,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 268,
+      "title": "Sing Out",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "sing-out",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      353,
+      362,
+      366,
+      386,
+      399
+    ],
+    "time_end": "13:55:00",
+    "time_start": "12:40:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "407": {
+    "_id": 407,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 269,
+      "title": "Community",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "community",
+    "sort_order": null,
+    "tags": [
+      145,
+      346,
+      349,
+      358,
+      362,
+      398
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "408": {
+    "_id": 408,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 270,
+      "title": "BALTHVS Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "balthvs-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      351,
+      363
+    ],
+    "time_end": "16:05:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "409": {
+    "_id": 409,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 271,
+      "title": "Torch Songs",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "torch-songs",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      354,
+      364,
+      366,
+      370
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "410": {
+    "_id": 410,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 272,
+      "title": "Blackburn Brothers Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "blackburn-brothers-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      351,
+      364
+    ],
+    "time_end": "17:25:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "411": {
+    "_id": 411,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 273,
+      "title": "Blue Moon Marquee Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "blue-moon-marquee-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      352,
+      365
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:40:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "412": {
+    "_id": 412,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 274,
+      "title": "Common Ground",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "common-ground",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      365,
+      368,
+      158,
+      399
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "413": {
+    "_id": 413,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 275,
+      "title": "Break Your Heart",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "break-your-heart",
+    "sort_order": null,
+    "tags": [
+      145,
+      347,
+      349,
+      352,
+      365,
+      367,
+      390
+    ],
+    "time_end": "12:20:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "414": {
+    "_id": 414,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 276,
+      "title": "Traditions",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "traditions",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      352,
+      367,
+      369,
+      372,
+      387
+    ],
+    "time_end": "20:45:00",
+    "time_start": "19:35:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "415": {
+    "_id": 415,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 277,
+      "title": "Ancestors",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "ancestors",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      351,
+      367,
+      392,
+      393
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "416": {
+    "_id": 416,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 278,
+      "title": "Burnstick Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "burnstick-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      367
+    ],
+    "time_end": "17:25:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "417": {
+    "_id": 417,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 279,
+      "title": "Calvin Vollrath Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "calvin-vollrath-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      371
+    ],
+    "time_end": "19:15:00",
+    "time_start": "18:00:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "418": {
+    "_id": 418,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 280,
+      "title": "Home",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "home",
+    "sort_order": null,
+    "tags": [
+      145,
+      348,
+      349,
+      352,
+      369,
+      371,
+      372
+    ],
+    "time_end": "12:20:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "419": {
+    "_id": 419,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 281,
+      "title": "Think Like a Hero",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "think-like-a-hero",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      371,
+      372,
+      373,
+      385
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "420": {
+    "_id": 420,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 282,
+      "title": "Cedric Burnside Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "cedric-burnside-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      351,
+      368
+    ],
+    "time_end": "18:40:00",
+    "time_start": "17:35:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "421": {
+    "_id": 421,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 283,
+      "title": "Peaks and Valleys",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "peaks-and-valleys",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      149,
+      368,
+      384
+    ],
+    "time_end": "17:30:00",
+    "time_start": "16:30:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "422": {
+    "_id": 422,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 284,
+      "title": "Changes",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "changes",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      353,
+      374,
+      376,
+      377,
+      383
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "423": {
+    "_id": 423,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 285,
+      "title": "String Me Along",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "string-me-along",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      351,
+      154,
+      374,
+      378,
+      384
+    ],
+    "time_end": "12:20:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "424": {
+    "_id": 424,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 286,
+      "title": "Charlie Cunningham Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "charlie-cunningham-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      353,
+      374
+    ],
+    "time_end": "17:25:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "425": {
+    "_id": 425,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 287,
+      "title": "Current Swell Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "current-swell-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      353,
+      370
+    ],
+    "time_end": "19:10:00",
+    "time_start": "18:00:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "426": {
+    "_id": 426,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 288,
+      "title": "Hard Times",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "hard-times",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      351,
+      359,
+      370,
+      386
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:40:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "427": {
+    "_id": 427,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 289,
+      "title": "All We Are Saying",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "all-we-are-saying",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      159,
+      388,
+      147
+    ],
+    "time_end": "18:40:00",
+    "time_start": "17:40:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "428": {
+    "_id": 428,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 290,
+      "title": "De Temps Antan Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "de-temps-antan-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      353,
+      379
+    ],
+    "time_end": "18:40:00",
+    "time_start": "17:40:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "429": {
+    "_id": 429,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 291,
+      "title": "May You Never",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "may-you-never",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      353,
+      379,
+      385,
+      393
+    ],
+    "time_end": "12:10:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "430": {
+    "_id": 430,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 292,
+      "title": "True Believers",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "true-believers",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      146,
+      379,
+      396
+    ],
+    "time_end": "18:45:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "431": {
+    "_id": 431,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 293,
+      "title": "Dervish Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "dervish-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      353,
+      372
+    ],
+    "time_end": "17:25:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "432": {
+    "_id": 432,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 294,
+      "title": "Acoustic Alchemy",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "acoustic-alchemy",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      352,
+      373,
+      381,
+      383,
+      390
+    ],
+    "time_end": "19:15:00",
+    "time_start": "18:00:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "433": {
+    "_id": 433,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 295,
+      "title": "Dry Bones Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "dry-bones-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      373
+    ],
+    "time_end": "13:55:00",
+    "time_start": "13:05:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "434": {
+    "_id": 434,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 296,
+      "title": "Master Class",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "master-class",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      352,
+      373,
+      385,
+      389,
+      394
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "435": {
+    "_id": 435,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 297,
+      "title": "Back to my Roots",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "back-to-my-roots",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      378,
+      381,
+      384,
+      390
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "436": {
+    "_id": 436,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 298,
+      "title": "Elizabeth Moen Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "elizabeth-moen-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      354,
+      378
+    ],
+    "time_end": "17:25:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "437": {
+    "_id": 437,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 299,
+      "title": "Influences",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "influences",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      353,
+      356,
+      375,
+      380,
+      397
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "438": {
+    "_id": 438,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 300,
+      "title": "Haley Heynderickx Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "haley-heynderickx-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      354,
+      375
+    ],
+    "time_end": "17:25:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "439": {
+    "_id": 439,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 301,
+      "title": "Which Side Are You On?",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "which-side-are-you-on",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      355,
+      360,
+      376,
+      377,
+      397
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "440": {
+    "_id": 440,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 302,
+      "title": "Ian Noe Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "ian-noe-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      351,
+      376
+    ],
+    "time_end": "18:45:00",
+    "time_start": "17:40:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "441": {
+    "_id": 441,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 303,
+      "title": "Jeffrey Martin Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "jeffrey-martin-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      377
+    ],
+    "time_end": "13:45:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "442": {
+    "_id": 442,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 304,
+      "title": "Wishes",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "wishes",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      356,
+      358,
+      369,
+      383,
+      400
+    ],
+    "time_end": "12:20:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "443": {
+    "_id": 443,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 305,
+      "title": "Jennifer Castle Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "jennifer-castle-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      352,
+      356
+    ],
+    "time_end": "16:05:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "444": {
+    "_id": 444,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 306,
+      "title": "Jesse Roper Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "jesse-roper-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      351,
+      359
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:40:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "445": {
+    "_id": 445,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 307,
+      "title": "Jesse Welles Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "jesse-welles-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      353,
+      360
+    ],
+    "time_end": "18:45:00",
+    "time_start": "17:40:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "446": {
+    "_id": 446,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 308,
+      "title": "A Sense of Wonder",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "a-sense-of-wonder",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      354,
+      357,
+      380,
+      392,
+      396
+    ],
+    "time_end": "12:20:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "447": {
+    "_id": 447,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 309,
+      "title": "Julianna Riolino Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "julianna-riolino-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      354,
+      357
+    ],
+    "time_end": "18:40:00",
+    "time_start": "17:40:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "448": {
+    "_id": 448,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 310,
+      "title": "K\u00edla Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "kila-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      353,
+      393
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "449": {
+    "_id": 449,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 311,
+      "title": "Ken Pomeroy Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "ken-pomeroy-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      352,
+      380
+    ],
+    "time_end": "17:20:00",
+    "time_start": "16:20:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "450": {
+    "_id": 450,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 312,
+      "title": "Kim Churchill Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "kim-churchill-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      354,
+      390
+    ],
+    "time_end": "18:40:00",
+    "time_start": "17:40:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "451": {
+    "_id": 451,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 313,
+      "title": "M\u0101m\u0101 Mihirangi & the M\u0101reikura Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "mama-mihirangi-the-mareikura-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      351,
+      392
+    ],
+    "time_end": "17:20:00",
+    "time_start": "16:20:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "452": {
+    "_id": 452,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 314,
+      "title": "Madi Diaz Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "madi-diaz-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      352,
+      391
+    ],
+    "time_end": "18:40:00",
+    "time_start": "17:40:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "453": {
+    "_id": 453,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 315,
+      "title": "Mama's Broke Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "mamas-broke-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      369
+    ],
+    "time_end": "17:15:00",
+    "time_start": "16:15:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "454": {
+    "_id": 454,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 316,
+      "title": "Marcus Trummer Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "marcus-trummer-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      354,
+      366
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:40:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "455": {
+    "_id": 455,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 317,
+      "title": "Martyn Joseph Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "martyn-joseph-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      396
+    ],
+    "time_end": "20:45:00",
+    "time_start": "19:30:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "456": {
+    "_id": 456,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 318,
+      "title": "On My Mind",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "on-my-mind",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      354,
+      387,
+      394,
+      396,
+      398
+    ],
+    "time_end": "12:20:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "457": {
+    "_id": 457,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 319,
+      "title": "Mary Gauthier Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "mary-gauthier-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      355,
+      397
+    ],
+    "time_end": "17:25:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 344,
+      "title": "Stage 6"
+    }
+  },
+  "458": {
+    "_id": 458,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 320,
+      "title": "Melissa Carper Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "melissa-carper-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      354,
+      398
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "459": {
+    "_id": 459,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 321,
+      "title": "Monophonics Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "monophonics-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      353,
+      399
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "460": {
+    "_id": 460,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 322,
+      "title": "Ryley Walker & Bill MacKay Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "ryley-walker-bill-mackay-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      352,
+      381
+    ],
+    "time_end": "17:25:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "461": {
+    "_id": 461,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 323,
+      "title": "School of Song Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "school-of-song-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      354,
+      382
+    ],
+    "time_end": "19:20:00",
+    "time_start": "18:00:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "462": {
+    "_id": 462,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 324,
+      "title": "Secondhand Dreamcar Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "secondhand-dreamcar-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      351,
+      395
+    ],
+    "time_end": "19:10:00",
+    "time_start": "18:00:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "463": {
+    "_id": 463,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 325,
+      "title": "Shaela Miller Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "shaela-miller-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      383
+    ],
+    "time_end": "16:05:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "464": {
+    "_id": 464,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 326,
+      "title": "Steph Strings Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "steph-strings-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      353,
+      384
+    ],
+    "time_end": "20:45:00",
+    "time_start": "19:30:00",
+    "venue": {
+      "_id": 342,
+      "title": "Stage 3"
+    }
+  },
+  "465": {
+    "_id": 465,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 327,
+      "title": "Talisk Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "talisk-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      354,
+      385
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 343,
+      "title": "Stage 5"
+    }
+  },
+  "466": {
+    "_id": 466,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 328,
+      "title": "The Sensational Barnes Brothers Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "the-sensational-barnes-brothers-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      351,
+      386
+    ],
+    "time_end": "16:05:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "467": {
+    "_id": 467,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 329,
+      "title": "The Slocan Ramblers Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "the-slocan-ramblers-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      387
+    ],
+    "time_end": "18:35:00",
+    "time_start": "17:30:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "468": {
+    "_id": 468,
+    "date_end": "2025-08-08",
+    "date_start": "2025-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 330,
+      "title": "Wesli Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-08",
+    "ref_date_end": "2025-08-08",
+    "slug": "wesli-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      351,
+      388
+    ],
+    "time_end": "20:30:00",
+    "time_start": "19:30:00",
+    "venue": {
+      "_id": 340,
+      "title": "Stage 1"
+    }
+  },
+  "469": {
+    "_id": 469,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 331,
+      "title": "Willi Carlisle Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "willi-carlisle-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      352,
+      394
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "470": {
+    "_id": 470,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 332,
+      "title": "Yasmin Williams Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "yasmin-williams-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      389
+    ],
+    "time_end": "18:40:00",
+    "time_start": "17:35:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "644": {
+    "_id": 644,
+    "date_end": "2025-08-10",
+    "date_start": "2025-08-10",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 264,
+      "title": "AHI Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-10",
+    "ref_date_end": "2025-08-10",
+    "slug": "ahi-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      352,
+      361
+    ],
+    "time_end": "18:40:00",
+    "time_start": "17:35:00",
+    "venue": {
+      "_id": 341,
+      "title": "Stage 2"
+    }
+  },
+  "647": {
+    "_id": 647,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 646,
+      "title": "N\u00eepis\u00eey Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "nipisiy-concert",
+    "sort_order": null,
+    "tags": [
+      145,
+      350,
+      358,
+      400
+    ],
+    "time_end": "12:55:00",
+    "time_start": "12:05:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  },
+  "706": {
+    "_id": 706,
+    "date_end": "2025-08-09",
+    "date_start": "2025-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 704,
+      "title": "Nikamowin",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2025-08-09",
+    "ref_date_end": "2025-08-09",
+    "slug": "nikamowin",
+    "sort_order": null,
+    "tags": [
+      145,
+      349,
+      350,
+      358,
+      705
+    ],
+    "time_end": "11:50:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 193,
+      "title": "Stage 7"
+    }
+  }
+}

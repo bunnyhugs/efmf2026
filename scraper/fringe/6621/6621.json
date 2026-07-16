@@ -1,0 +1,131 @@
+{
+  "image": "6621\\6621.jpg",
+  "title": "In Waking Life",
+  "description": "WINNER: BEST OF TORONTO FRINGE. The Synsk Sisters are back, Edmonton! Two charming psychics who are here to fix all of your problems (and ignore their own). An award-winning, laugh-out-loud comedy. “Unpredictably funny, ★★★★1/2” -Edmonton Journal. “You’d have to be made of stone not to laugh at this show” -Mooney on Theatre.",
+  "credits": "<strong>Playwright</strong>: Lauren Welchner &amp; Monica Bradford-Lea<br><strong>Cast</strong>: Lauren Welchner &amp; Monica Bradford-Lea<br/></br>",
+  "website": "https://spicyday.ca | @spicy_day",
+  "plain_language": "In Waking Life is a hilarious play about two kooky psychic sisters named Cora and Garnish Synsk. The sisters are running a secret psychic business at the Edmonton Fringe Festival, and you, the audience, are their customers. The sisters are excited to help you solve all of your problems, as they struggle to deal with their own.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Acacia Hall",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 05: Acacia Hall",
+  "locationId": 5,
+  "location": "05: Acacia Hall",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Death</div> </span>",
+  "location_html": "<h3>Acacia Hall</h3> <div class=\"addres-pin\"> <p>10433 83 Avenue</p> <p>T6E 2C7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>05: Acacia Hall</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51899100,-113.49884189&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43130",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-15 23:00:00",
+          "performanceDate": "15th August 2025 23:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43131",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-16 17:00:00",
+          "performanceDate": "16th August 2025 17:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43132",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-18 12:15:00",
+          "performanceDate": "18th August 2025 12:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43133",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-20 21:00:00",
+          "performanceDate": "20th August 2025 21:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43134",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-22 19:00:00",
+          "performanceDate": "22nd August 2025 19:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43135",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-23 14:15:00",
+          "performanceDate": "23rd August 2025 14:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6621",
+    "showAvailabilityInCalendar": true
+  }
+}

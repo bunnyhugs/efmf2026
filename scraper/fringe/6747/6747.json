@@ -1,0 +1,131 @@
+{
+  "image": "6747\\6747.jpg",
+  "title": "!SNAFU's Sexy Puppet Show (Epidermis Circus 2)",
+  "description": "NEW MADCAP VAUDEVILLE SHOW from the creators of EPIDERMIS CIRCUS (Fringe Holdover Winner) where everything becomes a puppet and either makes you laugh or turns you on. Watch Ingrid (Jim Henson Co &amp; Sesame) create an all-new live puppet film on stage using only a camera and her bare hands. \"MAGICAL. WICKEDLY FUNNY ★★★★★-FreePress",
+  "credits": "<strong>Playwright</strong>: Ingrid Hansen &amp; Britt Small<br/><strong>Director</strong>: Britt Small<br/><strong>Designers</strong>: Costume by JIMBO the Drag Clown. Music by Hank Pine and The Merkin Sisters.<br/>",
+  "website": "",
+  "plain_language": "Ingrid Hansen, a professional puppeteer, uses mini scenes and a camera to bring funny puppet characters to life. You watch Ingrid make a live puppet film. The tiny puppet performance is shown live on a big screen. The show is full of funny, surprising, and sometimes dark moments with a wild cast of characters.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Puppetry",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Fringe Theatre Arts Barns",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 01: ATB Westbury Theatre",
+  "locationId": 1,
+  "location": "01: ATB Westbury Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Death, Sexual Content, Smoke/Fog</div> </span>",
+  "location_html": "<h3>Fringe Theatre Arts Barns</h3> <div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>01: ATB Westbury Theatre</h3> <div class=\"addres-pin\"> <p>10330 84 AVE NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51987100,-113.49598200&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43980",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-15 12:00:00",
+          "performanceDate": "15th August 2025 12:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43981",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-16 21:00:00",
+          "performanceDate": "16th August 2025 21:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43982",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-18 17:00:00",
+          "performanceDate": "18th August 2025 17:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43983",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-20 19:00:00",
+          "performanceDate": "20th August 2025 19:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43984",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-22 14:00:00",
+          "performanceDate": "22nd August 2025 14:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43985",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-23 23:00:00",
+          "performanceDate": "23rd August 2025 23:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6747",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "image": "6648\\6648.jpg",
+  "title": "Who's Hosting?",
+  "description": "The beloved host of the biggest variety show on television, “The Show,” is dead. But the show must go on, so the race is on to discover... Who’s Hosting? Four chaotic contenders, a trivia buff, a gossip queen, an overly-cheery kids’ star and her puppet co-host, and... Cole, battle for the spotlight.",
+  "credits": "<strong>Playwright</strong>: Kyle Tobiasson, Jason Miller, Victoria Skorobohach<br><strong>Director</strong>: Victoria Skorobohach<br/><strong>Cast</strong>: Victoria Skorobohach, Jason Miller, Kyle Tobiasson, Josh Coss, Mia Cooksey<br/><strong>Stage Manager</strong>: Sarah Gardiner<br/></br>",
+  "website": "",
+  "plain_language": "Who's Hosting is a story about four game show guests competing to replace the recently deceased host for the biggest variety show \"The Show\". Each of the competing guests will demonstrate their vision for what \"The Show\" would be if they are the new host as they attempt to persuade the other competitors to choose them.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $12.00 inc $2.50 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Fringe Theatre Arts Barns",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 03: Nordic Studio Theatre",
+  "locationId": 3,
+  "location": "03: Nordic Studio Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content</div> </span>",
+  "location_html": "<h3>Fringe Theatre Arts Barns</h3> <div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>03: Nordic Studio Theatre</h3> <div class=\"addres-pin\"> <p>10330 84 Avenue NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51987100,-113.49598200&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43333",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-15 21:00:00",
+          "performanceDate": "15th August 2025 21:00",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43334",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-17 17:00:00",
+          "performanceDate": "17th August 2025 17:00",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43335",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:30",
+          "performanceRealTime": "2025-08-19 12:30:00",
+          "performanceDate": "19th August 2025 12:30",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43336",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-21 19:00:00",
+          "performanceDate": "21st August 2025 19:00",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43337",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:30",
+          "performanceRealTime": "2025-08-22 14:30:00",
+          "performanceDate": "22nd August 2025 14:30",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43338",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:30",
+          "performanceRealTime": "2025-08-24 16:30:00",
+          "performanceDate": "24th August 2025 16:30",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6648",
+    "showAvailabilityInCalendar": true
+  }
+}

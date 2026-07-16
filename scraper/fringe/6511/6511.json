@@ -1,0 +1,131 @@
+{
+  "image": "6511\\6511.jpg",
+  "title": "52 Stories",
+  "description": "Fresh off its award-winning, sold-out run at the Victoria Fringe, 52 Stories is a storytelling show that takes place inside the memory palace of Pick-of-the-Fringe award-winning storyteller Dave Morris. Come and enjoy some heartwarming and heartbreaking stories of family, friends, love, loss, and of course, memory.",
+  "credits": "<strong>Playwright</strong>: Dave Morris<br><strong>Cast</strong>: Dave Morris<br/></br>",
+  "website": "https://davemorris.tv",
+  "plain_language": "In 52 Stories, Dave Morris will memorize a shuffled deck of cards, recite the order for you, and teach you how it's done. All while telling you stories of his family, and his friends.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Gateway Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 06: The Gateway Theatre",
+  "locationId": 6,
+  "location": "06: The Gateway Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Death</div> </span>",
+  "location_html": "<h3>The Gateway Theatre</h3> <div class=\"addres-pin\"> <p>8529 Gateway Blvd</p> <p>T6E 6P3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>06: The Gateway Theatre</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52114748,-113.49475723&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42234",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:15",
+          "performanceRealTime": "2025-08-15 23:15:00",
+          "performanceDate": "15th August 2025 23:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42235",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-16 19:30:00",
+          "performanceDate": "16th August 2025 19:30",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42236",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-18 21:15:00",
+          "performanceDate": "18th August 2025 21:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42237",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-20 12:15:00",
+          "performanceDate": "20th August 2025 12:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42238",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-22 14:15:00",
+          "performanceDate": "22nd August 2025 14:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42239",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-23 17:00:00",
+          "performanceDate": "23rd August 2025 17:00",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6511",
+    "showAvailabilityInCalendar": true
+  }
+}

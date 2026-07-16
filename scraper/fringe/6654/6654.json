@@ -1,0 +1,148 @@
+{
+  "image": "6654\\6654.jpg",
+  "title": "It's Just You and Me",
+  "description": "Living in a dynamic and unpredictable world, we are all on a journey of continual reinvention. Sometimes change is welcomed and at other times, it is forced upon us by circumstance. What elements of ourselves do we choose to keep and which parts do we let go of? This contemporary dance show honours the many versions self.",
+  "credits": "<strong>Playwright</strong>: Stephanie Lilley<br/><strong>Director</strong>: Stephanie Lilley<br/><strong>Cast</strong>: Sarah Adam, June Chen, Hannah Chyz, Ruby Chyz, Em Erickson, Allison San Martin Fini, Hannah Ilkiw, Stephanie Lilley, Rebecca McLeod, April Seburn, Jason Romero, Kelsey Wright<br/>",
+  "website": "",
+  "plain_language": "This contemporary dance show looks at how people change throughout their lives. It celebrates the different versions of people.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Dance",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 55 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Roxy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 31: Nancy Power Theatre",
+  "locationId": 31,
+  "location": "31: Nancy Power Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Smoke/Fog</div> </span>",
+  "location_html": "<h3>The Roxy Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> <p>T5M 0H1</p> </div> <!--<a href=\"#\"></a>--> <span>780-453-2440</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>31: Nancy Power Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.55171317,-113.53618310&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43385",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-15 21:00:00",
+          "performanceDate": "15th August 2025 21:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43386",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-16 14:00:00",
+          "performanceDate": "16th August 2025 14:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43387",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-17 15:30:00",
+          "performanceDate": "17th August 2025 15:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43388",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-19 19:00:00",
+          "performanceDate": "19th August 2025 19:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43389",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-20 21:00:00",
+          "performanceDate": "20th August 2025 21:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43390",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-22 19:30:00",
+          "performanceDate": "22nd August 2025 19:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43391",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-23 15:30:00",
+          "performanceDate": "23rd August 2025 15:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6654",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "image": "6515\\6515.jpg",
+  "title": "The Witches",
+  "description": "In an era of terror and accusation, five women condemned as witches await execution. Facing death, they forge fierce bonds, expose brutal injustice, and rise in defiance. The Witches is a searing tale of resistance, sisterhood, and the unbreakable power of women under tyranny.",
+  "credits": "<strong>Playwright</strong>: Nicole Pontikes + Sarah Jackson<br/><strong>Director</strong>: Sarah Jackson<br/><strong>Cast</strong>: Elise Leske, Mila Whiting, Megan Strong, Anna Michelle, Emily Bettenson<br/>",
+  "website": "https://www.instagram.com/thewitchesplay",
+  "plain_language": "In a time of fear and blame, five women are called witches and sentenced to die. As they wait, they become close, learn the truth about what happened to them, and stand up for themselves. The Witches is a strong story about bravery, friendship, and standing up to unfair treatment.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Old Strathcona Performing Arts Centre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 08: Kick Point Old Strathcona Performing Arts Centre",
+  "locationId": 8,
+  "location": "08: Kick Point Old Strathcona Performing Arts Centre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Political Content, Religious Content, Sexual Violence, Violence</div> </span>",
+  "location_html": "<h3>Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> <p>T6E 4B4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>08: Kick Point Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52059939,-113.49560185&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42258",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-15 19:15:00",
+          "performanceDate": "15th August 2025 19:15",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42259",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:45",
+          "performanceRealTime": "2025-08-16 22:45:00",
+          "performanceDate": "16th August 2025 22:45",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42260",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-18 20:45:00",
+          "performanceDate": "18th August 2025 20:45",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42261",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-20 16:45:00",
+          "performanceDate": "20th August 2025 16:45",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42262",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-22 14:00:00",
+          "performanceDate": "22nd August 2025 14:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42263",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-24 12:00:00",
+          "performanceDate": "24th August 2025 12:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6515",
+    "showAvailabilityInCalendar": true
+  }
+}

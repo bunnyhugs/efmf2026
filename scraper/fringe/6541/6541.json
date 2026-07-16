@@ -1,0 +1,131 @@
+{
+  "image": "6541\\6541.jpg",
+  "title": "Enrichment Hour",
+  "description": "From the director of Rat Academy, come support the Calgary Zoo/Wilder Institute in a brand new initiative to give all the zoo animals a spot on an open mic. Zookeeper Chelsea has brought a variety of animals to perform many acts, from standup comedy to poetry to 'ponderings' on the nature of reincarnation.",
+  "credits": "<strong>Playwright</strong>: Three Cheese<br><strong>Director</strong>: Joseph McManus<br/><strong>Cast</strong>: Marlo Hepburn, Ciarán Volke, Joseph McManus<br/></br>",
+  "website": "https://instagram.com/threecheeseinstitute",
+  "plain_language": "Enrichment Hour is about a zookeeper named Chelsea who is hosting a variety show open mic for zoo animals from the Calgary Zoo. The animals express themselves through poetry, comedy, song, and even a slapstick brawl. At the end of the hour, the audience will find out exactly how these animals feel about life, love, and reincarnation.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Fringe Theatre Arts Barns",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 02: The Next Act Backstage Theatre",
+  "locationId": 2,
+  "location": "02: The Next Act Backstage Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Mental Illness/Disorders,</div> </span>",
+  "location_html": "<h3>Fringe Theatre Arts Barns</h3> <div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>02: The Next Act Backstage Theatre</h3> <div class=\"addres-pin\"> <p>10330 84 Avenue NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51987100,-113.49598200&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42423",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-15 21:00:00",
+          "performanceDate": "15th August 2025 21:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42424",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-16 12:15:00",
+          "performanceDate": "16th August 2025 12:15",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42425",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-18 19:00:00",
+          "performanceDate": "18th August 2025 19:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42426",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-19 14:15:00",
+          "performanceDate": "19th August 2025 14:15",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42427",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-21 17:00:00",
+          "performanceDate": "21st August 2025 17:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42428",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-23 23:00:00",
+          "performanceDate": "23rd August 2025 23:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6541",
+    "showAvailabilityInCalendar": true
+  }
+}

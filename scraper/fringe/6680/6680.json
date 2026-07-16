@@ -1,0 +1,148 @@
+{
+  "image": "6680\\6680.jpg",
+  "title": "jem rolls ADVENTURES IN CANADIAN PARKING LOTS",
+  "description": "High-energy English performance poet. Has done more Fringe Festivals than anyone on earth this century. Brand new show featuring dumb comedy, smart comedy, dark tales &amp; lyrical poetry. 45+ ★★★★★ reviews. 200+ ★★★★. “Dynamic, hilarious, riveting.” ★★★★★ Winnipeg Free Press. “Highest calibre... Genius.” ★★★★★ Montreal Gazette.",
+  "credits": "<strong>Playwright</strong>: jem rolls<br/><strong>Director</strong>: jem rolls<br/>",
+  "website": "",
+  "plain_language": "A man walks on stage and talks for an hour. He uses his voice, face, and arms a lot. What he says and does are short performance poems. There are about twelve in the show, and each one is different. Some are funny, some silly, and some clever. Two try to sound beautiful. One is a short story. One is about the environment and the future. One is fast and intense. Jem says nice things about Canada. In the last piece, the audience becomes God. Then the show ends, and everyone leaves.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Performance Poetry/Spoken Word",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Old Strathcona Performing Arts Centre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 08: Kick Point Old Strathcona Performing Arts Centre",
+  "locationId": 8,
+  "location": "08: Kick Point Old Strathcona Performing Arts Centre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Cartoonish Violence, Drugs/Alcohol</div> </span>",
+  "location_html": "<h3>Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> <p>T6E 4B4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>08: Kick Point Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52059939,-113.49560185&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43586",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-14 22:00:00",
+          "performanceDate": "14th August 2025 22:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43587",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:45",
+          "performanceRealTime": "2025-08-16 18:45:00",
+          "performanceDate": "16th August 2025 18:45",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43588",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-17 17:00:00",
+          "performanceDate": "17th August 2025 17:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43589",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-19 14:15:00",
+          "performanceDate": "19th August 2025 14:15",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43590",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-21 20:45:00",
+          "performanceDate": "21st August 2025 20:45",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43591",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-22 12:00:00",
+          "performanceDate": "22nd August 2025 12:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43592",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:15",
+          "performanceRealTime": "2025-08-24 18:15:00",
+          "performanceDate": "24th August 2025 18:15",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6680",
+    "showAvailabilityInCalendar": true
+  }
+}

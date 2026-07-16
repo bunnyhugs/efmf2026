@@ -1,0 +1,165 @@
+{
+  "image": "6574\\6574.jpg",
+  "title": "Moonshine",
+  "description": "Inspired by her travels back to Ukraine, a young woman explores the impact of digging up your roots over shots of hooch. Its a Ukrainian kitchen-party with a live-band, if a Ukrainian kitchen party was held in a fried chicken restaurant.. Pull up a chair, grab a tasty bite, and raise your glass in a celebration of life. BUD’MO!",
+  "credits": "<strong>Playwright</strong>: Larissa Poho<br/><strong>Director</strong>: Mel Bahniuk<br/><strong>Cast</strong>: Larissa Poho, Billy Brown, Marissa Karpiak, Scott Shpeley, Jordan Welbourne<br/><strong>Designers</strong>: Andraya Diogo<br/>",
+  "website": "https://www.instagram.com/mavkatheatre",
+  "plain_language": "MOONSHINE is an immersive show with live music, set in a real restaurant. Through stories and toasts, it explores identity, community, and Ukrainian heritage. Performed mainly in English with some Ukrainian, the audience is invited to raise a glass, but drinking is completely optional. \"Bud’mo!\" means “Cheers!” in Ukrainian.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 21, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Waffle Bird",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 35: Waffle Bird",
+  "locationId": 35,
+  "location": "35: Waffle Bird",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Drugs/Alcohol, Mental Illness/Disorders</div> </span>",
+  "location_html": "<h3>Waffle Bird</h3> <div class=\"addres-pin\"> <p>10347 80 Ave NW</p> <p>T6E 1T8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>35: Waffle Bird</h3> <div class=\"addres-pin\"> <p>10347 80 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51584000,-113.49564672&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42689",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42690",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-15 22:00:00",
+          "performanceDate": "15th August 2025 22:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42691",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-16 22:00:00",
+          "performanceDate": "16th August 2025 22:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42692",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-17 20:00:00",
+          "performanceDate": "17th August 2025 20:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42693",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-18 19:30:00",
+          "performanceDate": "18th August 2025 19:30",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42694",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-19 19:30:00",
+          "performanceDate": "19th August 2025 19:30",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42695",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-20 19:30:00",
+          "performanceDate": "20th August 2025 19:30",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42696",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-21 19:30:00",
+          "performanceDate": "21st August 2025 19:30",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6574",
+    "showAvailabilityInCalendar": true
+  }
+}

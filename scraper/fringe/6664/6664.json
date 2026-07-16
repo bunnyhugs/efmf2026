@@ -1,0 +1,148 @@
+{
+  "image": "6664\\6664.jpg",
+  "title": "The Peter Pan Cometh",
+  "description": "Hook, Tinker, and Smee all dreamed of a life outside of their Neverland. Then along came Peter. From those who brought 2024's \"Who's Afraid of Winnie the Pooh?\"; it's The Ice Man Cometh, but Peter Pan. \"Clever, smart, ridiculous, and well executed\" - Cherry &amp; Spoon. \"Another triumph for the company\" - The Stages of MN.",
+  "credits": "<strong>Director</strong>: Alexander Gerchak<br><strong>Cast</strong>: Alec Berchem; Thomas Buan; Nick Hill; Isabelle Hopewell<br/><strong>Designers</strong>: Genevieve Kafka; Connor McEvoy<br/><strong>Stage Manager</strong>: Karina Hunt<br/></br>",
+  "website": "https://instagram.com/clevernametheatre",
+  "plain_language": "The Peter Pan Cometh is about the pirate Captain Hook, his first mate Smee, and the faerie Tinkerbell, who are visited by their friend Peter Pan. When Peter Pan visits, he tells the others that he has grown up, and will help them grow up too. However, as time passes it becomes clear that things might not be what they seem.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $18.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Walterdale Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 04: MacEwan Fine Arts Walterdale Theatre",
+  "locationId": 4,
+  "location": "04: MacEwan Fine Arts Walterdale Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Death, Drugs/Alcohol, Suicide, Violence</div> </span>",
+  "location_html": "<h3>Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Ave NW</p> <p>T6E 5C3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>04: MacEwan Fine Arts Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Avenue Northwest</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51933052,-113.49615601&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43464",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-15 14:00:00",
+          "performanceDate": "15th August 2025 14:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43465",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:45",
+          "performanceRealTime": "2025-08-16 18:45:00",
+          "performanceDate": "16th August 2025 18:45",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43466",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-17 12:00:00",
+          "performanceDate": "17th August 2025 12:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43467",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:30",
+          "performanceRealTime": "2025-08-19 21:30:00",
+          "performanceDate": "19th August 2025 21:30",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43468",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-21 16:45:00",
+          "performanceDate": "21st August 2025 16:45",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43469",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:30",
+          "performanceRealTime": "2025-08-22 23:30:00",
+          "performanceDate": "22nd August 2025 23:30",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43470",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-23 16:45:00",
+          "performanceDate": "23rd August 2025 16:45",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6664",
+    "showAvailabilityInCalendar": true
+  }
+}

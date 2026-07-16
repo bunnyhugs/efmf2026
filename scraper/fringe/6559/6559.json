@@ -1,0 +1,182 @@
+{
+  "image": "6559\\6559.jpg",
+  "title": "This Play Has Zombies",
+  "description": "A theatre troupe find themselves trapped in a rehearsal hall by a zombie horde. The group has been rehearsing for a production of \"Henry V\" and are consequently practised in weapons, stage fighting, and dramatics. But are the friends ready for a true fight for their lives?",
+  "credits": "<strong>Playwright</strong>: Todd Trimble<br/><strong>Director</strong>: Katie Fournell<br/><strong>Cast</strong>: Logan Coutts, Anne-Marie Cotton, Taylor Krake<br/>",
+  "website": "https://www.instagram.com/erraticplayers",
+  "plain_language": "A theatre group gets trapped in their rehearsal hall by zombies. They’re good at stage fighting, but can they survive a real fight?",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $17.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>La Cité Francophone",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 14: Café Bicyclette Stage",
+  "locationId": 14,
+  "location": "14: Café Bicyclette Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Strobe Lights, Violence</div> </span>",
+  "location_html": "<h3>La Cité Francophone</h3> <div class=\"addres-pin\"> <p>8627 rue Marie Anne Gaboury (91 Street)</p> <p>T6C 3N1</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>14: Café Bicyclette Stage</h3> <div class=\"addres-pin\"> <p>8627 91 Street</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52245100,-113.46643800&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42566",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-15 19:00:00",
+          "performanceDate": "15th August 2025 19:00",
+          "availability": 149,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42567",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-16 12:00:00",
+          "performanceDate": "16th August 2025 12:00",
+          "availability": 148,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42568",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-18 22:30:00",
+          "performanceDate": "18th August 2025 22:30",
+          "availability": 149,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42569",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:45",
+          "performanceRealTime": "2025-08-19 13:45:00",
+          "performanceDate": "19th August 2025 13:45",
+          "availability": 149,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42570",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-20 15:30:00",
+          "performanceDate": "20th August 2025 15:30",
+          "availability": 149,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42571",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-21 17:15:00",
+          "performanceDate": "21st August 2025 17:15",
+          "availability": 149,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42572",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-22 22:30:00",
+          "performanceDate": "22nd August 2025 22:30",
+          "availability": 149,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42573",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-23 20:45:00",
+          "performanceDate": "23rd August 2025 20:45",
+          "availability": 149,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42574",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-24 12:00:00",
+          "performanceDate": "24th August 2025 12:00",
+          "availability": 149,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6559",
+    "showAvailabilityInCalendar": true
+  }
+}

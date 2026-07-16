@@ -1,0 +1,182 @@
+{
+  "image": "6710\\6710.jpg",
+  "title": "Romeo & Juliet's Notebook",
+  "description": "Two households, both alike in dignity, in fair Strathcona where we lay our scene. Join Romeo Yellowhead and Juliet Henday, star-crossed lovers from different sides of town in an all new parody musical mashup from Spotlight Cabaret at The Garneau Theatre! This tragic romance is packed with passion, puns and pop hits.",
+  "credits": "<strong>Playwright</strong>: Aimée Beaudoin and Jeff Halaby<br/><strong>Director</strong>: John Hudson<br/><strong>Cast</strong>: Aimée Beaudoin, Jeff Halaby, Tyler Pinsent, Abby Vandenberghe<br/><strong>Designers</strong>: Aaron Macri<br/>",
+  "website": "",
+  "plain_language": "In Strathcona, two teens from very different families fall in love. Romeo Yellowhead and Juliet Henday must fight against their families, friends, and the world just to be together. Their story is told through a notebook Romeo keeps for Juliet, filled with memories of their love. Romeo &amp; Juliet’s Notebook is a fun and emotional musical parody with pop songs, mashups, and Spotlight Cabaret’s signature humour. Performed at the Garneau Theatre, this show is full of love, drama, and unforgettable moments.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Garneau Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 24: Garneau Theatre",
+  "locationId": 24,
+  "location": "24: Garneau Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Death, Gunshots, Smoke/Fog</div> </span>",
+  "location_html": "<h3>Garneau Theatre</h3> <div class=\"addres-pin\"> <p>8712 109 Street</p> <p>T6G 3E9</p> </div> <!--<a href=\"#\"></a>--> <span>780-425-9212</span> <a href=\"mailto:director@metrocinema.org\">director@metrocinema.org</a> <h3>24: Garneau Theatre</h3> <div class=\"addres-pin\"> <p>8712 109 Street</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52311186,-113.51231396&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43809",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:45",
+          "performanceRealTime": "2025-08-15 18:45:00",
+          "performanceDate": "15th August 2025 18:45",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43810",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-16 16:45:00",
+          "performanceDate": "16th August 2025 16:45",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43811",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-17 19:00:00",
+          "performanceDate": "17th August 2025 19:00",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43812",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-18 16:45:00",
+          "performanceDate": "18th August 2025 16:45",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43813",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-20 16:45:00",
+          "performanceDate": "20th August 2025 16:45",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43814",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:45",
+          "performanceRealTime": "2025-08-21 18:45:00",
+          "performanceDate": "21st August 2025 18:45",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43815",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-22 16:45:00",
+          "performanceDate": "22nd August 2025 16:45",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43816",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:45",
+          "performanceRealTime": "2025-08-23 12:45:00",
+          "performanceDate": "23rd August 2025 12:45",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43817",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-24 17:00:00",
+          "performanceDate": "24th August 2025 17:00",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6710",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "image": "6586\\6586.jpg",
+  "title": "The Nix",
+  "description": "A ghost asks you for one teeny tiny favour. Just this once. Pretty please? A site-specific storytelling walk into Edmonton’s history. \"Pasold successfully casts a spell over her audience with subtlety and grace.\" - New Orleans Defender [This show involves walking outside rain or shine.]",
+  "credits": "<strong>Playwright</strong>: Lisa Pasold<br><strong>Director</strong>: Bremner Duthie<br/><strong>Cast</strong>: Lisa Pasold<br/></br>",
+  "website": "https://lisapasold.com",
+  "plain_language": "In this show, we go for a walk near the Fringe site. Lisa tells a story about a ghost who wants their picture taken. Will you help the ghost? Should you help the ghost? What do you think ghosts really want from us? Lisa talks about the history of photography, and how old cameras worked (which is very different from our phone cameras today!) This story takes place over 100 years ago, when Edmonton looked very different.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 55 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Haunted Corner",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 40: Haunted Corner",
+  "locationId": 40,
+  "location": "40: Haunted Corner",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content</div> </span>",
+  "location_html": "<h3>Haunted Corner</h3> <div class=\"addres-pin\"> <p>Corner of 84 Avenue &amp; 104 Street</p> <p></p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>40: Haunted Corner</h3> <div class=\"addres-pin\"> <p>Corner of 84 Avenue &amp; 104 Street</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52010897,-113.49737782&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42789",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42790",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-15 21:00:00",
+          "performanceDate": "15th August 2025 21:00",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42791",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:30",
+          "performanceRealTime": "2025-08-16 20:30:00",
+          "performanceDate": "16th August 2025 20:30",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42792",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-17 12:00:00",
+          "performanceDate": "17th August 2025 12:00",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42793",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-18 20:00:00",
+          "performanceDate": "18th August 2025 20:00",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42794",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-19 20:00:00",
+          "performanceDate": "19th August 2025 20:00",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42795",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:30",
+          "performanceRealTime": "2025-08-20 12:30:00",
+          "performanceDate": "20th August 2025 12:30",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42796",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-21 20:00:00",
+          "performanceDate": "21st August 2025 20:00",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42797",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-22 17:30:00",
+          "performanceDate": "22nd August 2025 17:30",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42798",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-23 12:00:00",
+          "performanceDate": "23rd August 2025 12:00",
+          "availability": 17,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6586",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "image": "6514\\6514.jpg",
+  "title": "A Doll's House (No Relation)",
+  "description": "Doll is a serial killer. Doll is an artist. Doll is an utter loser. They want to be great, the next BTK or Son of Sam. That's what this show is. A chance to convince you that they can be the next big thing. Will Doll be able to overcome their awkwardness and disturbing demeanour to do so? Not really. But they'll try.",
+  "credits": "<strong>Playwright</strong>: Phoenix McLeod<br/><strong>Director</strong>: Phoenix McLeod<br/><strong>Cast</strong>: Madeline Podlubny<br/><strong>Designers</strong>: Annika Schultz<br/>",
+  "website": "https://instagram.com/fuguestateprod",
+  "plain_language": "A darkly funny one-man show starring Doll, who wants to be a famous serial killer. Doll is desperate to prove they’re brilliant, edgy, and the next big thing. They’ll rant, ramble, and reveal their crimes... but can they actually win you over? Probably not, but they will try!",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $12.00 inc $2.50 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Walterdale Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 04: MacEwan Fine Arts Walterdale Theatre",
+  "locationId": 4,
+  "location": "04: MacEwan Fine Arts Walterdale Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Drugs/Alcohol, Mental Illness/Disorders, Violence</div> </span>",
+  "location_html": "<h3>Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Ave NW</p> <p>T6E 5C3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>04: MacEwan Fine Arts Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Avenue Northwest</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51933052,-113.49615601&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42252",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-15 12:00:00",
+          "performanceDate": "15th August 2025 12:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42253",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-17 19:15:00",
+          "performanceDate": "17th August 2025 19:15",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42254",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-19 17:00:00",
+          "performanceDate": "19th August 2025 17:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42255",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-21 20:45:00",
+          "performanceDate": "21st August 2025 20:45",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42256",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:45",
+          "performanceRealTime": "2025-08-23 22:45:00",
+          "performanceDate": "23rd August 2025 22:45",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42257",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-24 14:15:00",
+          "performanceDate": "24th August 2025 14:15",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6514",
+    "showAvailabilityInCalendar": true
+  }
+}

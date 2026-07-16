@@ -1,0 +1,131 @@
+{
+  "image": "6521\\6521.jpg",
+  "title": "Macbeth",
+  "description": "This new opera sets the text of Shakespeare’s great tragedy Macbeth. It is a story of ruthless aggression and ambition and the eventual fall. This work was composed by J. A. Creaghan and is performed by the New Era Group under the direction of conductor Don Ross.",
+  "credits": "<strong>Playwright</strong>: W. Shakespeare<br/><strong>Director</strong>: Andrew Creaghan and Don Ross<br/><strong>Cast</strong>: 10 musicians and 7 singers--- New Era Group<br/>",
+  "website": "https://acreaghan.com",
+  "plain_language": "This new opera tells the story of Shakespeare’s tragedy Macbeth. It’s about a man and his wife who will do anything to become King and Queen of Scotland. In the end, they lose everything, even their lives. The music was written by J. A. Creaghan and is performed by the New Era Group, led by conductor Don Ross.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Fringe Theatre Arts Barns",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 01: ATB Westbury Theatre",
+  "locationId": 1,
+  "location": "01: ATB Westbury Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Death,</div> </span>",
+  "location_html": "<h3>Fringe Theatre Arts Barns</h3> <div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>01: ATB Westbury Theatre</h3> <div class=\"addres-pin\"> <p>10330 84 AVE NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51987100,-113.49598200&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42294",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-15 14:15:00",
+          "performanceDate": "15th August 2025 14:15",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42295",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-17 19:00:00",
+          "performanceDate": "17th August 2025 19:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42296",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-18 12:00:00",
+          "performanceDate": "18th August 2025 12:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42297",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-20 21:15:00",
+          "performanceDate": "20th August 2025 21:15",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42298",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-22 17:00:00",
+          "performanceDate": "22nd August 2025 17:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42299",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-24 18:00:00",
+          "performanceDate": "24th August 2025 18:00",
+          "availability": 288,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6521",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "image": "6759\\6759.jpeg",
+  "title": "Jon Bennett's Friends Present: CANADON'T",
+  "description": "Due all the issues in the US, Jon Bennett (AMERICAN’T) is once again STUCK in the US of A… *sigh* BUT an array of his most talented pals have decided to fill in. Hosted (virtually) by Jon Bennett.",
+  "credits": "<strong>Playwright</strong>: JON BENNETT<br/><strong>Director</strong>: JON BENNETT<br/><strong>Cast</strong>: JON BENNETT<br/><strong>Designers</strong>: JON BENNETT<br/><strong>Stage Manager</strong>: JON BENNETT<br/>",
+  "website": "https://jonbennettcomedy.com",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 16-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Mile Zero Dance Society",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 20: Mile Zero Dance",
+  "locationId": 20,
+  "location": "20: Mile Zero Dance",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Drugs/Alcohol, Mental Illness/Disorders, Political Content, Sexual Content, Violence,</div> </span>",
+  "location_html": "<h3>Mile Zero Dance Society</h3> <div class=\"addres-pin\"> <p></p> <p>T6E 1N6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>20: Mile Zero Dance</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "",
+  "performances": {
+    "dates": [
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-16": [
+        {
+          "id": "601:44036",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-16 20:15:00",
+          "performanceDate": "16th August 2025 20:15",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:44037",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:45",
+          "performanceRealTime": "2025-08-17 15:45:00",
+          "performanceDate": "17th August 2025 15:45",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:44038",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-19 17:30:00",
+          "performanceDate": "19th August 2025 17:30",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:44039",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-20 23:00:00",
+          "performanceDate": "20th August 2025 23:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:44040",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:15",
+          "performanceRealTime": "2025-08-21 15:15:00",
+          "performanceDate": "21st August 2025 15:15",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:44041",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-22 22:00:00",
+          "performanceDate": "22nd August 2025 22:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:44042",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-23 20:15:00",
+          "performanceDate": "23rd August 2025 20:15",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:44043",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-24 14:00:00",
+          "performanceDate": "24th August 2025 14:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6759",
+    "showAvailabilityInCalendar": true
+  }
+}

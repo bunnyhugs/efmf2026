@@ -1,0 +1,148 @@
+{
+  "image": "6673\\6673.jpg",
+  "title": "Cadaver Synod",
+  "description": "In this new dark comedy by the creators of 638 Ways to Kill Castro, a medieval emperor and his allies take on an absurd task; dig up the long-dead Pope who betrayed them, and put his corpse on trial. But between riots in the Vatican and growing signs that the Pope may not be so dead after all, can they survive the Cadaver Synod?",
+  "credits": "<strong>Playwright</strong>: Sebastian Ley<br/><strong>Director</strong>: Kathleen Weiss<br/><strong>Cast</strong>: Samuel Bronson, David Ley, Michael Watt<br/><strong>Designers</strong>: Sarah Fett<br/><strong>Stage Manager</strong>: Lauren Belter<br/>",
+  "website": "https://vaulttheatre.net | https://instagram.com/vaulttheatreyeg",
+  "plain_language": "Cadaver Synod happens in the Dark Ages. It follows the story of an ill-fated plan to put the dead body of a Pope on trial. From the creators of 638 Ways to Kill Castro, this new dark comedy is based on true history.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $15.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Roxy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 31: Nancy Power Theatre",
+  "locationId": 31,
+  "location": "31: Nancy Power Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Cartoonish Violence, Death, Religious Content</div> </span>",
+  "location_html": "<h3>The Roxy Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> <p>T5M 0H1</p> </div> <!--<a href=\"#\"></a>--> <span>780-453-2440</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>31: Nancy Power Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.55171317,-113.53618310&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43531",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-15 19:00:00",
+          "performanceDate": "15th August 2025 19:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43532",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-16 18:30:00",
+          "performanceDate": "16th August 2025 18:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43533",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-17 17:30:00",
+          "performanceDate": "17th August 2025 17:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43534",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-20 15:00:00",
+          "performanceDate": "20th August 2025 15:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43535",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:30",
+          "performanceRealTime": "2025-08-21 21:30:00",
+          "performanceDate": "21st August 2025 21:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43536",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-22 15:00:00",
+          "performanceDate": "22nd August 2025 15:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43537",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-23 19:00:00",
+          "performanceDate": "23rd August 2025 19:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6673",
+    "showAvailabilityInCalendar": true
+  }
+}

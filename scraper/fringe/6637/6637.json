@@ -1,0 +1,131 @@
+{
+  "image": "6637\\6637.jpg",
+  "title": "PALOMA & JOY",
+  "description": "Once a world famous magical act, Paloma &amp; Joy have seen their star decline. In a desperate attempt to keep their claws hooked into success, they take on a new guest star - a rare and exotic white tiger. Past hits- DESTINATION WEDDING, DESTINATION VEGAS, LADY PORN and BLACK WIDOW GUN CLUB.",
+  "credits": "<strong>Playwright</strong>: Trevor Schmidt<br><strong>Director</strong>: Trevor Schmidt<br/><strong>Cast</strong>: Michelle Todd, Kristin Johnston, Cheryl Jameson<br/><strong>Designers</strong>: Trevor Schmidt | Sound Designer &amp; Composer: David Clarke<br/></br>",
+  "website": "https://whizgiggling.com",
+  "plain_language": "Two failed magicians hire a guest artist to save their flagging act. A power struggle and disaster ensue.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Gateway Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 06: The Gateway Theatre",
+  "locationId": 6,
+  "location": "06: The Gateway Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Violence</div> </span>",
+  "location_html": "<h3>The Gateway Theatre</h3> <div class=\"addres-pin\"> <p>8529 Gateway Blvd</p> <p>T6E 6P3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>06: The Gateway Theatre</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52114748,-113.49475723&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43250",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-14 23:59:00",
+          "performanceDate": "14th August 2025 23:59",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:43251",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-15 19:00:00",
+          "performanceDate": "15th August 2025 19:00",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43252",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-17 12:15:00",
+          "performanceDate": "17th August 2025 12:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43253",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-19 17:30:00",
+          "performanceDate": "19th August 2025 17:30",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43254",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-21 14:15:00",
+          "performanceDate": "21st August 2025 14:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43255",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-23 21:00:00",
+          "performanceDate": "23rd August 2025 21:00",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6637",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "image": "6595\\6595.jpg",
+  "title": "Off Book: The Improvised Musical",
+  "description": "Off Book has entertained thousands of audience members for over a decade with fully improvised musicals. From a single suggestion the seasoned cast of comedians will create an entirely new musical, complete with brand new songs and choreography every time. \"They've perfected the craft...see it twice\" ★★★★★ Edmonton Journal",
+  "credits": "<strong>Cast</strong>: Marguerite Lawler, Erik Mortimer, Joleen Ballendine, Chris Borger, Quinn Contini, Katie Turner<br/>",
+  "website": "https://www.instagram.com/offbooktheimprovisedmusical",
+  "plain_language": "Off Book: The Improvised Musical is an improvised musical, completely made up on the spot. Every show is brand new, from the dancing to the singing to the stories. The audience will give one suggestion to inspire the whole show!",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Improv/Sketch",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 22, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Rapid Fire Exchange",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 12: Rapid Fire Exchange",
+  "locationId": 12,
+  "location": "12: Rapid Fire Exchange",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content,</div> </span>",
+  "location_html": "<h3>Rapid Fire Exchange</h3> <div class=\"addres-pin\"> <p></p> <p>T6E 2C7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>12: Rapid Fire Exchange</h3> <div class=\"addres-pin\"> <p>10437 83 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51909847,-113.49912242&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42862",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 39,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42863",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-15 20:00:00",
+          "performanceDate": "15th August 2025 20:00",
+          "availability": 139,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42864",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:15",
+          "performanceRealTime": "2025-08-17 18:15:00",
+          "performanceDate": "17th August 2025 18:15",
+          "availability": 139,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42865",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:15",
+          "performanceRealTime": "2025-08-18 18:15:00",
+          "performanceDate": "18th August 2025 18:15",
+          "availability": 139,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42866",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:30",
+          "performanceRealTime": "2025-08-19 16:30:00",
+          "performanceDate": "19th August 2025 16:30",
+          "availability": 139,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42867",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:45",
+          "performanceRealTime": "2025-08-20 14:45:00",
+          "performanceDate": "20th August 2025 14:45",
+          "availability": 139,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42868",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:45",
+          "performanceRealTime": "2025-08-21 21:45:00",
+          "performanceDate": "21st August 2025 21:45",
+          "availability": 139,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42869",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-22 20:00:00",
+          "performanceDate": "22nd August 2025 20:00",
+          "availability": 139,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6595",
+    "showAvailabilityInCalendar": true
+  }
+}

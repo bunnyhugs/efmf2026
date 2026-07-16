@@ -1,0 +1,182 @@
+{
+  "image": "6579\\6579.jpg",
+  "title": "100% UnTrueBadour!",
+  "description": "As if Salvador Dali and Willie Nelson made a musical COMEDY. “Mark Twain on acid”- Artistry Mag 20X BEST OF FEST Winners (Tales Too Tall for Trailers ★★★★★ Edm Sun / Away, Now ★★★★★ - Free Press) Paul Strickland &amp; Erika MacDonald’s one-man show, interrupted by a hilarious guest. Don't miss this surreal SONG-FILLED LAUGH FEST!",
+  "credits": "<strong>Playwright</strong>: Paul Strickland<br/><strong>Director</strong>: Erika MacDonald<br/><strong>Cast</strong>: Paul Strickland, Erika MacDonald<br/><strong>Designers</strong>: Erika MacDonald<br/>",
+  "website": "https://ainttrue.com",
+  "plain_language": "A man plays surreal songs about his make-believe hometown. A woman with a head made out of wool, who happens to also be from his hometown, comes into the show late. They sing songs together and reminisce.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Roots on Whyte Community Building",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 28: Roots on Whyte Community Building (Unit 305)",
+  "locationId": 28,
+  "location": "28: Roots on Whyte Community Building (Unit 305)",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "",
+  "location_html": "<h3>Roots on Whyte Community Building</h3> <div class=\"addres-pin\"> <p></p> <p>T6E 4A4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>28: Roots on Whyte Community Building (Unit 305)</h3> <div class=\"addres-pin\"> <p>Unit 305</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51795098,-113.49363908&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42730",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-15 18:30:00",
+          "performanceDate": "15th August 2025 18:30",
+          "availability": 86,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42731",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-16 20:00:00",
+          "performanceDate": "16th August 2025 20:00",
+          "availability": 86,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42732",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:30",
+          "performanceRealTime": "2025-08-17 13:30:00",
+          "performanceDate": "17th August 2025 13:30",
+          "availability": 86,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42733",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-18 16:45:00",
+          "performanceDate": "18th August 2025 16:45",
+          "availability": 86,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42734",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-20 20:15:00",
+          "performanceDate": "20th August 2025 20:15",
+          "availability": 86,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42735",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-21 20:15:00",
+          "performanceDate": "21st August 2025 20:15",
+          "availability": 86,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42736",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-22 16:45:00",
+          "performanceDate": "22nd August 2025 16:45",
+          "availability": 86,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42737",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:15",
+          "performanceRealTime": "2025-08-23 18:15:00",
+          "performanceDate": "23rd August 2025 18:15",
+          "availability": 86,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42738",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:45",
+          "performanceRealTime": "2025-08-24 13:45:00",
+          "performanceDate": "24th August 2025 13:45",
+          "availability": 86,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6579",
+    "showAvailabilityInCalendar": true
+  }
+}

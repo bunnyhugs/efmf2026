@@ -1,0 +1,131 @@
+{
+  "image": "6526\\6526.jpg",
+  "title": "You've Been Served",
+  "description": "In this comedic one-woman show, Noemi Zeigler gets served divorce papers on the top of a garbage bin, reigniting her dream to be a singer. A record producer slash spiritual guru leads her on an ayahuasca-fuelled trip",
+  "credits": "<strong>Playwright</strong>: Noemi Zeigler<br/><strong>Director</strong>: Dramaturgy by David Ford<br/><strong>Cast</strong>: Noemi Zeigler<br/>",
+  "website": "https://madelineminx.com SOCIALS @madelineminx",
+  "plain_language": "In this funny one-woman show, Noemi Zeigler gets divorce papers while taking out the garbage. This moment makes her want to become a singer again. A music producer who is also a spiritual guru offers her a record deal and gives her a plant medicine that takes her on a wild trip. She joins a cult, gets baptized in a swimming pool, and learns that perimenopause is kind of like going through puberty all over again.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $15.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 19, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Gateway Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 06: The Gateway Theatre",
+  "locationId": 6,
+  "location": "06: The Gateway Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol, Sexual Content, Sexual Violence,</div> </span>",
+  "location_html": "<h3>The Gateway Theatre</h3> <div class=\"addres-pin\"> <p>8529 Gateway Blvd</p> <p>T6E 6P3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>06: The Gateway Theatre</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52114748,-113.49475723&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42328",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42329",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-15 17:00:00",
+          "performanceDate": "15th August 2025 17:00",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42330",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-16 12:15:00",
+          "performanceDate": "16th August 2025 12:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42331",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:30",
+          "performanceRealTime": "2025-08-17 14:30:00",
+          "performanceDate": "17th August 2025 14:30",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42332",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:15",
+          "performanceRealTime": "2025-08-18 23:15:00",
+          "performanceDate": "18th August 2025 23:15",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42333",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:45",
+          "performanceRealTime": "2025-08-19 19:45:00",
+          "performanceDate": "19th August 2025 19:45",
+          "availability": 101,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6526",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "image": "6518\\6518.jpg",
+  "title": "Bomb",
+  "description": "Dora Award winning director Lianna Makuch helms the Canadian premiere of Bomb by Ukrainian playwright Natalia Blok, featuring a star-studded cast (Rachel Bowron, Brett Dahl, Mariya Khomutova, and James MacDonald). Explosively funny and razor sharp, Bomb is a dark absurdist comedy that detonates with wit and strikes deep.",
+  "credits": "<strong>Playwright</strong>: Natalia Blok<br><strong>Director</strong>: Lianna Makuch<br/><strong>Cast</strong>: Rachel Bowron, Brett Dahl, Mariya Khomutova, James MacDonald<br/><strong>Designers</strong>: Stephanie Bahniuk (Production), Bernardo Pacheco (Sound)<br/><strong>Stage Manager</strong>: Lore Green | PRODUCER Sheiny Satanove<br/></br>",
+  "website": "https://pyreticproductions.ca | @pyretic.theatre",
+  "plain_language": "Bomb is a dark comedy about Dasha, a Ukrainian activist whose brain won’t shut up. The year is 2017. Dasha is trying to save the world, fix her relationship, and get her therapist to stop asking questions she doesn’t want to answer. It’s not going well. Her thoughts are spiraling, her reality is bending, and every conversation feels like a small explosion. As the pressure builds, Dasha starts to unravel... Bomb is fast, funny, darkly absurd, and a little bit tragic. It’s about burnout, big emotions, and staying sane when the world feels like it’s blowing up.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Walterdale Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 04: MacEwan Fine Arts Walterdale Theatre",
+  "locationId": 4,
+  "location": "04: MacEwan Fine Arts Walterdale Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Mental Illness/Disorders, Political Content, Sexual Content, Smoke/Fog,</div> </span>",
+  "location_html": "<h3>Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Ave NW</p> <p>T6E 5C3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>04: MacEwan Fine Arts Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Avenue Northwest</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51933052,-113.49615601&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42276",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-14 22:00:00",
+          "performanceDate": "14th August 2025 22:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42277",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-16 14:00:00",
+          "performanceDate": "16th August 2025 14:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42278",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:45",
+          "performanceRealTime": "2025-08-18 18:45:00",
+          "performanceDate": "18th August 2025 18:45",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42279",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-20 12:00:00",
+          "performanceDate": "20th August 2025 12:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42280",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:30",
+          "performanceRealTime": "2025-08-22 21:30:00",
+          "performanceDate": "22nd August 2025 21:30",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42281",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:15",
+          "performanceRealTime": "2025-08-24 16:15:00",
+          "performanceDate": "24th August 2025 16:15",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6518",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "image": "6702\\6702.jpg",
+  "title": "HOT GARBAGE",
+  "description": "The Peachums' lead the criminal racket in the trailer park until their young associate falls in love with a big con. Should the Peachums rat them out or welcome Mack the Knife into the family business? Edmonton's acclaimed Theatre Network Summer Academy returns for its fourth summer with a new adaption of \"The Beggar's Opera.\"",
+  "credits": "<strong>Playwright</strong>: Theatre Network Summer Academy<br/><strong>Director</strong>: Ellen Chorley<br/><strong>Cast</strong>: Theatre Network Summer Academy<br/>",
+  "website": "https://theatrenetwork.ca",
+  "plain_language": "HOT GARBAGE is a modern version of The Beggar's Opera. It tells the story of thieves and con artists who lie, cheat, and trick each other to try to get rich. The show is funny, silly, and full of surprises.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 90 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Roxy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 31: Nancy Power Theatre",
+  "locationId": 31,
+  "location": "31: Nancy Power Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Cartoonish Violence, Drugs/Alcohol, Political Content</div> </span>",
+  "location_html": "<h3>The Roxy Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> <p>T5M 0H1</p> </div> <!--<a href=\"#\"></a>--> <span>780-453-2440</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>31: Nancy Power Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.55171317,-113.53618310&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43753",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-15 15:00:00",
+          "performanceDate": "15th August 2025 15:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43754",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:30",
+          "performanceRealTime": "2025-08-16 20:30:00",
+          "performanceDate": "16th August 2025 20:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43755",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:30",
+          "performanceRealTime": "2025-08-19 16:30:00",
+          "performanceDate": "19th August 2025 16:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43756",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-21 15:00:00",
+          "performanceDate": "21st August 2025 15:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43757",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-22 17:00:00",
+          "performanceDate": "22nd August 2025 17:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43758",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:00",
+          "performanceRealTime": "2025-08-23 13:00:00",
+          "performanceDate": "23rd August 2025 13:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43759",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-24 15:00:00",
+          "performanceDate": "24th August 2025 15:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6702",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "image": "6721\\6721.jpg",
+  "title": "'THE FAMILY CROW': A Murder Mystery",
+  "description": "A mysterious murder has rocked the Family Crow! Enter Horatio P. Corvus - Sorter Outer of Murders! Puppets, puns, and plot twists abound in this award-winning international Fringe hit. Starring Adam Francis Proulx (Netflix, CBC, Nickelodeon). “Weird, cuckoo brilliance!” – Liz Nicholls",
+  "credits": "<strong>Director</strong>: Byron Laviolette<br/><strong>Cast</strong>: Adam Francis Proulx<br/>",
+  "website": "https://crowshow.ca",
+  "plain_language": "This show is about a murder that happens in a family of crows. One crow, named Horatio P. Corvus, is a detective. He tries to figure out who committed the crime. The show is performed with a puppet. It is funny and full of wordplay and surprises. One person plays all the characters. It is a mix of comedy and mystery. If you like puppet shows, murder stories, or solving puzzles, you will enjoy this show.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Puppetry",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Mile Zero Dance Society",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 20: Mile Zero Dance",
+  "locationId": 20,
+  "location": "20: Mile Zero Dance",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Cartoonish Violence,</div> </span>",
+  "location_html": "<h3>Mile Zero Dance Society</h3> <div class=\"addres-pin\"> <p></p> <p>T6E 1N6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>20: Mile Zero Dance</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43900",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:45",
+          "performanceRealTime": "2025-08-14 21:45:00",
+          "performanceDate": "14th August 2025 21:45",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:43901",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-15 18:00:00",
+          "performanceDate": "15th August 2025 18:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43902",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-16 14:00:00",
+          "performanceDate": "16th August 2025 14:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43903",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-17 22:00:00",
+          "performanceDate": "17th August 2025 22:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43904",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-18 19:15:00",
+          "performanceDate": "18th August 2025 19:15",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43905",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:15",
+          "performanceRealTime": "2025-08-19 15:15:00",
+          "performanceDate": "19th August 2025 15:15",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43906",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-21 23:00:00",
+          "performanceDate": "21st August 2025 23:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43907",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:45",
+          "performanceRealTime": "2025-08-23 15:45:00",
+          "performanceDate": "23rd August 2025 15:45",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6721",
+    "showAvailabilityInCalendar": true
+  }
+}

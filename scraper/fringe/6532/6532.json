@@ -1,0 +1,148 @@
+{
+  "image": "6532\\6532.jpg",
+  "title": "Late Night Cabaret",
+  "description": "Fringe Theatre and Rapid Fire Theatre present the Late Night Cabaret; a musically-charged variety show featuring current fringe artists, special guests and our yet to be named house band. Curator: Jake Tkacyzk; Music Curator: Audrey Ochoa",
+  "credits": "",
+  "website": "",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Cabaret/Variety",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $17.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Granite Curling Club",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 09: Sea Change Granite Curling Club",
+  "locationId": 9,
+  "location": "09: Sea Change Granite Curling Club",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Nudity, Smoke/Fog, Strobe Lights</div> </span>",
+  "location_html": "<h3>Granite Curling Club</h3> <div class=\"addres-pin\"> <p>8620 107 St NW</p> <p>T6E 4L3</p> </div> <!--<a href=\"#\"></a>--> <span>780-409-1910</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>09: Sea Change Granite Curling Club</h3> <div class=\"addres-pin\"> <p>8620 107 St NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52213278,-113.50662231&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42366",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-15 23:59:00",
+          "performanceDate": "15th August 2025 23:59",
+          "availability": 232,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42367",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-16 23:59:00",
+          "performanceDate": "16th August 2025 23:59",
+          "availability": 226,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42368",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-17 23:59:00",
+          "performanceDate": "17th August 2025 23:59",
+          "availability": 232,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42369",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-20 23:59:00",
+          "performanceDate": "20th August 2025 23:59",
+          "availability": 232,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42370",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-21 23:59:00",
+          "performanceDate": "21st August 2025 23:59",
+          "availability": 232,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42371",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-22 23:59:00",
+          "performanceDate": "22nd August 2025 23:59",
+          "availability": 232,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42372",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-23 23:59:00",
+          "performanceDate": "23rd August 2025 23:59",
+          "availability": 232,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6532",
+    "showAvailabilityInCalendar": true
+  }
+}

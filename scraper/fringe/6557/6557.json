@@ -1,0 +1,165 @@
+{
+  "image": "6557\\6557.jpg",
+  "title": "The List: A Traumady About Probiotic Masculinity",
+  "description": "NOMINATED BEST STORYTELLING + BEST SCRIPT Montreal Fringe '24 Keith Serry's (PBS Stories From the Stage) hilarious and heartbreaking road trip from youth to old manhood is a search for guidance in a world where being “a good man” and being “the man” are two very different things. \"Delightful...moving.\" - Forget the Box MTL",
+  "credits": "<strong>Playwright</strong>: Keith Serry<br/><strong>Director</strong>: David Crabb<br/><strong>Cast</strong>: Keith Serry<br/>",
+  "website": "",
+  "plain_language": "The List is a true story about how a boy named Keith grows into a man. As a lonely kid in a small town, Keith looks up to the wrong people and makes a list of what he thinks it means to be a man, but it’s all bad advice. In university, he meets Jenny, who likes him even though he’s unsure of himself. Scared of getting close, Keith tells her a lie outside a KFC. That lie forces him to rethink everything, including his role models, and helps him see the good influences that shaped who he really is.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $12.00 inc $2.50 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Holy Trinity Anglican Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 23: The Bliss Stage",
+  "locationId": 23,
+  "location": "23: The Bliss Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Sexual Content, Sexual Violence</div> </span>",
+  "location_html": "<h3>Holy Trinity Anglican Church</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> <p>T6E 2G6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>23: The Bliss Stage</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52050040,-113.49051258&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42550",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-15 19:30:00",
+          "performanceDate": "15th August 2025 19:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42551",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-16 21:00:00",
+          "performanceDate": "16th August 2025 21:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42552",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-17 14:15:00",
+          "performanceDate": "17th August 2025 14:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42553",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:00",
+          "performanceRealTime": "2025-08-19 13:00:00",
+          "performanceDate": "19th August 2025 13:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42554",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-20 15:00:00",
+          "performanceDate": "20th August 2025 15:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42555",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:45",
+          "performanceRealTime": "2025-08-21 17:45:00",
+          "performanceDate": "21st August 2025 17:45",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42556",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-22 20:15:00",
+          "performanceDate": "22nd August 2025 20:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42557",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:15",
+          "performanceRealTime": "2025-08-24 16:15:00",
+          "performanceDate": "24th August 2025 16:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6557",
+    "showAvailabilityInCalendar": true
+  }
+}

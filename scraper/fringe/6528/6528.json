@@ -1,0 +1,148 @@
+{
+  "image": "6528\\6528.jpg",
+  "title": "Holy O",
+  "description": "Award-winning immersive dramedy. Vera wants to be a nun, but can’t let go of her past, or vibrators. Her situation is complicated by the onset of rapturous prayers, leading the audience to become advice-giving “saints” who help Vera make the biggest decisions of her life, starting with what shirt to wear. ★★★★★ DC Theater Arts",
+  "credits": "<strong>Playwright</strong>: Lauren Hance<br/><strong>Director</strong>: Amelia Peterson &amp; Cathy Lam-Patrie<br/><strong>Cast</strong>: Lauren Hance, You the Audience<br/>",
+  "website": "https://theholyoplay.com | https://instagram.com/theholyoplay",
+  "plain_language": "Vera wants to be a nun, but she is having a hard time letting go of her past, and her vibrators. As she starts having powerful religious experiences, things get more confusing. The audience joins the story as “saints,” that help Vera make big choices. Starting simple, like what shirt to wear. This show is funny, real, and about finding what really matters.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Acacia Hall",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 05: Acacia Hall",
+  "locationId": 5,
+  "location": "05: Acacia Hall",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Religious Content, Sexual Content, Sexual Violence, Suicide</div> </span>",
+  "location_html": "<h3>Acacia Hall</h3> <div class=\"addres-pin\"> <p>10433 83 Avenue</p> <p>T6E 2C7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>05: Acacia Hall</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51899100,-113.49884189&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42341",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-15 14:15:00",
+          "performanceDate": "15th August 2025 14:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42342",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-17 17:00:00",
+          "performanceDate": "17th August 2025 17:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42343",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-18 21:00:00",
+          "performanceDate": "18th August 2025 21:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42344",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-19 12:15:00",
+          "performanceDate": "19th August 2025 12:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42345",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-21 12:15:00",
+          "performanceDate": "21st August 2025 12:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42346",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-22 23:00:00",
+          "performanceDate": "22nd August 2025 23:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42347",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-23 19:00:00",
+          "performanceDate": "23rd August 2025 19:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6528",
+    "showAvailabilityInCalendar": true
+  }
+}

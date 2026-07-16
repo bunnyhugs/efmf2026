@@ -1,0 +1,182 @@
+{
+  "image": "6546\\6546.jpg",
+  "title": "Edmontask",
+  "description": "Drawing inspiration from British panel shows, Edmontask is a live comedy show where rotating panels of 5 comedians - who have been individually recorded performing a variety of zany challenges - all come together to see their footage for the first time and to be ridiculed accordingly, before competing live to win awful prizes.",
+  "credits": "<strong>Director</strong>: Victoria Skorobohach, Kyle Tobiasson, Jason Miller<br/><strong>Cast</strong>: Aidan Laudersmith, Brian Ault, Cayley McConaghy, Cinnamon Stacey, Elyse Roszell, Ethan Lang, Francisco Yu, Jared Anderst, Joel Mendenhall, Kristin Swirles, Malik Hinton, Rena Rachar, Renell Doneza, Rhiannon Eldridge, Shareena Wilkins, Troy Pavlek, Victoria Skoroohach<br/><strong>Stage Manager</strong>: Jason Miller<br/>",
+  "website": "https://www.instagram.com/edmontask",
+  "plain_language": "Edmontask is a show where five actors/comedians compete for points to win prizes. Points are awarded by Edmontask's host, the Edmaster, based on the performance of each comedian in \"tasks\". Some of these tasks have been recorded in advance of the live show and have not been seen by any of the contestants before. Other tasks will be completed live for the audience.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Campus Saint-Jean",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 15: Auditorium at Campus Saint-Jean",
+  "locationId": 15,
+  "location": "15: Auditorium at Campus Saint-Jean",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content</div> </span>",
+  "location_html": "<h3>Campus Saint-Jean</h3> <div class=\"addres-pin\"> <p>8406 Rue Marie-Anne Gaboury</p> <p>T6C 4G9</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>15: Auditorium at Campus Saint-Jean</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52192746,-113.46883945&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42456",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-15 15:30:00",
+          "performanceDate": "15th August 2025 15:30",
+          "availability": 215,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42457",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-16 22:30:00",
+          "performanceDate": "16th August 2025 22:30",
+          "availability": 215,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42458",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-17 12:00:00",
+          "performanceDate": "17th August 2025 12:00",
+          "availability": 215,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42459",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-18 22:30:00",
+          "performanceDate": "18th August 2025 22:30",
+          "availability": 215,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42460",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-19 20:45:00",
+          "performanceDate": "19th August 2025 20:45",
+          "availability": 215,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42461",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:45",
+          "performanceRealTime": "2025-08-20 13:45:00",
+          "performanceDate": "20th August 2025 13:45",
+          "availability": 215,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42462",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-21 12:00:00",
+          "performanceDate": "21st August 2025 12:00",
+          "availability": 215,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42463",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-22 17:15:00",
+          "performanceDate": "22nd August 2025 17:15",
+          "availability": 215,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42464",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-23 19:00:00",
+          "performanceDate": "23rd August 2025 19:00",
+          "availability": 215,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6546",
+    "showAvailabilityInCalendar": true
+  }
+}

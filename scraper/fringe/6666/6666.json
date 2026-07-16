@@ -1,0 +1,165 @@
+{
+  "image": "6666\\6666.jpg",
+  "title": "The Last Perfect Game: The Jerry Stephenson Story",
+  "description": "In 1963, a regular guy named Jerry Stephenson did the impossible, bowling 12 strikes in a row, the first and last perfect game at Plaza Bowling. Since then the legend has only grown, but who was Jerry? From the creatives behind the Sterling-nominated Talk Treaty to Me (★★★★) and High and Dry (★★★★★) comes a (mostly) true story!",
+  "credits": "<strong>Playwright</strong>: Samantha Fraughton, Andrew Boyd<br/><strong>Cast</strong>: David Widder-Varhegy<br/><strong>Designers</strong>: Dan Rose<br/><strong>Stage Manager</strong>: Andrea Murphy<br/>",
+  "website": "https://*Bowling shoes will be provided!",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Plaza Bowling",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 38: Plaza Bowling",
+  "locationId": 38,
+  "location": "38: Plaza Bowling",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "",
+  "location_html": "<h3>Plaza Bowling</h3> <div class=\"addres-pin\"> <p>10418 118 Ave NW</p> <p>T5G0P7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>38: Plaza Bowling</h3> <div class=\"addres-pin\"> <p>10418 118 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.57048551,-113.50020647&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43477",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 98,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:43478",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-15 18:00:00",
+          "performanceDate": "15th August 2025 18:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43479",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-17 12:00:00",
+          "performanceDate": "17th August 2025 12:00",
+          "availability": 96,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43480",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-19 18:30:00",
+          "performanceDate": "19th August 2025 18:30",
+          "availability": 98,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43481",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-20 21:00:00",
+          "performanceDate": "20th August 2025 21:00",
+          "availability": 98,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43482",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-21 18:00:00",
+          "performanceDate": "21st August 2025 18:00",
+          "availability": 98,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43483",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-22 18:00:00",
+          "performanceDate": "22nd August 2025 18:00",
+          "availability": 98,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43484",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-24 18:00:00",
+          "performanceDate": "24th August 2025 18:00",
+          "availability": 98,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6666",
+    "showAvailabilityInCalendar": true
+  }
+}

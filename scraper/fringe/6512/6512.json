@@ -1,0 +1,131 @@
+{
+  "image": "6512\\6512.jpg",
+  "title": "Screwball!",
+  "description": "Screwball! is an improvised ode to the fast-talkin’ rom coms of yesteryear. Witness escalating hijinx! Fashionable attire! Emotional tippling! All delivered by some of Edmonton's most frenetic and cinema-loving improvisers. As seen at the 2025 Bonfire Festival!",
+  "credits": "<strong>Playwright</strong>: Cast<br/><strong>Director</strong>: Cast<br/><strong>Cast</strong>: Paul Blinov, Quinn Contini, Susan Evans, Matthew Kusmire, Dill Prusko, Kelly Turner<br/><strong>Designers</strong>: Cast<br/>",
+  "website": "",
+  "plain_language": "Screwball! is an improv comedy show where performers use audience suggestions to create a brand-new story in the style of classic screwball comedies. Screwball comedies often have fast-paced dialogue and silly actions.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Improv/Sketch",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Old Strathcona Performing Arts Centre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 08: Kick Point Old Strathcona Performing Arts Centre",
+  "locationId": 8,
+  "location": "08: Kick Point Old Strathcona Performing Arts Centre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Death, Drugs/Alcohol, Sexual Content</div> </span>",
+  "location_html": "<h3>Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> <p>T6E 4B4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>08: Kick Point Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52059939,-113.49560185&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42240",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-14 23:59:00",
+          "performanceDate": "14th August 2025 23:59",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42241",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-16 16:45:00",
+          "performanceDate": "16th August 2025 16:45",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42242",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-18 12:00:00",
+          "performanceDate": "18th August 2025 12:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42243",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-20 19:00:00",
+          "performanceDate": "20th August 2025 19:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42244",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-21 14:00:00",
+          "performanceDate": "21st August 2025 14:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42245",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-23 21:15:00",
+          "performanceDate": "23rd August 2025 21:15",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6512",
+    "showAvailabilityInCalendar": true
+  }
+}

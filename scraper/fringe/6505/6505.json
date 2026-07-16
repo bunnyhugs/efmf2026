@@ -1,0 +1,131 @@
+{
+  "image": "6505\\6505.jpg",
+  "title": "Kaliban",
+  "description": "What happened to Shakespeare's immortal manbeast after the Tempest? Come explore the darkly comic hurdles faced by Kaliban as it struggles to fit in with an ever changing, shifting society, in a performance critic Leila Marston called \"beautifully lyrical and worthy of Shakespeare. A delight to the ears as well as the mind\"",
+  "credits": "<strong>Playwright</strong>: Andrew Hamilton<br/><strong>Director</strong>: Andrew Hamilton<br/><strong>Cast</strong>: Andrew Hamilton<br/><strong>Designers</strong>: Andrew Hamilton<br/>",
+  "website": "",
+  "plain_language": "After Prospero leaves the island, Kaliban tries to find his place in the world. He becomes a soldier but rebels against modern war and is sent to a psychiatrist. Things go badly, and he hides in a cave. Later, he returns as a soldier but is made a puppet dictator, overseeing humanity’s downfall.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $19.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Yardbird Suite",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 07: Chianti Yardbird Suite",
+  "locationId": 7,
+  "location": "07: Chianti Yardbird Suite",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Political Content</div> </span>",
+  "location_html": "<h3>Yardbird Suite</h3> <div class=\"addres-pin\"> <p>11 Tommy Banks Way</p> <p>T6E 2M2</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>07: Chianti Yardbird Suite</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52149972,-113.49477768&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42198",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-15 19:15:00",
+          "performanceDate": "15th August 2025 19:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42199",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:30",
+          "performanceRealTime": "2025-08-17 14:30:00",
+          "performanceDate": "17th August 2025 14:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42200",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-19 17:15:00",
+          "performanceDate": "19th August 2025 17:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42201",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-20 21:15:00",
+          "performanceDate": "20th August 2025 21:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42202",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:30",
+          "performanceRealTime": "2025-08-22 12:30:00",
+          "performanceDate": "22nd August 2025 12:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42203",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-24 17:30:00",
+          "performanceDate": "24th August 2025 17:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6505",
+    "showAvailabilityInCalendar": true
+  }
+}

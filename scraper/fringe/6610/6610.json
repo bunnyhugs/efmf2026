@@ -1,0 +1,148 @@
+{
+  "image": "6610\\6610.jpg",
+  "title": "The Singing Psychic Game Show",
+  "description": "Spookily accurate (if bonkers) audience readings, songs &amp; 70s team games. The Singing Psychic reveals the songs in your heart. Edinburgh &amp; Adelaide Fringe sell-out show from the UK. Best Comedy Show Finalist (MontrealFringe) \"A gloriously entertaining night out”(FemaleArts) 'Can work a crowd like no other' (GrumpyGayCritic) ★★★★",
+  "credits": "<strong>Playwright</strong>: Marysia Trembecka<br><strong>Cast</strong>: Marysia Trembecka<br/><strong>Designers</strong>: Martin Butterworth<br/></br>",
+  "website": "https://www.singingpsychic.tv marysiatrembecka.com | @TheSingingPsychic, @marysiatrembecka | X: @MarysiaT | YT: TheSingingPsychic",
+  "plain_language": "Do you possess hidden psychic powers waiting to be unveiled? Prepare to discover your inner mystic—direct from London England, The Singing Psychic promises an evening brimming with glittering 70s-style games, toe-tapping tunes and prizes. The Singing Psychic Game Show has captivated audiences worldwide with its blend of comedy and uncanny accuracy. From revealing the melodies in your heart to dispensing relationship advice, probing life's deepest questions and inspiring audiences, The Singing Psychic leaves no stone unturned in her quest to entertain and enlighten. The biggest attraction is her spookily accurate (if utterly bonkers) audience readings. Theatregoers can expect a whirlwind of entertainment with a line-up of fabulous team games including psychic Jenga, psychic bingo, audience readings, freeze dance, for‘tunes’ and more. Each show is a unique experience fuelled by audience interaction and improvised, heart-warming hilarity. Whether arriving solo or with friends, there's a place for everyone in The Singing Psychic's realm of fun and mystery. As The Singing Psychic says “I have just two rules – one is that what I reveal in the room stays in the room, and the other is that I am ALWAYS right.” The Singing Psychic Game Show is brilliantly bananas. It’s an hour of fun that builds on three years of sell-out Edinburgh and Adelaide Fringe shows and four and five star Edinburgh Fringe reviews; a Funny Women Best Show nomination, two Montreal Fringe nominations (Prix de Creativite, Outstanding Comedy Show); a European tour; and a special appearance at the official BRIT Awards after- party. The Singing Psychic is also a TEDx speaker.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Cabaret/Variety",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Walterdale Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 04: MacEwan Fine Arts Walterdale Theatre",
+  "locationId": 4,
+  "location": "04: MacEwan Fine Arts Walterdale Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "",
+  "location_html": "<h3>Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Ave NW</p> <p>T6E 5C3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>04: MacEwan Fine Arts Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Avenue Northwest</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51933052,-113.49615601&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43041",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-15 19:00:00",
+          "performanceDate": "15th August 2025 19:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43042",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-17 17:15:00",
+          "performanceDate": "17th August 2025 17:15",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43043",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-18 14:00:00",
+          "performanceDate": "18th August 2025 14:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43044",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-20 21:15:00",
+          "performanceDate": "20th August 2025 21:15",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43045",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-21 12:00:00",
+          "performanceDate": "21st August 2025 12:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43046",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-22 17:15:00",
+          "performanceDate": "22nd August 2025 17:15",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43047",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-23 12:00:00",
+          "performanceDate": "23rd August 2025 12:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6610",
+    "showAvailabilityInCalendar": true
+  }
+}

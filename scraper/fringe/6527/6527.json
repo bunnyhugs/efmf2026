@@ -1,0 +1,148 @@
+{
+  "image": "6527\\6527.jpg",
+  "title": "Mystery House",
+  "description": "Hollywood writer Wendy Weiner grew up near what’s said to be one of America’s most haunted houses: a maze-like mansion built by eccentric heiress Sarah Winchester. Part memoir, part ghost story, this solo show is a funny, poignant exploration of grief, love, and our fascination with “crazy” women. ★★★★★ The Indiependent",
+  "credits": "<strong>Playwright</strong>: Wendy Weiner<br/><strong>Director</strong>: Ryan Amador<br/><strong>Associate Producer</strong>: Lulu Guzman<br/><strong>Cast</strong>: Wendy Weiner<br/>",
+  "website": "https://wendyweinerwriter.com",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Fringe Theatre Arts Barns",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 03: Nordic Studio Theatre",
+  "locationId": 3,
+  "location": "03: Nordic Studio Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death,</div> </span>",
+  "location_html": "<h3>Fringe Theatre Arts Barns</h3> <div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>03: Nordic Studio Theatre</h3> <div class=\"addres-pin\"> <p>10330 84 Avenue NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51987100,-113.49598200&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42334",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42335",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:30",
+          "performanceRealTime": "2025-08-15 12:30:00",
+          "performanceDate": "15th August 2025 12:30",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42336",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-17 21:00:00",
+          "performanceDate": "17th August 2025 21:00",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42337",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-19 17:15:00",
+          "performanceDate": "19th August 2025 17:15",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42338",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:30",
+          "performanceRealTime": "2025-08-20 14:30:00",
+          "performanceDate": "20th August 2025 14:30",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42339",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-22 19:15:00",
+          "performanceDate": "22nd August 2025 19:15",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42340",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-23 23:00:00",
+          "performanceDate": "23rd August 2025 23:00",
+          "availability": 67,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6527",
+    "showAvailabilityInCalendar": true
+  }
+}

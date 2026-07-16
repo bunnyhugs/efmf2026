@@ -1,0 +1,227 @@
+{
+  "image": "6625\\6625.jpg",
+  "title": "All You Need Is Love-A (Love-A, Love-A)",
+  "description": "Flavio loves Isabella but will their meddling Mothers rip their worlds apart or bring them together? Clever servants, a braggart Capitano, a fortune teller weave in and out to complicate this hilarious, scheme filled journey for the young lovers. A ZANY Renaissance Commedia dell’Arte musical romp with contemporary, fun flair!",
+  "credits": "<strong>Playwright</strong>: Holly Derbyshire<br/><strong>Director</strong>: Holly Derbyshire<br/><strong>Cast</strong>: Emily Barnaschoné, Gabii Minorah, Gracen White, Malik Hinton, Robert Woodbury, Shannon Diashinsky, Zoë Hawnt<br/><strong>Designers</strong>: Taramay Curtis<br/><strong>Stage Manager</strong>: Kira Malkin<br/>",
+  "website": "",
+  "plain_language": "Flavio loves Isabella, but will their meddling moms pull them apart or bring them closer? With help (and trouble) from clever servants, a loud Captain, and a fortune teller, their love story takes a wild turn. A zany Renaissance-style musical with a modern twist!",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 90 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Woodcroft Community Hall",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 33: Woodcroft Community Hall",
+  "locationId": 33,
+  "location": "33: Woodcroft Community Hall",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence,</div> </span>",
+  "location_html": "<h3>Woodcroft Community Hall</h3> <div class=\"addres-pin\"> <p>13915 115 Ave NW</p> <p>T5M 4B6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>33: Woodcroft Community Hall</h3> <div class=\"addres-pin\"> <p>13915 115 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.56478295,-113.56256247&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43158",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:43159",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-15 20:00:00",
+          "performanceDate": "15th August 2025 20:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43160",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-16 16:00:00",
+          "performanceDate": "16th August 2025 16:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        },
+        {
+          "id": "601:43161",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-16 20:00:00",
+          "performanceDate": "16th August 2025 20:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43162",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-18 20:00:00",
+          "performanceDate": "18th August 2025 20:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43163",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-19 20:00:00",
+          "performanceDate": "19th August 2025 20:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43164",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-20 20:00:00",
+          "performanceDate": "20th August 2025 20:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43165",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-21 20:00:00",
+          "performanceDate": "21st August 2025 20:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43166",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-22 20:00:00",
+          "performanceDate": "22nd August 2025 20:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43167",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-23 16:00:00",
+          "performanceDate": "23rd August 2025 16:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        },
+        {
+          "id": "601:43168",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-23 20:00:00",
+          "performanceDate": "23rd August 2025 20:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43169",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-24 14:00:00",
+          "performanceDate": "24th August 2025 14:00",
+          "availability": 87,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6625",
+    "showAvailabilityInCalendar": true
+  }
+}

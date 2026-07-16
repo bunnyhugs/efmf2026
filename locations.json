@@ -1,0 +1,50 @@
+{
+    "142": {
+        "locationId": 142,
+        "name": "Main Stage",
+        "altName": "",
+        "shortDesc": ""
+    },
+    "143": {
+        "locationId": 143,
+        "name": "Nikamowin Program Area",
+        "altName": "",
+        "shortDesc": ""
+    },
+    "193": {
+        "locationId": 193,
+        "name": "Stage 7",
+        "altName": "",
+        "shortDesc": ""
+    },
+    "340": {
+        "locationId": 340,
+        "name": "Stage 1",
+        "altName": "",
+        "shortDesc": ""
+    },
+    "341": {
+        "locationId": 341,
+        "name": "Stage 2",
+        "altName": "",
+        "shortDesc": ""
+    },
+    "342": {
+        "locationId": 342,
+        "name": "Stage 3",
+        "altName": "",
+        "shortDesc": ""
+    },
+    "343": {
+        "locationId": 343,
+        "name": "Stage 5",
+        "altName": "",
+        "shortDesc": ""
+    },
+    "344": {
+        "locationId": 344,
+        "name": "Stage 6",
+        "altName": "",
+        "shortDesc": ""
+    }
+}

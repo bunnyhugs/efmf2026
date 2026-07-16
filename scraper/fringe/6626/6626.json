@@ -1,0 +1,63 @@
+{
+  "image": "6626\\6626.jpg",
+  "title": "Couples Therapy Comedy",
+  "description": "After serving 5+ years of long-distance (Canada to Australia), they've moved in together in LA. Now all they gotta do is figure out how to have a healthy relationship, how hard could it be?! Join award-winning comedy powerhouses Aliya Kanani &amp; Emo Majok, for a laugh about the challenges of loving someone the way they need.",
+  "credits": "<strong>Cast</strong>: Aliya Kanani &amp; Emo Majok<br/>",
+  "website": "https://www.instagram.com/thatfunnycomedycouple",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 22-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Garneau Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 24: Garneau Theatre",
+  "locationId": 24,
+  "location": "24: Garneau Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Sexual Content</div> </span>",
+  "location_html": "<h3>Garneau Theatre</h3> <div class=\"addres-pin\"> <p>8712 109 Street</p> <p>T6G 3E9</p> </div> <!--<a href=\"#\"></a>--> <span>780-425-9212</span> <a href=\"mailto:director@metrocinema.org\">director@metrocinema.org</a> <h3>24: Garneau Theatre</h3> <div class=\"addres-pin\"> <p>8712 109 Street</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52311186,-113.51231396&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-22": [
+        {
+          "id": "601:43170",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-22 21:00:00",
+          "performanceDate": "22nd August 2025 21:00",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43171",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-23 19:00:00",
+          "performanceDate": "23rd August 2025 19:00",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6626",
+    "showAvailabilityInCalendar": true
+  }
+}

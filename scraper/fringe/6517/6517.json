@@ -1,0 +1,131 @@
+{
+  "image": "6517\\6517.jpg",
+  "title": "Dead in the Water",
+  "description": "Edmonton-based British actor/musician Ruth Alexander (from TV’s Coronation Street and Les Miserables, UK) performs this darkly comedic musical inspired by her travels across Europe as a lounge singer/pianist. One woman. One piano. One last chance to be heard.",
+  "credits": "<strong>Playwright</strong>: Ruth Alexander<br/><strong>Director</strong>: Max Rubin<br/><strong>Cast</strong>: Ruth Alexander<br/>",
+  "website": "",
+  "plain_language": "Lounge singer Amanda Bridge is losing concerts, and hope. In this darkly funny, heartfelt one-woman musical, she battles aging, love, regret, and loneliness as the spotlight on her life starts to fade.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Old Strathcona Performing Arts Centre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 08: Kick Point Old Strathcona Performing Arts Centre",
+  "locationId": 8,
+  "location": "08: Kick Point Old Strathcona Performing Arts Centre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol, Sexual Content, Suicide</div> </span>",
+  "location_html": "<h3>Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> <p>T6E 4B4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>08: Kick Point Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52059939,-113.49560185&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42270",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-15 17:00:00",
+          "performanceDate": "15th August 2025 17:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42271",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-17 12:00:00",
+          "performanceDate": "17th August 2025 12:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42272",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-19 21:00:00",
+          "performanceDate": "19th August 2025 21:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42273",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:45",
+          "performanceRealTime": "2025-08-21 22:45:00",
+          "performanceDate": "21st August 2025 22:45",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42274",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-23 19:00:00",
+          "performanceDate": "23rd August 2025 19:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42275",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-24 14:15:00",
+          "performanceDate": "24th August 2025 14:15",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6517",
+    "showAvailabilityInCalendar": true
+  }
+}

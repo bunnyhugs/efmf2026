@@ -1,0 +1,165 @@
+{
+  "image": "6502\\6502.jpg",
+  "title": "Sarah Teakle's Circus Show!",
+  "description": "Get ready for circus fun! Known for her expert hula hooping, impressive juggling, and infectious silliness, Sarah Teakle brings her unique brand of entertainment to the stage, featuring plenty of audience participation and surprises. Don’t miss the chance to see this high-energy performance, perfect for young audiences.",
+  "credits": "<strong>Director</strong>: Sarah Teakle<br/><strong>Cast</strong>: Sarah Teakle<br/>",
+  "website": "https://sarahteakle.com",
+  "plain_language": "Get ready for a fun circus show! Sarah Teakle is great at hula hooping, juggling, and making people laugh. She will entertain you with exciting tricks, lots of audience participation, and surprises. This high-energy show is perfect for kids. Don’t miss out on the fun!",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Theatre for Young Audiences",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $15.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 45 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Old Strathcona Public Library",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 10: Old Strathcona Public Library",
+  "locationId": 10,
+  "location": "10: Old Strathcona Public Library",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "",
+  "location_html": "<h3>Old Strathcona Public Library</h3> <div class=\"addres-pin\"> <p>8331 104 St NW</p> <p>T6E 4E9</p> </div> <!--<a href=\"#\"></a>--> <span>(780) 496-1828</span> <a href=\"mailto:\"></a> <h3>10: Old Strathcona Public Library</h3> <div class=\"addres-pin\"> <p>8331 104 St NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51990000,-113.49760000&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42178",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:00",
+          "performanceRealTime": "2025-08-15 13:00:00",
+          "performanceDate": "15th August 2025 13:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43996",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-16 11:00:00",
+          "performanceDate": "16th August 2025 11:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42179",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-17 15:00:00",
+          "performanceDate": "17th August 2025 15:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42180",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:00",
+          "performanceRealTime": "2025-08-18 13:00:00",
+          "performanceDate": "18th August 2025 13:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42181",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-19 11:00:00",
+          "performanceDate": "19th August 2025 11:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42182",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-21 11:00:00",
+          "performanceDate": "21st August 2025 11:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42183",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-22 15:00:00",
+          "performanceDate": "22nd August 2025 15:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42184",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:00",
+          "performanceRealTime": "2025-08-23 13:00:00",
+          "performanceDate": "23rd August 2025 13:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6502",
+    "showAvailabilityInCalendar": true
+  }
+}

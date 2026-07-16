@@ -1,0 +1,182 @@
+{
+  "image": "6632\\6632.jpg",
+  "title": "BRAIN",
+  "description": "One brain. Two sides. Left and Right. Together, they should be a perfect team—but today, they’re a disaster. From Blair Moro (Cabaret of Murder), BRAIN is a fast, funny, and wildly unpredictable comedy about the mind’s greatest struggle: itself. “Expertly directed.” – A. Wade “Brilliant.” – J. Marley",
+  "credits": "<strong>Playwright</strong>: Blair Moro<br/><strong>Director</strong>: Blair Moro<br/><strong>Cast</strong>: Jillian Burke &amp; Marissa Sauvé<br/>",
+  "website": "https://www.instagram.com/braintheplay",
+  "plain_language": "What would happen if your Left and Right brain became characters in a play? In BRAIN we get to see how the two sides would interact in many hilarious situations.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>La Cité Francophone",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 13: SERVUS Credit Union Théâtre",
+  "locationId": 13,
+  "location": "13: SERVUS Credit Union Théâtre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Sexual Content</div> </span>",
+  "location_html": "<h3>La Cité Francophone</h3> <div class=\"addres-pin\"> <p>8627 rue Marie Anne Gaboury (91 Street)</p> <p>T6C 3N1</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>13: SERVUS Credit Union Théâtre</h3> <div class=\"addres-pin\"> <p>8627 rue Marie Anne Gaboury (91 Street)</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52245100,-113.46643800&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43214",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-15 15:30:00",
+          "performanceDate": "15th August 2025 15:30",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43215",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-16 19:00:00",
+          "performanceDate": "16th August 2025 19:00",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43216",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-17 12:00:00",
+          "performanceDate": "17th August 2025 12:00",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43217",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-18 20:45:00",
+          "performanceDate": "18th August 2025 20:45",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43218",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-19 22:30:00",
+          "performanceDate": "19th August 2025 22:30",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43219",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:45",
+          "performanceRealTime": "2025-08-20 13:45:00",
+          "performanceDate": "20th August 2025 13:45",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43220",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-22 17:15:00",
+          "performanceDate": "22nd August 2025 17:15",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43221",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-23 22:30:00",
+          "performanceDate": "23rd August 2025 22:30",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43222",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-24 14:00:00",
+          "performanceDate": "24th August 2025 14:00",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6632",
+    "showAvailabilityInCalendar": true
+  }
+}

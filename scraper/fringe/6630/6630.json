@@ -1,0 +1,182 @@
+{
+  "image": "6630\\6630.jpg",
+  "title": "Flora & Fawna Face Their Fears",
+  "description": "Flora &amp; Fawna are back in a brand new backyard slumber party presentation! From the award-winning team that brought you Flora &amp; Fawna's Field Trip, Flora &amp; Fawna Have Beaver Fever, Microwave Coven, Crack In The Mirror, Puck Bunnies, Dragula, Prepare for the Worst, Don't Frown at the Gown, Psychobabble and Klondykes!",
+  "credits": "<strong>Playwright</strong>: Darrin Hagen &amp; Trevor Schmidt<br/><strong>Director</strong>: Trevor Schmidt<br/><strong>Cast</strong>: Jason Hardwick, Trevor Schmidt, Jake Tkaczyk<br/><strong>Designers</strong>: Trevor Schmidt, Darrin Hagen<br/><strong>Stage Manager</strong>: Darrin Hagen<br/>",
+  "website": "https://guysindisguise.ca",
+  "plain_language": "Flora &amp; Fawna face their fears in this backyard slumber party with ghost stories, terrifying tales - and a new member who will challenge their friendship.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Varscona Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 11: Varscona Theatre",
+  "locationId": 11,
+  "location": "11: Varscona Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content</div> </span>",
+  "location_html": "<h3>Varscona Theatre</h3> <div class=\"addres-pin\"> <p>10329 83 Avenue</p> <p>T6E 2C6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>11: Varscona Theatre</h3> <div class=\"addres-pin\"> <p>10329 83 Avenue</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51900214,-113.49711879&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43197",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 36,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43198",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-16 16:00:00",
+          "performanceDate": "16th August 2025 16:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43199",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-17 12:00:00",
+          "performanceDate": "17th August 2025 12:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43200",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-18 20:00:00",
+          "performanceDate": "18th August 2025 20:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43201",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-19 14:00:00",
+          "performanceDate": "19th August 2025 14:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43202",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-20 12:00:00",
+          "performanceDate": "20th August 2025 12:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43203",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-21 14:00:00",
+          "performanceDate": "21st August 2025 14:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43204",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-22 16:00:00",
+          "performanceDate": "22nd August 2025 16:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43205",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-24 12:00:00",
+          "performanceDate": "24th August 2025 12:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6630",
+    "showAvailabilityInCalendar": true
+  }
+}

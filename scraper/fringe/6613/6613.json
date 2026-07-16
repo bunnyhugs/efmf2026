@@ -1,0 +1,182 @@
+{
+  "image": "6613\\6613.jpg",
+  "title": "Buttons and Pockets",
+  "description": "What if clowns created the universe? What's the connection between juggling and astrophysics? Can we sew up the Fabric of Spacetime into a stylish new suit?! Buttons &amp; Pockets is a fable about creativity, the cosmos, &amp; how we weave science and art into the fabric of reality. For kids, physicists, &amp; the young at heart.",
+  "credits": "<strong>Playwright</strong>: Aaron Pickett / Marya Folinsbee<br/><strong>Director</strong>: Aaron Pickett / Marya Folinsbee<br/><strong>Cast</strong>: Aaron Pickett, Marya Folinsbee<br/><strong>Designers</strong>: Marya Folinsbee<br/>",
+  "website": "https://materialtheatre.ca | @material_theatre",
+  "plain_language": "Buttons and Pockets follows Pockets, a clumsy fashion designer, as she teams up with a superstar named Buttons to create a whole new universe. Together, they tackle creative roadblocks and cosmic puzzles to design a beautiful space-time.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Theatre for Young Audiences",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 16-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Old Strathcona Public Library",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 10: Old Strathcona Public Library",
+  "locationId": 10,
+  "location": "10: Old Strathcona Public Library",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "",
+  "location_html": "<h3>Old Strathcona Public Library</h3> <div class=\"addres-pin\"> <p>8331 104 St NW</p> <p>T6E 4E9</p> </div> <!--<a href=\"#\"></a>--> <span>(780) 496-1828</span> <a href=\"mailto:\"></a> <h3>10: Old Strathcona Public Library</h3> <div class=\"addres-pin\"> <p>8331 104 St NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51990000,-113.49760000&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-16": [
+        {
+          "id": "601:43065",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:00",
+          "performanceRealTime": "2025-08-16 13:00:00",
+          "performanceDate": "16th August 2025 13:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43066",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-17 16:45:00",
+          "performanceDate": "17th August 2025 16:45",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43067",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-18 11:00:00",
+          "performanceDate": "18th August 2025 11:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:44026",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:45",
+          "performanceRealTime": "2025-08-19 12:45:00",
+          "performanceDate": "19th August 2025 12:45",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43068",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-20 11:00:00",
+          "performanceDate": "20th August 2025 11:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43069",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:45",
+          "performanceRealTime": "2025-08-21 14:45:00",
+          "performanceDate": "21st August 2025 14:45",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43070",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:00",
+          "performanceRealTime": "2025-08-22 13:00:00",
+          "performanceDate": "22nd August 2025 13:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:44027",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:45",
+          "performanceRealTime": "2025-08-23 14:45:00",
+          "performanceDate": "23rd August 2025 14:45",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43071",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-24 11:00:00",
+          "performanceDate": "24th August 2025 11:00",
+          "availability": 64,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6613",
+    "showAvailabilityInCalendar": true
+  }
+}

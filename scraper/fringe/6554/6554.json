@@ -1,0 +1,165 @@
+{
+  "image": "6554\\6554.jpg",
+  "title": "Giorgi of the Jungle",
+  "description": "It's the '80s, and ten-year-old Giorgi Passarelli is devastated when she receives her first social cue that she needs personal grooming, but when her sister Marcella advocates for her with their Italian mother, cultural and generational views of beauty and personal care clash, and things in their home get a little...hairy.",
+  "credits": "<strong>Playwright</strong>: Lynda Celentano<br/><strong>Director</strong>: Jake Tkaczyk<br/><strong>Cast</strong>: Kirsten Throndson, Jason Hardwick, Miracle Mopera, Natalie Czar<br/>",
+  "website": "https://FB: Smile, You're Italian | https://instagram.com/smile_youre_italian",
+  "plain_language": "Set in the 1980s, this story is about 10-year-old Giorgi, who is crushed when she’s told she needs to start personal grooming. When her sister Marcella stands up for her, it sparks a funny and messy clash with their traditional Italian mom over beauty, body hair, and growing up.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Holy Trinity Anglican Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 21: The Sanctuary Stage",
+  "locationId": 21,
+  "location": "21: The Sanctuary Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "",
+  "location_html": "<h3>Holy Trinity Anglican Church</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> <p>T6E 2G6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>21: The Sanctuary Stage</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52050040,-113.49051258&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42525",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-15 16:00:00",
+          "performanceDate": "15th August 2025 16:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42526",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-16 21:00:00",
+          "performanceDate": "16th August 2025 21:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42527",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-17 21:00:00",
+          "performanceDate": "17th August 2025 21:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42528",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-18 16:00:00",
+          "performanceDate": "18th August 2025 16:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42529",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-20 16:00:00",
+          "performanceDate": "20th August 2025 16:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42530",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-21 16:00:00",
+          "performanceDate": "21st August 2025 16:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42531",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-22 21:00:00",
+          "performanceDate": "22nd August 2025 21:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42532",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:30",
+          "performanceRealTime": "2025-08-23 13:30:00",
+          "performanceDate": "23rd August 2025 13:30",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6554",
+    "showAvailabilityInCalendar": true
+  }
+}

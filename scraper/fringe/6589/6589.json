@@ -1,0 +1,165 @@
+{
+  "image": "6589\\6589.jpg",
+  "title": "Punjabi Wabi Sabi",
+  "description": "Bollywood meets Breaking Bad? What if Saddam Hussein had a love child with Britney Spears? Hilarious storytelling, Punjabi Wabi Sabi is an irreverant, autobiographical and moving stand-up comedy show by Tahina Awan: a middle-aged, delinquent, perverted, first-gen Canadian Muslim woman born in small town BC in the '70s.",
+  "credits": "<strong>Playwright</strong>: Tahina Awan<br/><strong>Director</strong>: Tahina Awan<br/><strong>Cast</strong>: Tahina Awan<br/><strong>Designers</strong>: Tahina Awan<br/><strong>Stage Manager</strong>: Zayd Mia<br/>",
+  "website": "https://www.instagram.com/PunjabiWabiSabi",
+  "plain_language": "Growing up Gen X isn’t easy. Especially if you’re a Muslim girl in a small BC town, trying to keep it a secret. This one-woman show follows a funny but struggling narrator as she deals with racism, identity, trauma, and being a teenager in the 1980s. Part stand-up, part theatre, it’s a personal and honest story about fighting to be yourself in a world that wants you to fit in. It’s about how we all carry pain, how we’re more alike than we think, and how being a bit messed up might be what makes us human.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Faculty Events Centre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 34: The Faculty Events Centre",
+  "locationId": 34,
+  "location": "34: The Faculty Events Centre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol</div> </span>",
+  "location_html": "<h3>The Faculty Events Centre</h3> <div class=\"addres-pin\"> <p>10151 82 Ave NW</p> <p>T6E 1Z6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>34: The Faculty Events Centre</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51809689,-113.49309023&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42815",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-14 20:15:00",
+          "performanceDate": "14th August 2025 20:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42816",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:30",
+          "performanceRealTime": "2025-08-15 16:30:00",
+          "performanceDate": "15th August 2025 16:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42817",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-16 19:15:00",
+          "performanceDate": "16th August 2025 19:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42818",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:30",
+          "performanceRealTime": "2025-08-17 20:30:00",
+          "performanceDate": "17th August 2025 20:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42819",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-20 17:15:00",
+          "performanceDate": "20th August 2025 17:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42820",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-21 19:30:00",
+          "performanceDate": "21st August 2025 19:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42821",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-22 15:30:00",
+          "performanceDate": "22nd August 2025 15:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42822",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:45",
+          "performanceRealTime": "2025-08-23 22:45:00",
+          "performanceDate": "23rd August 2025 22:45",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6589",
+    "showAvailabilityInCalendar": true
+  }
+}

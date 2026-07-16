@@ -1,0 +1,165 @@
+{
+  "image": "6590\\6590.jpg",
+  "title": "The Muxe in the Snow",
+  "description": "A renowned contemporary artist couldn’t buy an Indigenous person for his new piece of art - so he hires one instead: A third-gender Muxe who performs six different scenes that make no sense whatsoever. Six scenes and no plot? Call it avant-garde if I’m white. Call it trauma porn if I’m migrant, non binary and Indigenous.",
+  "credits": "<strong>Cast</strong>: Reyna Álvarez, Braiden Janes<br/><strong>Designers</strong>: Lighting: Payal Jotania, Sound: Mihaela Vasileva, Video: Erin Gruber<br/><strong>Stage Manager</strong>: Amy Dass<br/>",
+  "website": "https://https://facebook.com/zapotecaqueen",
+  "plain_language": "A famous artist hires an Indigenous person for his new art piece, because he couldn’t just buy one. A Muxe (a third-gender person from southern Mexico) performs six scenes that don’t follow a coherent or a clear story. It explores the tension between telling someone’s story and taking it over.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Cabaret/Variety",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $16.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Roxy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 32: Lorne Cardinal Theatre",
+  "locationId": 32,
+  "location": "32: Lorne Cardinal Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Drugs/Alcohol, Nudity, Political Content, Religious Content, Sexual Content, Smoke/Fog, Strobe Lights</div> </span>",
+  "location_html": "<h3>The Roxy Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> <p>T5M 0H1</p> </div> <!--<a href=\"#\"></a>--> <span>780-453-2440</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>32: Lorne Cardinal Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.55171317,-113.53618310&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42823",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-15 17:30:00",
+          "performanceDate": "15th August 2025 17:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42824",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-16 21:00:00",
+          "performanceDate": "16th August 2025 21:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42825",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-17 15:30:00",
+          "performanceDate": "17th August 2025 15:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42826",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-20 18:30:00",
+          "performanceDate": "20th August 2025 18:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42827",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-21 15:00:00",
+          "performanceDate": "21st August 2025 15:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42828",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-22 21:00:00",
+          "performanceDate": "22nd August 2025 21:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42829",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-23 19:00:00",
+          "performanceDate": "23rd August 2025 19:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42830",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:30",
+          "performanceRealTime": "2025-08-24 13:30:00",
+          "performanceDate": "24th August 2025 13:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6590",
+    "showAvailabilityInCalendar": true
+  }
+}

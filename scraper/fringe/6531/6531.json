@@ -1,0 +1,131 @@
+{
+  "image": "6531\\6531.jpg",
+  "title": "Iggy Beamish Destroys Traditional Marriage",
+  "description": "★★★★1/2 \"Delightful train wreck you can't help but root for.\" (Reviews Hub Dublin) ★★★★ \"Journey of hilarious humiliations.\" (Edmonton Journal) From the creator of last year's sold-out smash hit THE HETEROSEXUALS! Iggy Beamish makes a dubious living officiating straight weddings while avoiding the reality of his own gay divorce.",
+  "credits": "<strong>Playwright</strong>: Johnnie McNamara Walker<br/><strong>Director</strong>: Byron LaViolette<br/><strong>Cast</strong>: Johnnie McNamara Walker<br/>",
+  "website": "https://johnniemcnamarawalker.com | @handsomejohnnie",
+  "plain_language": "Iggy Beamish Destroys Traditional Marriage is a solo play written and performed by Johnnie McNamara Walker. It tells the story of Iggy Beamish, who has a job officiating weddings for straight people but hides from the reality of his own gay divorce. As Iggy struggles to make a living, find somewhere to live, and get over his ex, he makes a series of hilarious friends and enemies while exploring Toronto's queer nightlife, real estate market, and wedding industrial complex.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Walterdale Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 04: MacEwan Fine Arts Walterdale Theatre",
+  "locationId": 4,
+  "location": "04: MacEwan Fine Arts Walterdale Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol, Sexual Content</div> </span>",
+  "location_html": "<h3>Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Ave NW</p> <p>T6E 5C3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>04: MacEwan Fine Arts Walterdale Theatre</h3> <div class=\"addres-pin\"> <p>10322 83 Avenue Northwest</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51933052,-113.49615601&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42360",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42361",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-16 16:45:00",
+          "performanceDate": "16th August 2025 16:45",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42362",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-18 20:45:00",
+          "performanceDate": "18th August 2025 20:45",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42363",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-19 12:00:00",
+          "performanceDate": "19th August 2025 12:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42364",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-21 14:00:00",
+          "performanceDate": "21st August 2025 14:00",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42365",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:45",
+          "performanceRealTime": "2025-08-23 18:45:00",
+          "performanceDate": "23rd August 2025 18:45",
+          "availability": 132,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6531",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "image": "6631\\6631.jpg",
+  "title": "Carole of the Belles",
+  "description": "The annual Christmas concert is loaming, where the Silver Belles Hand Bell Chorus will play The Carole of the Bells and things are not going well. A mysterious stranger arrives to replace an injured bell ringer at the last moment...A new comedy from the team behind last summer's hit musical MASS DEBATING.",
+  "credits": "<strong>Playwright</strong>: Trevor Schmidt<br/><strong>Director</strong>: Trevor Schmidt<br/><strong>Cast</strong>: Michelle Todd, Kristin Johnston, Trevor Schmidt, Jason Hardwick, Jake Tkaczyk, Cheryl Jameson<br/><strong>Designers</strong>: Trevor Schmidt<br/>",
+  "website": "",
+  "plain_language": "A new comedy about a group of senior women rehearsing a concert piece while dealing with their interpersonal relationships.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Varscona Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 11: Varscona Theatre",
+  "locationId": 11,
+  "location": "11: Varscona Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "",
+  "location_html": "<h3>Varscona Theatre</h3> <div class=\"addres-pin\"> <p>10329 83 Avenue</p> <p>T6E 2C6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>11: Varscona Theatre</h3> <div class=\"addres-pin\"> <p>10329 83 Avenue</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51900214,-113.49711879&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43206",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-15 12:00:00",
+          "performanceDate": "15th August 2025 12:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43207",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-16 14:00:00",
+          "performanceDate": "16th August 2025 14:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43208",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-17 16:00:00",
+          "performanceDate": "17th August 2025 16:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43209",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-19 20:00:00",
+          "performanceDate": "19th August 2025 20:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43210",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-20 14:00:00",
+          "performanceDate": "20th August 2025 14:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43211",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-21 18:00:00",
+          "performanceDate": "21st August 2025 18:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43212",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-22 18:00:00",
+          "performanceDate": "22nd August 2025 18:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43213",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-23 16:00:00",
+          "performanceDate": "23rd August 2025 16:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6631",
+    "showAvailabilityInCalendar": true
+  }
+}

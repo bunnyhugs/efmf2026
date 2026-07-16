@@ -1,0 +1,165 @@
+{
+  "image": "6622\\6622.jpg",
+  "title": "Cards on the Table",
+  "description": "Pull up a chair for mind-blowing close-up magic with Grindstone's Byron Martin. Trained under Spanish legend Dani DaOrtiz and a member of the Edmonton Magic Club, Byron blends slick sleight-of-hand with casual charm and quick wit. Expect surprises, expect laughs—just don’t expect to figure out how he did it.",
+  "credits": "<strong>Director</strong>: Byron Martin<br/><strong>Cast</strong>: Byron Martin<br/>",
+  "website": "https://www.instagram.com/byrontrevormartin",
+  "plain_language": "Cards on the Table is a close-up, card based magic show.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Magic",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Mile Zero Dance Society",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 20: Mile Zero Dance",
+  "locationId": 20,
+  "location": "20: Mile Zero Dance",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "",
+  "location_html": "<h3>Mile Zero Dance Society</h3> <div class=\"addres-pin\"> <p></p> <p>T6E 1N6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>20: Mile Zero Dance</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43136",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-15 22:00:00",
+          "performanceDate": "15th August 2025 22:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43137",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-16 18:30:00",
+          "performanceDate": "16th August 2025 18:30",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43138",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-17 20:15:00",
+          "performanceDate": "17th August 2025 20:15",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43139",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-20 21:00:00",
+          "performanceDate": "20th August 2025 21:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43140",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-21 21:00:00",
+          "performanceDate": "21st August 2025 21:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43141",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-22 18:00:00",
+          "performanceDate": "22nd August 2025 18:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43142",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-23 22:00:00",
+          "performanceDate": "23rd August 2025 22:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43143",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-24 18:00:00",
+          "performanceDate": "24th August 2025 18:00",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6622",
+    "showAvailabilityInCalendar": true
+  }
+}

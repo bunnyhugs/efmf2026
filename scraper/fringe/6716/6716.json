@@ -1,0 +1,165 @@
+{
+  "image": "6716\\6716.jpg",
+  "title": "Boston Dip",
+  "description": "From the team behind the sold out antics of Dick Piston in the last Fringe, Nacho Pals brings you a hilarious farce, the Boston Dip! Scandal awaits the Mulligrubs when overeager suitors threaten to ruin the soirée, and a mysterious figure waltzes away with the matriarch's affection. Can Moses catch the scoundrels? Find out!",
+  "credits": "<strong>Playwright</strong>: John Anderson, adapted from George Baker's play<br/><strong>Director</strong>: John Anderson<br/><strong>Designers</strong>: John Anderson, Mélissa Masse, Afrah Collier-Potts, Rebecca Cave<br/><strong>Stage Manager</strong>: Afrah Collier-Potts<br/>",
+  "website": "https://www.instagram.com/nachopals_theatre",
+  "plain_language": "From the team behind the sold out antics of Dick Piston in the last Fringe, Nacho Pals brings you a hilarious farce, the Boston Dip! Scandal awaits the Mulligrubs when overeager suitors threaten to ruin the soirée, and a mysterious figure waltzes away with the matriarch's affection. Can Moses catch the scoundrels? Find out!",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Sugar Swing Ballroom",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 26: Sugar Swing Ballroom: Main Floor",
+  "locationId": 26,
+  "location": "26: Sugar Swing Ballroom",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "",
+  "location_html": "<h3>Sugar Swing Ballroom</h3> <div class=\"addres-pin\"> <p>10019 80 Ave NW</p> <p>T6E 1T4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>26: Sugar Swing Ballroom: Main Floor</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51600347,-113.48939951&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43861",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 119,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43862",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-16 20:00:00",
+          "performanceDate": "16th August 2025 20:00",
+          "availability": 119,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43863",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-17 12:00:00",
+          "performanceDate": "17th August 2025 12:00",
+          "availability": 119,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43864",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-19 15:00:00",
+          "performanceDate": "19th August 2025 15:00",
+          "availability": 119,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43865",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-20 15:00:00",
+          "performanceDate": "20th August 2025 15:00",
+          "availability": 119,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43866",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-21 15:00:00",
+          "performanceDate": "21st August 2025 15:00",
+          "availability": 119,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43867",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-22 17:00:00",
+          "performanceDate": "22nd August 2025 17:00",
+          "availability": 119,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43868",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-23 15:00:00",
+          "performanceDate": "23rd August 2025 15:00",
+          "availability": 119,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6716",
+    "showAvailabilityInCalendar": true
+  }
+}

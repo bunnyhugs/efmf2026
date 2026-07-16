@@ -1,0 +1,131 @@
+{
+  "image": "6726\\6726.jpg",
+  "title": "Big Stupid Improv Show",
+  "description": "The Big Stupid Improv show is the all-star improv jam show! Created by Wes Borg for the Edmonton International Fringe Theatre Festival, THE BIG STUPID IMPROV SHOW brings together a random assortment of performers in a big, fun improv jamboree! It's Big! It's Stupid! And it's an Improv Show!",
+  "credits": "<strong>Director</strong>: All Star Guests<br/><strong>Cast</strong>: A collection of Fringe Artists<br/>",
+  "website": "https://rapidfiretheatre.com",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Improv/Sketch",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $18.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Acacia Hall",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 05: Acacia Hall",
+  "locationId": 5,
+  "location": "05: Acacia Hall",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Political Content, Sexual Content</div> </span>",
+  "location_html": "<h3>Acacia Hall</h3> <div class=\"addres-pin\"> <p>10433 83 Avenue</p> <p>T6E 2C7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>05: Acacia Hall</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51899100,-113.49884189&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43917",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-14 23:59:00",
+          "performanceDate": "14th August 2025 23:59",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43918",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-17 19:00:00",
+          "performanceDate": "17th August 2025 19:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43919",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-19 14:15:00",
+          "performanceDate": "19th August 2025 14:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43920",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-21 17:00:00",
+          "performanceDate": "21st August 2025 17:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43921",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-22 12:15:00",
+          "performanceDate": "22nd August 2025 12:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43922",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-23 21:00:00",
+          "performanceDate": "23rd August 2025 21:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6726",
+    "showAvailabilityInCalendar": true
+  }
+}

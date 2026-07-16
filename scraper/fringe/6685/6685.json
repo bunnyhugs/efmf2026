@@ -1,0 +1,165 @@
+{
+  "image": "6685\\6685.jpg",
+  "title": "Plan V",
+  "description": "WHAT IF FEMALE PLEASURE SPARKED A REVOLUTION? When fascism threatened humanity, Plan V emerged with a radical solution: Reverence. Set in 2035, this satirical comedy follows an underground gathering where attendees share stories of joy, creating a spiritual movement that honors female pleasure as the antidote to shame.",
+  "credits": "<strong>Playwright</strong>: Eleanor O'Brien<br/><strong>Director</strong>: Nate Jensen<br/><strong>Cast</strong>: Eleanor O'Brien<br/><strong>Designers</strong>: Nate Jensen<br/><strong>Stage Manager</strong>: Nate Jensen<br/>",
+  "website": "https://dancenakedcreative.com",
+  "plain_language": "This show takes place in the year 2035. A woman named Mama V leads secret meetings where women celebrate their bodies and pleasure. Talking about sex and bodies is not allowed anymore. Mama V and her friends share happy and healing stories because they want everyone to feel good about their bodies. The show uses jokes to talk about serious things. One actor plays Mama V on stage. Other people are shown on a screen like a video call. The show talks openly about sex. It is for adults but has no nudity. It lasts 60 minutes. Plan V is about hope, feeling connected, and stopping shame. It asks what life would be like if more people felt safe and happy in their bodies.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 16-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Faculty Events Centre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 34: The Faculty Events Centre",
+  "locationId": 34,
+  "location": "34: The Faculty Events Centre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Sexual Content</div> </span>",
+  "location_html": "<h3>The Faculty Events Centre</h3> <div class=\"addres-pin\"> <p>10151 82 Ave NW</p> <p>T6E 1Z6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>34: The Faculty Events Centre</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51809689,-113.49309023&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-16": [
+        {
+          "id": "601:43622",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:30",
+          "performanceRealTime": "2025-08-16 16:30:00",
+          "performanceDate": "16th August 2025 16:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43623",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:45",
+          "performanceRealTime": "2025-08-17 18:45:00",
+          "performanceDate": "17th August 2025 18:45",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43624",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-18 19:30:00",
+          "performanceDate": "18th August 2025 19:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43625",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-20 15:30:00",
+          "performanceDate": "20th August 2025 15:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43626",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-21 23:00:00",
+          "performanceDate": "21st August 2025 23:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43627",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-22 21:15:00",
+          "performanceDate": "22nd August 2025 21:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43628",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:45",
+          "performanceRealTime": "2025-08-23 14:45:00",
+          "performanceDate": "23rd August 2025 14:45",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43629",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:15",
+          "performanceRealTime": "2025-08-24 18:15:00",
+          "performanceDate": "24th August 2025 18:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6685",
+    "showAvailabilityInCalendar": true
+  }
+}

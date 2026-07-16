@@ -1,0 +1,216 @@
+{
+  "image": "6584\\6584.jpg",
+  "title": "Third Party",
+  "description": "A couple finds themselves caught in the web of a detective-turned-insurance adjustor, who will do anything to uncover the secrets they've been keeping from Manitoba Public Insurance – and from each other. From the writer and producers of House of Gold (★★★★★ – Winnipeg Free Press, 2024)",
+  "credits": "<strong>Playwright</strong>: Thomas McLeod<br/><strong>Director</strong>: Theresa Thomson<br/><strong>Cast</strong>: Thomas McLeod, Dane Bjornson, Alanna McPherson<br/><strong>Stage Manager</strong>: Willow Harvey<br/>",
+  "website": "https://www.instagram.com/brighterdarktheatre",
+  "plain_language": "Third Party is about Brett and Julie, a couple arguing over who will pay for a car accident Brett caused. Trying to avoid big insurance fees, they attempt to fool their old-school adjustor, Marty Fink, over the phone. But he turns the tables, uncovering secrets and manipulating during the call.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 45 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Waffle Bird",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 35: Waffle Bird",
+  "locationId": 35,
+  "location": "35: Waffle Bird",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence</div> </span>",
+  "location_html": "<h3>Waffle Bird</h3> <div class=\"addres-pin\"> <p>10347 80 Ave NW</p> <p>T6E 1T8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>35: Waffle Bird</h3> <div class=\"addres-pin\"> <p>10347 80 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51584000,-113.49564672&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42771",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-14 22:00:00",
+          "performanceDate": "14th August 2025 22:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42772",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-15 16:00:00",
+          "performanceDate": "15th August 2025 16:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42773",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-16 16:00:00",
+          "performanceDate": "16th August 2025 16:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42774",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-17 14:00:00",
+          "performanceDate": "17th August 2025 14:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42775",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-18 18:00:00",
+          "performanceDate": "18th August 2025 18:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42776",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:30",
+          "performanceRealTime": "2025-08-19 21:30:00",
+          "performanceDate": "19th August 2025 21:30",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42777",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:30",
+          "performanceRealTime": "2025-08-20 21:30:00",
+          "performanceDate": "20th August 2025 21:30",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42778",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:30",
+          "performanceRealTime": "2025-08-21 21:30:00",
+          "performanceDate": "21st August 2025 21:30",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42779",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-22 22:00:00",
+          "performanceDate": "22nd August 2025 22:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42780",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-23 16:00:00",
+          "performanceDate": "23rd August 2025 16:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42781",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-24 14:00:00",
+          "performanceDate": "24th August 2025 14:00",
+          "availability": 53,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6584",
+    "showAvailabilityInCalendar": true
+  }
+}

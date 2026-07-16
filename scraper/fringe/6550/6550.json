@@ -1,0 +1,165 @@
+{
+  "image": "6550\\6550.jpg",
+  "title": "Victor & Victoria's Terrifying Tale of Terrible Things",
+  "description": "Victor and Victoria’s Terrifying Tale of Terrible Things is a hilarious and horrifying exploration about whether or not to confront your fears. Victor and Victoria are fraternal twins who discover a mysterious book and become immersed in a frightening tale about a sinister family secret that will change their lives forever.",
+  "credits": "<strong>Playwright</strong>: Beth Graham &amp; Nathan Cuckow<br/><strong>Director</strong>: Jim Guedo<br/><strong>Cast</strong>: Rain Matkin, Eli Yaschuk<br/><strong>Designers</strong>: Jim Guedo<br/><strong>Stage Manager</strong>: Ryan MacAuley<br/>",
+  "website": "https://www.instagram.com/thoughttraintheatre",
+  "plain_language": "Victor and Victoria's Terrifying Tale of Terrible Things follows twin siblings who find a mysterious book and must face their deepest fears to uncover its secrets and learn about their future.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 70 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Varscona Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 11: Varscona Theatre",
+  "locationId": 11,
+  "location": "11: Varscona Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Cartoonish Violence, Strobe Lights</div> </span>",
+  "location_html": "<h3>Varscona Theatre</h3> <div class=\"addres-pin\"> <p>10329 83 Avenue</p> <p>T6E 2C6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>11: Varscona Theatre</h3> <div class=\"addres-pin\"> <p>10329 83 Avenue</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51900214,-113.49711879&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42492",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-15 18:00:00",
+          "performanceDate": "15th August 2025 18:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42493",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-16 23:59:00",
+          "performanceDate": "16th August 2025 23:59",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42494",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-17 18:00:00",
+          "performanceDate": "17th August 2025 18:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42495",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-18 14:00:00",
+          "performanceDate": "18th August 2025 14:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42496",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-19 12:00:00",
+          "performanceDate": "19th August 2025 12:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42497",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-20 16:00:00",
+          "performanceDate": "20th August 2025 16:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42498",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-22 12:00:00",
+          "performanceDate": "22nd August 2025 12:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42499",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-23 20:00:00",
+          "performanceDate": "23rd August 2025 20:00",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6550",
+    "showAvailabilityInCalendar": true
+  }
+}

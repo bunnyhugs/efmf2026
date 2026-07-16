@@ -1,0 +1,165 @@
+{
+  "image": "6709\\6709.jpg",
+  "title": "Mathew's Big Broadway Bash",
+  "description": "Fresh off a hit run at the Toronto Fringe, Mathew's Big Broadway Bash brings powerhouse vocals, heartfelt storytelling, and surprise sing-a-longs. Big voice, bare feet, and all heart. \"A unique Fringe treat.\"- Ross Steve, Front Mezz Junkies",
+  "credits": "<strong>Playwright</strong>: Mathew Mac Lean<br/><strong>Director</strong>: Mathew Mac Lean<br/><strong>Cast</strong>: Mathew Mac Lean<br/><strong>Designers</strong>: Mathew Mac Lean<br/><strong>Stage Manager</strong>: Mathew Mac Lean<br/>",
+  "website": "https://torontocabaretproductions.com",
+  "plain_language": "Mathew’s Big Broadway Bash is a fun and feel-good cabaret show filled with songs from your favourite musicals. It’s not a big Broadway show with big money — it’s a small, heartwarming show made with love, creativity, and a lot of passion. You’ll hear songs from shows like Grease, Cats, Mamma Mia!, The Little Mermaid, Pippin, and The Sound of Music. This is more than just a show — it’s a celebration! We sing, we laugh, and we welcome the audience to join the fun. Whether you sing along quietly or imagine yourself on stage, this night is for you. This cabaret is about community, joy, and making musical theatre more accessible for everyone. It’s bold, a little scrappy (this is Fringe!), and full of heart.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Holy Trinity Anglican Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 22: The de Villars Jones LLP Stage",
+  "locationId": 22,
+  "location": "22: The de Villars Jones LLP Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "",
+  "location_html": "<h3>Holy Trinity Anglican Church</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> <p>T6E 2G6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>22: The de Villars Jones LLP Stage</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52050040,-113.49051258&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43801",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:45",
+          "performanceRealTime": "2025-08-15 19:45:00",
+          "performanceDate": "15th August 2025 19:45",
+          "availability": 138,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43802",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-16 17:15:00",
+          "performanceDate": "16th August 2025 17:15",
+          "availability": 138,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43803",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:45",
+          "performanceRealTime": "2025-08-17 19:45:00",
+          "performanceDate": "17th August 2025 19:45",
+          "availability": 138,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43804",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:30",
+          "performanceRealTime": "2025-08-19 13:30:00",
+          "performanceDate": "19th August 2025 13:30",
+          "availability": 138,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43805",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:45",
+          "performanceRealTime": "2025-08-20 14:45:00",
+          "performanceDate": "20th August 2025 14:45",
+          "availability": 138,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43806",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-21 17:15:00",
+          "performanceDate": "21st August 2025 17:15",
+          "availability": 138,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43807",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:45",
+          "performanceRealTime": "2025-08-22 19:45:00",
+          "performanceDate": "22nd August 2025 19:45",
+          "availability": 138,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43808",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-24 12:00:00",
+          "performanceDate": "24th August 2025 12:00",
+          "availability": 138,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6709",
+    "showAvailabilityInCalendar": true
+  }
+}

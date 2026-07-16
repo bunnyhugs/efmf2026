@@ -1,0 +1,148 @@
+{
+  "image": "6701\\6701.jpg",
+  "title": "2 Magic Rubies, 1 Private Eye: A Dirk Darrow Investigation",
+  "description": "From 21 Fringe Awards winner Tim Motley... Wowing crowds the world over, this hilarious private eye is part comedian, part mind-reader, &amp; all gritty 1930‘s film-noir! ★★★★★ “The best private detective magician mentalist comedian” -Edmonton Sun ★★★★★ “Leave you speechless” -Theatre Matters. Patron’s Pick Award, Edmonton Fringe",
+  "credits": "<strong>Playwright</strong>: Tim Motley<br/>",
+  "website": "https://timmotley.com",
+  "plain_language": "From Tim Motley, winner of 21 Fringe awards, comes a funny mix of comedy, magic, and 1930s film-noir. This private eye is part detective, part mentalist, and all showman. Think The Penguin meets Naked Gun. Based on a story by The Maltese Falcon author, this award-winning hit is packed with laughs, surprises, and mind-blowing tricks.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Magic",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Old Strathcona Performing Arts Centre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 08: Kick Point Old Strathcona Performing Arts Centre",
+  "locationId": 8,
+  "location": "08: Kick Point Old Strathcona Performing Arts Centre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Gunshots, Smoke/Fog</div> </span>",
+  "location_html": "<h3>Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> <p>T6E 4B4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>08: Kick Point Old Strathcona Performing Arts Centre</h3> <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52059939,-113.49560185&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43746",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43747",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-16 12:00:00",
+          "performanceDate": "16th August 2025 12:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43748",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-17 21:15:00",
+          "performanceDate": "17th August 2025 21:15",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43749",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:45",
+          "performanceRealTime": "2025-08-18 16:45:00",
+          "performanceDate": "18th August 2025 16:45",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43750",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-20 14:00:00",
+          "performanceDate": "20th August 2025 14:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43751",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-22 19:00:00",
+          "performanceDate": "22nd August 2025 19:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43752",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-23 12:00:00",
+          "performanceDate": "23rd August 2025 12:00",
+          "availability": 157,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6701",
+    "showAvailabilityInCalendar": true
+  }
+}

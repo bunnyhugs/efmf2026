@@ -1,0 +1,148 @@
+{
+  "image": "6535\\6535.jpeg",
+  "title": "Emil Amok: 69",
+  "description": "Can a Filipino American help restore Canadians faith in the U.S.? A former host of NPR’s “All Things Considered,” goes amok when everything’s flipped. Emil takes Trump 2.0 personally, starting with the colonization of his father’s country to the safety of his trans-daughter. Amok over tariffs, Kilmar, Da Pope, Da Plane.",
+  "credits": "<strong>Playwright</strong>: Emil Amok Guillermo<br/><strong>Director</strong>: Emil Amok Guillermo<br/><strong>Cast</strong>: Emil Amok Guillermo<br/>",
+  "website": "https://amok.com",
+  "plain_language": "A former NPR host goes amok as he considers the first year of Trump 2.0 where it’s a 69 world and everything’s flipped. Canadians are lucky. How do you think Americans feel? Emil’s Filipino American perspective goes from 1898 and his father’s colonization, to the the concern for his trans-daughter today. Emil finds the absurd to transform the anger.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Acacia Hall",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 05: Acacia Hall",
+  "locationId": 5,
+  "location": "05: Acacia Hall",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Political Content</div> </span>",
+  "location_html": "<h3>Acacia Hall</h3> <div class=\"addres-pin\"> <p>10433 83 Avenue</p> <p>T6E 2C7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>05: Acacia Hall</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51899100,-113.49884189&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42385",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-15 17:00:00",
+          "performanceDate": "15th August 2025 17:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42386",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-16 21:00:00",
+          "performanceDate": "16th August 2025 21:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42387",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-18 17:00:00",
+          "performanceDate": "18th August 2025 17:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42388",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-20 19:00:00",
+          "performanceDate": "20th August 2025 19:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42389",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-21 23:00:00",
+          "performanceDate": "21st August 2025 23:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42390",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-22 14:15:00",
+          "performanceDate": "22nd August 2025 14:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42391",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-24 12:00:00",
+          "performanceDate": "24th August 2025 12:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6535",
+    "showAvailabilityInCalendar": true
+  }
+}

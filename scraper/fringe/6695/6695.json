@@ -1,0 +1,165 @@
+{
+  "image": "6695\\6695.jpg",
+  "title": "Mean Streets Improv: An Hour",
+  "description": "Local performers take the stage to perform a new show each night. From an improvised movie pitch to competitive comedy, audience suggestions and interactions will inspire one off world premieres never to be seen again. Laugh, cry, and maybe even discover a new fondness for improv comedy.",
+  "credits": "<strong>Cast</strong>: Duncan Macaulay, Matthew Kusmire, Logan Teske, Jack Rasmussen, Michael Kernan, Kobe Anderson, Ben Draper, Damara Melanson, Jacob Schulz, Tessa Yakimchuk<br/>",
+  "website": "",
+  "plain_language": "Improvisors create a new show each day using audience suggestions. Performers change, making sure it is a fresh show every night.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Improv/Sketch",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $16.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Trinity Evangelical Lutheran Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 18: The FOH PRO Stage",
+  "locationId": 18,
+  "location": "18: The FOH PRO Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence</div> </span>",
+  "location_html": "<h3>Trinity Evangelical Lutheran Church</h3> <div class=\"addres-pin\"> <p>10014 81 Ave NW</p> <p>T6E 1W8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>18: The FOH PRO Stage</h3> <div class=\"addres-pin\"> <p>10014 81 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51736254,-113.48933039&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43698",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-15 23:59:00",
+          "performanceDate": "15th August 2025 23:59",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43699",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-16 16:00:00",
+          "performanceDate": "16th August 2025 16:00",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43700",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-17 14:15:00",
+          "performanceDate": "17th August 2025 14:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43701",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-18 21:15:00",
+          "performanceDate": "18th August 2025 21:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43702",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-20 19:30:00",
+          "performanceDate": "20th August 2025 19:30",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43703",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:45",
+          "performanceRealTime": "2025-08-21 17:45:00",
+          "performanceDate": "21st August 2025 17:45",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43704",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-22 14:15:00",
+          "performanceDate": "22nd August 2025 14:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43705",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-23 14:15:00",
+          "performanceDate": "23rd August 2025 14:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6695",
+    "showAvailabilityInCalendar": true
+  }
+}

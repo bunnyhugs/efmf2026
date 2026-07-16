@@ -1,0 +1,131 @@
+{
+  "image": "6691\\6691.jpg",
+  "title": "Adam Bailey: My Three Deaths",
+  "description": "No matter how many times you die, you only live once! Despite facing death, the award-winning creator of The Life Henri, &amp; Adam Bailey is On Fire, lives on to tell the tales in this personal, funny and poignant show covering all life has to offer. “This puckish urchin of a guy is agreeably user-friendly” - Edmonton Journal",
+  "credits": "<strong>Playwright</strong>: Adam Bailey<br/><strong>Director</strong>: Adam Bailey<br/><strong>Cast</strong>: Adam Bailey<br/>",
+  "website": "https://stillyourfriend.com",
+  "plain_language": "In this heartfelt and funny storytelling show, Adam Bailey shares six true stories: three about facing his own death, and three about the death of loved ones in a single year. Weaving together themes of family, LGBTQ+ identity, and even the supernatural, he tells a touching story of his relationship with his mother that shows how even life’s hardest moments hold humor.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Acacia Hall",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 05: Acacia Hall",
+  "locationId": 5,
+  "location": "05: Acacia Hall",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death</div> </span>",
+  "location_html": "<h3>Acacia Hall</h3> <div class=\"addres-pin\"> <p>10433 83 Avenue</p> <p>T6E 2C7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>05: Acacia Hall</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51899100,-113.49884189&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43667",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-15 12:15:00",
+          "performanceDate": "15th August 2025 12:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43668",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-17 21:00:00",
+          "performanceDate": "17th August 2025 21:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43669",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-19 19:00:00",
+          "performanceDate": "19th August 2025 19:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43670",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-20 14:15:00",
+          "performanceDate": "20th August 2025 14:15",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43671",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-22 17:00:00",
+          "performanceDate": "22nd August 2025 17:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43672",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-24 20:00:00",
+          "performanceDate": "24th August 2025 20:00",
+          "availability": 79,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6691",
+    "showAvailabilityInCalendar": true
+  }
+}

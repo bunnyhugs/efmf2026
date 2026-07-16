@@ -1,0 +1,165 @@
+{
+  "image": "6663\\6663.jpg",
+  "title": "The Divorced Dad's Guide to Slaying Vampires",
+  "description": "From the playwright that brought you \"Musical for the Endtimes\" and the director of \"Sweet Jesus: The Gospel According to Felt.\" A punchy new comedy about fatherhood (and fighting vampires). Kevin, a recently divorced Dad, must fight to free St. Albert from Dracula's fascist regime.",
+  "credits": "<strong>Playwright</strong>: Matthew Hackett<br/><strong>Director</strong>: Ben Osgood<br/><strong>Cast</strong>: Colin Bluekens, Alexandra Lepage, Aidan Laudersmith, Jackson Card, Rowan Andruik, Marshall Eglinski, Sheldon Stockdale, Randy Brososky<br/><strong>Designers</strong>: Amy Dass, Matthew Anderson, Shane Marsh<br/><strong>Stage Manager</strong>: Liora Friedland<br/>",
+  "website": "https://www.instagram.com/divorceddadvsvampires",
+  "plain_language": "In St. Albert, vampires take over the city. Kevin, a divorced dad and former punk rocker, teams up with his daughter’s friends, Sarah and Finley, to fight the vampires and save the people. Kevin also tries to help his old bandmate Brad, who is Finley’s dad. They all face their fears and family problems. The show has original punk music by Edmonton band FOOLS.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Trinity Evangelical Lutheran Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 18: The FOH PRO Stage",
+  "locationId": 18,
+  "location": "18: The FOH PRO Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Political Content, Smoke/Fog, Violence</div> </span>",
+  "location_html": "<h3>Trinity Evangelical Lutheran Church</h3> <div class=\"addres-pin\"> <p>10014 81 Ave NW</p> <p>T6E 1W8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>18: The FOH PRO Stage</h3> <div class=\"addres-pin\"> <p>10014 81 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51736254,-113.48933039&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43456",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:15",
+          "performanceRealTime": "2025-08-15 22:15:00",
+          "performanceDate": "15th August 2025 22:15",
+          "availability": 186,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43457",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:59",
+          "performanceRealTime": "2025-08-16 23:59:00",
+          "performanceDate": "16th August 2025 23:59",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43458",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:15",
+          "performanceRealTime": "2025-08-18 23:15:00",
+          "performanceDate": "18th August 2025 23:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43459",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-19 19:30:00",
+          "performanceDate": "19th August 2025 19:30",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43460",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-20 15:30:00",
+          "performanceDate": "20th August 2025 15:30",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43461",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-21 21:15:00",
+          "performanceDate": "21st August 2025 21:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43462",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-22 16:00:00",
+          "performanceDate": "22nd August 2025 16:00",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43463",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:45",
+          "performanceRealTime": "2025-08-23 18:45:00",
+          "performanceDate": "23rd August 2025 18:45",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6663",
+    "showAvailabilityInCalendar": true
+  }
+}

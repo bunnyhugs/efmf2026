@@ -1,0 +1,165 @@
+{
+  "image": "6600\\6600.jpg",
+  "title": "Nat & Chrissy: Everything is on the Table",
+  "description": "A high-energy duo serving up cheeky humour, delightfully absurd concepts, and an abundance of laughs. You know them from beloved Edmonton fixtures Weird Al Karaoke and Blue Halloo Comedy. Now, Nat &amp; Chrissy invite you to join them for a truly playful sketch comedy experience.",
+  "credits": "<strong>Cast</strong>: Nathalie Feehan &amp; Christine DeWitt<br/>",
+  "website": "",
+  "plain_language": "This is a sketch comedy show written and performed by Nat &amp; Chrissy, who have been active members of the Edmonton comedy community for over a decade. The sketches in this show are absurd, playful, and light-hearted. Some sketches are connected, while others are one-offs. The show contains some adult language and explores mature themes including sexuality.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 50 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Grindstone - Comedy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 17: The Grindstone - Comedy Theatre &amp; Bistro",
+  "locationId": 17,
+  "location": "17: The Grindstone - Comedy Theatre &amp; Bistro",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Sexual Content</div> </span>",
+  "location_html": "<h3>The Grindstone - Comedy Theatre</h3> <div class=\"addres-pin\"> <p>10019 81 Ave NW</p> <p>T6E-1W7</p> </div> <!--<a href=\"#\"></a>--> <span>780-244-9076</span> <a href=\"mailto:grindstonetheatreyeg@gmail.com\">grindstonetheatreyeg@gmail.com</a> <h3>17: The Grindstone - Comedy Theatre &amp; Bistro</h3> <div class=\"addres-pin\"> <p>10019 81 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51691297,-113.48956407&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42904",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:30",
+          "performanceRealTime": "2025-08-14 23:30:00",
+          "performanceDate": "14th August 2025 23:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42905",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-15 18:00:00",
+          "performanceDate": "15th August 2025 18:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42906",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-16 12:15:00",
+          "performanceDate": "16th August 2025 12:15",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42907",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-17 22:00:00",
+          "performanceDate": "17th August 2025 22:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42908",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-18 19:15:00",
+          "performanceDate": "18th August 2025 19:15",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42909",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:15",
+          "performanceRealTime": "2025-08-19 15:15:00",
+          "performanceDate": "19th August 2025 15:15",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42910",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-21 23:00:00",
+          "performanceDate": "21st August 2025 23:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42911",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:45",
+          "performanceRealTime": "2025-08-23 15:45:00",
+          "performanceDate": "23rd August 2025 15:45",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6600",
+    "showAvailabilityInCalendar": true
+  }
+}

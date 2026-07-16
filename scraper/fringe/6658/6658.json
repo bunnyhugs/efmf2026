@@ -1,0 +1,94 @@
+{
+  "image": "6658\\6658.jpg",
+  "title": "God Is A Scottish Drag Queen (All New)",
+  "description": "Direct from London's West End, the award-winning fringe hit returns with an all-new show! Edmonton's favourite Scottish deity, dressed in a floral power suit, is back to expound on everything from fish bowls to therapy in an all new and hilarious night of comedy.",
+  "credits": "<strong>Playwright</strong>: Mike &amp; Chantelle Delamont<br/><strong>Director</strong>: Mike &amp; Chantelle Delamont<br/><strong>Cast</strong>: Mike Delamont<br/><strong>Stage Manager</strong>: Chantelle Delamont<br/>",
+  "website": "https://mikedelamont.com | https://instagram.com/themikedelamont",
+  "plain_language": "This show features God, a Scottish drag queen who wears a floral suit, who tells funny stories about lots of different topics.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 22-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Garneau Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 24: Garneau Theatre",
+  "locationId": 24,
+  "location": "24: Garneau Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Political Content, Religious Content</div> </span>",
+  "location_html": "<h3>Garneau Theatre</h3> <div class=\"addres-pin\"> <p>8712 109 Street</p> <p>T6G 3E9</p> </div> <!--<a href=\"#\"></a>--> <span>780-425-9212</span> <a href=\"mailto:director@metrocinema.org\">director@metrocinema.org</a> <h3>24: Garneau Theatre</h3> <div class=\"addres-pin\"> <p>8712 109 Street</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52311186,-113.51231396&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-22": [
+        {
+          "id": "601:43420",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-22 19:00:00",
+          "performanceDate": "22nd August 2025 19:00",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43421",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-23 15:00:00",
+          "performanceDate": "23rd August 2025 15:00",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        },
+        {
+          "id": "601:43422",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-23 21:00:00",
+          "performanceDate": "23rd August 2025 21:00",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43423",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-24 15:00:00",
+          "performanceDate": "24th August 2025 15:00",
+          "availability": 473,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6658",
+    "showAvailabilityInCalendar": true
+  }
+}

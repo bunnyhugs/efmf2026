@@ -1,0 +1,165 @@
+{
+  "image": "6570\\6570.jpg",
+  "title": "The Pansy Cabaret",
+  "description": "Take a step back in time to when queer artists ruled Vaudeville stages, and frivolity was the fashion. Featuring songs and monologues from up to a hundred years ago, as performed by Sterling Award WINNER Lilith Fair (\"Outstanding Fringe Performance by an Individual\" - The Pansy Cabaret - 2023).",
+  "credits": "<strong>Playwright</strong>: Darrin Hagen<br/><strong>Director</strong>: Darrin Hagen<br/><strong>Cast</strong>: Zachary Parsons-Lozinski aka Lilith Fair, Daniel Belland<br/>",
+  "website": "",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Cabaret/Variety",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Grindstone - Comedy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 17: The Grindstone - Comedy Theatre &amp; Bistro",
+  "locationId": 17,
+  "location": "17: The Grindstone - Comedy Theatre &amp; Bistro",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Political Content</div> </span>",
+  "location_html": "<h3>The Grindstone - Comedy Theatre</h3> <div class=\"addres-pin\"> <p>10019 81 Ave NW</p> <p>T6E-1W7</p> </div> <!--<a href=\"#\"></a>--> <span>780-244-9076</span> <a href=\"mailto:grindstonetheatreyeg@gmail.com\">grindstonetheatreyeg@gmail.com</a> <h3>17: The Grindstone - Comedy Theatre &amp; Bistro</h3> <div class=\"addres-pin\"> <p>10019 81 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51691297,-113.48956407&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42655",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-14 20:00:00",
+          "performanceDate": "14th August 2025 20:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42656",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-16 22:00:00",
+          "performanceDate": "16th August 2025 22:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43995",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-17 14:00:00",
+          "performanceDate": "17th August 2025 14:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42657",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-19 21:00:00",
+          "performanceDate": "19th August 2025 21:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42658",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-20 19:15:00",
+          "performanceDate": "20th August 2025 19:15",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42659",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:15",
+          "performanceRealTime": "2025-08-21 15:15:00",
+          "performanceDate": "21st August 2025 15:15",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42660",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:45",
+          "performanceRealTime": "2025-08-23 23:45:00",
+          "performanceDate": "23rd August 2025 23:45",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42661",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:45",
+          "performanceRealTime": "2025-08-24 15:45:00",
+          "performanceDate": "24th August 2025 15:45",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6570",
+    "showAvailabilityInCalendar": true
+  }
+}

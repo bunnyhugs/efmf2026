@@ -1,0 +1,199 @@
+{
+  "image": "6565\\6565.jpg",
+  "title": "Zombies, Inc.",
+  "description": "Zombies roam Manhattan. Ray’s still chasing commissions. Trapped inside New York’s iconic Rockefeller Plaza, one desperate jeweler battles the undead, late capitalism, and his unraveling dreams. A darkly funny solo musical with a killer score, ZOMBIES, INC. asks: what’s worth dying for—and what’s worth waking up to?",
+  "credits": "<strong>Playwright</strong>: Marcus Perkins Bejarano, Kim Jinhyoung<br/><strong>Director</strong>: Devanand Janki MUSIC DIR Ryan Sigurdson<br/><strong>Cast</strong>: Damon Pitcher<br/><strong>Stage Manager</strong>: Phoenix McLeod<br/>",
+  "website": "https://liveandincolor.org | @theatreincolor | zombies-inc.com | @zombiesinc.musical",
+  "plain_language": "ZOMBIES, INC. is a one-person musical about Ray, who works in a New York jewelry store. When a zombie apocalypse begins, he gets stuck at work but still dreams about his future. Through songs and funny stories, Ray wonders if he was already living like a zombie before everything changed. The show is about love, loneliness, and what it means to be alive.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 75 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Strathcona High School",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 29: Strathcona High School",
+  "locationId": 29,
+  "location": "29: Strathcona High School",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Death, Mental Illness/Disorders, Sexual Content, Smoke/Fog, Suicide</div> </span>",
+  "location_html": "<h3>Strathcona High School</h3> <div class=\"addres-pin\"> <p>10450 72 Ave NW</p> <p>T6E 0Z6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>29: Strathcona High School</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.50896567,-113.50007772&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42616",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-14 22:30:00",
+          "performanceDate": "14th August 2025 22:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42617",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-15 18:00:00",
+          "performanceDate": "15th August 2025 18:00",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42618",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:30",
+          "performanceRealTime": "2025-08-16 14:30:00",
+          "performanceDate": "16th August 2025 14:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42619",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:30",
+          "performanceRealTime": "2025-08-17 14:30:00",
+          "performanceDate": "17th August 2025 14:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42620",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-18 20:00:00",
+          "performanceDate": "18th August 2025 20:00",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42621",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-19 22:30:00",
+          "performanceDate": "19th August 2025 22:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42622",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-20 18:00:00",
+          "performanceDate": "20th August 2025 18:00",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42623",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-21 16:00:00",
+          "performanceDate": "21st August 2025 16:00",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42624",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-22 22:30:00",
+          "performanceDate": "22nd August 2025 22:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42625",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:30",
+          "performanceRealTime": "2025-08-23 14:30:00",
+          "performanceDate": "23rd August 2025 14:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6565",
+    "showAvailabilityInCalendar": true
+  }
+}

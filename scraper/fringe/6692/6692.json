@@ -1,0 +1,179 @@
+{
+  "image": "6692\\6692.jpg",
+  "title": "Assassins",
+  "description": "Stephen Sondheim's Assassins is a bold, chilling, and darkly funny journey through the minds of America's four successful and five would-be presidential assassins. This Tony-Award winning musical explores celebrity culture and the violent means that some will use to obtain the American Dream.",
+  "credits": "<strong>Playwright</strong>: Stephen Sondheim, John Weidman<br/><strong>Director</strong>: Sarah Dowling, MD: Mackenzie Tennessen, Choreo: Samantha Ketsa<br/><strong>Cast</strong>: Cameron Chapman, Brian Christensen, Alyson Horne, Anthony Hurst, Bella King, Nico Maionara, Damon Pitcher, Dustyn Tennessen, Michael Vetsch, Aran Wilson-McAnally<br/><strong>Stage Manager</strong>: Kandice Laurie<br/>",
+  "website": "",
+  "plain_language": "",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 90 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>ArtsHub Ortona",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 36: ArtsHub Ortona",
+  "locationId": 36,
+  "location": "36: ArtsHub Ortona",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Gunshots, Political Content, Suicide, Violence</div> </span>",
+  "location_html": "<h3>ArtsHub Ortona</h3> <div class=\"addres-pin\"> <p>9722 102 ST NW</p> <p>T5K 0X4</p> </div> <!--<a href=\"#\"></a>--> <span>7806679027</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>36: ArtsHub Ortona</h3> <div class=\"addres-pin\"> <p>9722 102 ST NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.53478510,-113.49646640&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43673",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-15 20:15:00",
+          "performanceDate": "15th August 2025 20:15",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43674",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-16 19:30:00",
+          "performanceDate": "16th August 2025 19:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43675",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-17 19:30:00",
+          "performanceDate": "17th August 2025 19:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43676",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-19 19:30:00",
+          "performanceDate": "19th August 2025 19:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43677",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-20 21:00:00",
+          "performanceDate": "20th August 2025 21:00",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43678",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-21 18:30:00",
+          "performanceDate": "21st August 2025 18:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43679",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-22 19:30:00",
+          "performanceDate": "22nd August 2025 19:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43680",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-23 19:30:00",
+          "performanceDate": "23rd August 2025 19:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        },
+        {
+          "id": "601:43681",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:30",
+          "performanceRealTime": "2025-08-23 23:30:00",
+          "performanceDate": "23rd August 2025 23:30",
+          "availability": 99,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6692",
+    "showAvailabilityInCalendar": true
+  }
+}

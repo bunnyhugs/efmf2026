@@ -1,0 +1,131 @@
+{
+  "image": "6530\\6530.jpg",
+  "title": "Genesis",
+  "description": "On a mission to craft the perfect play, struggling playwright Adam switches roles with his character Eve in a hopeless attempt to break through writer’s block. Genesis is a playful existential dive into love, freedom, and the stories we choose to (or not to) live in.",
+  "credits": "<strong>Playwright</strong>: Moemen Gaafar<br/><strong>Director</strong>: Moemen Gaafar<br/><strong>Cast</strong>: Ali Muhammad Khowaja, Kit Brooks<br/><strong>Designers</strong>: Amy Dass, Harjot Bassi<br/><strong>Stage Manager</strong>: Maddy Lee<br/>",
+  "website": "",
+  "plain_language": "Adam is a playwriter who can’t think of what to write. He brings one of his characters, Eve, to life to help. When that doesn’t work, he asks her to write him into a play so he can create something great. This show is a playful story about love, freedom, and how we choose to live our lives.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $16.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 22, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Fringe Theatre Arts Barns",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 02: The Next Act Backstage Theatre",
+  "locationId": 2,
+  "location": "02: The Next Act Backstage Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol, Religious Content, Strobe Lights</div> </span>",
+  "location_html": "<h3>Fringe Theatre Arts Barns</h3> <div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>02: The Next Act Backstage Theatre</h3> <div class=\"addres-pin\"> <p>10330 84 Avenue NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51987100,-113.49598200&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42354",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-15 23:00:00",
+          "performanceDate": "15th August 2025 23:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42355",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-17 19:00:00",
+          "performanceDate": "17th August 2025 19:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42356",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-19 21:00:00",
+          "performanceDate": "19th August 2025 21:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42357",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-20 17:00:00",
+          "performanceDate": "20th August 2025 17:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42358",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-21 12:15:00",
+          "performanceDate": "21st August 2025 12:15",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42359",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-22 14:15:00",
+          "performanceDate": "22nd August 2025 14:15",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6530",
+    "showAvailabilityInCalendar": true
+  }
+}

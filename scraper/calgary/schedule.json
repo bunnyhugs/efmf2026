@@ -1,0 +1,3104 @@
+{
+  "2025-07-24": {
+    "date": "Thu, Jul 24 2025",
+    "gate_open_time": "",
+    "schedule": {
+      "239": {
+        "showId": "239",
+        "showName": "Olive Klug",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-24",
+        "endDate": "2025-07-24",
+        "startTime": "17:30:00",
+        "endTime": "18:20:00",
+        "startDateTime": "2025-07-24T17:30:00",
+        "endDateTime": "2025-07-24T18:20:00",
+        "tags": [
+          "Olive Klug"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "olive-klug": {
+            "slug": "olive-klug",
+            "name": "Olive Klug"
+          }
+        }
+      },
+      "240": {
+        "showId": "240",
+        "showName": "Elisapie",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-24",
+        "endDate": "2025-07-24",
+        "startTime": "18:35:00",
+        "endTime": "19:30:00",
+        "startDateTime": "2025-07-24T18:35:00",
+        "endDateTime": "2025-07-24T19:30:00",
+        "tags": [
+          "Elisapie"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "elisapie": {
+            "slug": "elisapie",
+            "name": "Elisapie"
+          }
+        }
+      },
+      "241": {
+        "showId": "241",
+        "showName": "Michael Kiwanuka",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-24",
+        "endDate": "2025-07-24",
+        "startTime": "19:45:00",
+        "endTime": "21:00:00",
+        "startDateTime": "2025-07-24T19:45:00",
+        "endDateTime": "2025-07-24T21:00:00",
+        "tags": [
+          "Michael Kiwanuka"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {}
+      },
+      "242": {
+        "showId": "242",
+        "showName": "Sierra Ferrell",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-24",
+        "endDate": "2025-07-24",
+        "startTime": "21:15:00",
+        "endTime": "22:30:00",
+        "startDateTime": "2025-07-24T21:15:00",
+        "endDateTime": "2025-07-24T22:30:00",
+        "tags": [
+          "Sierra Ferrell"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "sierra-ferrell": {
+            "slug": "sierra-ferrell",
+            "name": "Sierra Ferrell"
+          }
+        }
+      },
+      "243": {
+        "showId": "243",
+        "showName": "VÍÍK",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-24",
+        "endDate": "2025-07-24",
+        "startTime": "17:45:00",
+        "endTime": "18:35:00",
+        "startDateTime": "2025-07-24T17:45:00",
+        "endDateTime": "2025-07-24T18:35:00",
+        "tags": [
+          "VÍÍK"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "viik": {
+            "slug": "viik",
+            "name": "VÍÍK"
+          }
+        }
+      },
+      "244": {
+        "showId": "244",
+        "showName": "Jolie Laide",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-24",
+        "endDate": "2025-07-24",
+        "startTime": "18:55:00",
+        "endTime": "19:45:00",
+        "startDateTime": "2025-07-24T18:55:00",
+        "endDateTime": "2025-07-24T19:45:00",
+        "tags": [
+          "Jolie Laide"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "jolie-laide": {
+            "slug": "jolie-laide",
+            "name": "Jolie Laide"
+          }
+        }
+      },
+      "245": {
+        "showId": "245",
+        "showName": "Empanadas Ilegales",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-24",
+        "endDate": "2025-07-24",
+        "startTime": "20:00:00",
+        "endTime": "21:05:00",
+        "startDateTime": "2025-07-24T20:00:00",
+        "endDateTime": "2025-07-24T21:05:00",
+        "tags": [
+          "Empanadas Ilegales"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "empanadas-ilegales": {
+            "slug": "empanadas-ilegales",
+            "name": "Empanadas Ilegales"
+          }
+        }
+      },
+      "246": {
+        "showId": "246",
+        "showName": "The Heavy Heavy",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-24",
+        "endDate": "2025-07-24",
+        "startTime": "21:25:00",
+        "endTime": "22:30:00",
+        "startDateTime": "2025-07-24T21:25:00",
+        "endDateTime": "2025-07-24T22:30:00",
+        "tags": [
+          "The Heavy Heavy"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "the-heavy-heavy": {
+            "slug": "the-heavy-heavy",
+            "name": "The Heavy Heavy"
+          }
+        }
+      }
+    }
+  },
+  "2025-07-25": {
+    "date": "Fri, Jul 25 2025",
+    "gate_open_time": "",
+    "schedule": {
+      "105": {
+        "showId": "105",
+        "showName": "The Coffee House",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "15:00:00",
+        "endTime": "16:10:00",
+        "startDateTime": "2025-07-25T15:00:00",
+        "endDateTime": "2025-07-25T16:10:00",
+        "tags": [
+          "Al Qahwa",
+          "VÍÍK",
+          "Elisapie"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "al-qawha": {
+            "slug": "al-qawha",
+            "name": "Al Qahwa"
+          },
+          "viik": {
+            "slug": "viik",
+            "name": "VÍÍK"
+          },
+          "elisapie": {
+            "slug": "elisapie",
+            "name": "Elisapie"
+          }
+        }
+      },
+      "106": {
+        "showId": "106",
+        "showName": "Currency Converters",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "16:25:00",
+        "endTime": "17:35:00",
+        "startDateTime": "2025-07-25T16:25:00",
+        "endDateTime": "2025-07-25T17:35:00",
+        "tags": [
+          "Tamar Ilana & Ventanas",
+          "The Langan Band",
+          "Elisapie"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "tamar-ilana-and-ventanas": {
+            "slug": "tamar-ilana-and-ventanas",
+            "name": "Tamar Ilana & Ventanas"
+          },
+          "the-langan-band": {
+            "slug": "the-langan-band",
+            "name": "The Langan Band"
+          },
+          "elisapie": {
+            "slug": "elisapie",
+            "name": "Elisapie"
+          }
+        }
+      },
+      "107": {
+        "showId": "107",
+        "showName": "Ready to (retro) roll",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "15:00:00",
+        "endTime": "16:10:00",
+        "startDateTime": "2025-07-25T15:00:00",
+        "endDateTime": "2025-07-25T16:10:00",
+        "tags": [
+          "The Heavy Heavy",
+          "The Hearts",
+          "Aladean Kheroufi",
+          "Ruby Waters"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "the-heavy-heavy": {
+            "slug": "the-heavy-heavy",
+            "name": "The Heavy Heavy"
+          },
+          "the-hearts": {
+            "slug": "the-hearts",
+            "name": "The Hearts"
+          },
+          "aladean-kheroufi": {
+            "slug": "aladean-kheroufi",
+            "name": "Aladean Kheroufi"
+          },
+          "ruby-waters": {
+            "slug": "ruby-waters",
+            "name": "Ruby Waters"
+          }
+        }
+      },
+      "108": {
+        "showId": "108",
+        "showName": "Get into the Groove",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "16:25:00",
+        "endTime": "17:35:00",
+        "startDateTime": "2025-07-25T16:25:00",
+        "endDateTime": "2025-07-25T17:35:00",
+        "tags": [
+          "Empanadas Ilegales",
+          "Daby Touré",
+          "Pahua"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "empanadas-ilegales": {
+            "slug": "empanadas-ilegales",
+            "name": "Empanadas Ilegales"
+          },
+          "daby-toure": {
+            "slug": "daby-toure",
+            "name": "Daby Touré"
+          },
+          "pahua": {
+            "slug": "pahua",
+            "name": "Pahua"
+          }
+        }
+      },
+      "256": {
+        "showId": "256",
+        "showName": "Bria Salmena",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "18:15:00",
+        "endTime": "19:10:00",
+        "startDateTime": "2025-07-25T18:15:00",
+        "endDateTime": "2025-07-25T19:10:00",
+        "tags": [
+          "Bria Salmena"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "bria-salmena": {
+            "slug": "bria-salmena",
+            "name": "Bria Salmena"
+          }
+        }
+      },
+      "257": {
+        "showId": "257",
+        "showName": "Dengue Fever",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "19:30:00",
+        "endTime": "20:25:00",
+        "startDateTime": "2025-07-25T19:30:00",
+        "endDateTime": "2025-07-25T20:25:00",
+        "tags": [
+          "Dengue Fever"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "dengue-fever": {
+            "slug": "dengue-fever",
+            "name": "Dengue Fever"
+          }
+        }
+      },
+      "258": {
+        "showId": "258",
+        "showName": "Moontricks",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "20:45:00",
+        "endTime": "21:40:00",
+        "startDateTime": "2025-07-25T20:45:00",
+        "endDateTime": "2025-07-25T21:40:00",
+        "tags": [
+          "Moontricks"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "moontricks": {
+            "slug": "moontricks",
+            "name": "Moontricks"
+          }
+        }
+      },
+      "259": {
+        "showId": "259",
+        "showName": "BADBADNOTGOOD",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "22:00:00",
+        "endTime": "23:10:00",
+        "startDateTime": "2025-07-25T22:00:00",
+        "endDateTime": "2025-07-25T23:10:00",
+        "tags": [
+          "BADBADNOTGOOD"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "badbadnotgood": {
+            "slug": "badbadnotgood",
+            "name": "BADBADNOTGOOD"
+          }
+        }
+      },
+      "109": {
+        "showId": "109",
+        "showName": "Keys to the City",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "15:00:00",
+        "endTime": "16:15:00",
+        "startDateTime": "2025-07-25T15:00:00",
+        "endDateTime": "2025-07-25T16:15:00",
+        "tags": [
+          "St.Arnaud",
+          "Olive Klug",
+          "Laura Hickli"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "st-arnaud": {
+            "slug": "st-arnaud",
+            "name": "St.Arnaud"
+          },
+          "olive-klug": {
+            "slug": "olive-klug",
+            "name": "Olive Klug"
+          },
+          "laura-hickli": {
+            "slug": "laura-hickli",
+            "name": "Laura Hickli"
+          }
+        }
+      },
+      "247": {
+        "showId": "247",
+        "showName": "Fruition",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "16:30:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-25T16:30:00",
+        "endDateTime": "2025-07-25T17:30:00",
+        "tags": [
+          "Fruition"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "fruition": {
+            "slug": "fruition",
+            "name": "Fruition"
+          }
+        }
+      },
+      "248": {
+        "showId": "248",
+        "showName": "Tinge",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "16:00:00",
+        "endTime": "16:45:00",
+        "startDateTime": "2025-07-25T16:00:00",
+        "endDateTime": "2025-07-25T16:45:00",
+        "tags": [
+          "Tinge"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "tinge": {
+            "slug": "tinge",
+            "name": "Tinge"
+          }
+        }
+      },
+      "249": {
+        "showId": "249",
+        "showName": "Pahua",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "15:00:00",
+        "endTime": "15:45:00",
+        "startDateTime": "2025-07-25T15:00:00",
+        "endDateTime": "2025-07-25T15:45:00",
+        "tags": [
+          "Pahua"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "pahua": {
+            "slug": "pahua",
+            "name": "Pahua"
+          }
+        }
+      },
+      "250": {
+        "showId": "250",
+        "showName": "Willi Carlisle",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "17:00:00",
+        "endTime": "17:45:00",
+        "startDateTime": "2025-07-25T17:00:00",
+        "endDateTime": "2025-07-25T17:45:00",
+        "tags": [
+          "Willi Carlisle"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "willi-carlisle": {
+            "slug": "willi-carlisle",
+            "name": "Willi Carlisle"
+          }
+        }
+      },
+      "251": {
+        "showId": "251",
+        "showName": "Emily Wurramara",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "17:30:00",
+        "endTime": "18:15:00",
+        "startDateTime": "2025-07-25T17:30:00",
+        "endDateTime": "2025-07-25T18:15:00",
+        "tags": [
+          "Emily Wurramara"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "emily-wurramara": {
+            "slug": "emily-wurramara",
+            "name": "Emily Wurramara"
+          }
+        }
+      },
+      "252": {
+        "showId": "252",
+        "showName": "Katie Tupper",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "18:30:00",
+        "endTime": "19:30:00",
+        "startDateTime": "2025-07-25T18:30:00",
+        "endDateTime": "2025-07-25T19:30:00",
+        "tags": [
+          "Katie Tupper"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "katie-tupper": {
+            "slug": "katie-tupper",
+            "name": "Katie Tupper"
+          }
+        }
+      },
+      "253": {
+        "showId": "253",
+        "showName": "Cymande",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "19:35:00",
+        "endTime": "20:45:00",
+        "startDateTime": "2025-07-25T19:35:00",
+        "endDateTime": "2025-07-25T20:45:00",
+        "tags": [
+          "Cymande"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "cymande": {
+            "slug": "cymande",
+            "name": "Cymande"
+          }
+        }
+      },
+      "254": {
+        "showId": "254",
+        "showName": "Ruby Waters",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "20:50:00",
+        "endTime": "22:00:00",
+        "startDateTime": "2025-07-25T20:50:00",
+        "endDateTime": "2025-07-25T22:00:00",
+        "tags": [
+          "Ruby Waters"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "ruby-waters": {
+            "slug": "ruby-waters",
+            "name": "Ruby Waters"
+          }
+        }
+      },
+      "255": {
+        "showId": "255",
+        "showName": "Patrick Watson",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-25",
+        "endDate": "2025-07-25",
+        "startTime": "22:15:00",
+        "endTime": "23:30:00",
+        "startDateTime": "2025-07-25T22:15:00",
+        "endDateTime": "2025-07-25T23:30:00",
+        "tags": [
+          "Patrick Watson"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "patrick-watson": {
+            "slug": "patrick-watson",
+            "name": "Patrick Watson"
+          }
+        }
+      }
+    }
+  },
+  "2025-07-26": {
+    "date": "Sat, Jul 26 2025",
+    "gate_open_time": "",
+    "schedule": {
+      "110": {
+        "showId": "110",
+        "showName": "Beat Around",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "10:30:00",
+        "endTime": "11:40:00",
+        "startDateTime": "2025-07-26T10:30:00",
+        "endDateTime": "2025-07-26T11:40:00",
+        "tags": [
+          "Moontricks",
+          "Pahua",
+          "Cedric Lightning",
+          "Montuno West"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "moontricks": {
+            "slug": "moontricks",
+            "name": "Moontricks"
+          },
+          "pahua": {
+            "slug": "pahua",
+            "name": "Pahua"
+          },
+          "cedric-lightning": {
+            "slug": "cedric-lightning",
+            "name": "Cedric Lightning"
+          },
+          "montuno-west": {
+            "slug": "montuno-west",
+            "name": "Montuno West"
+          }
+        }
+      },
+      "260": {
+        "showId": "260",
+        "showName": "The Dust Collectors",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "11:55:00",
+        "endTime": "12:40:00",
+        "startDateTime": "2025-07-26T11:55:00",
+        "endDateTime": "2025-07-26T12:40:00",
+        "tags": [
+          "The Dust Collectors"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "the-dust-collectors": {
+            "slug": "the-dust-collectors",
+            "name": "The Dust Collectors"
+          }
+        }
+      },
+      "111": {
+        "showId": "111",
+        "showName": "Passport Photos",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "13:00:00",
+        "endTime": "14:05:00",
+        "startDateTime": "2025-07-26T13:00:00",
+        "endDateTime": "2025-07-26T14:05:00",
+        "tags": [
+          "Medusa",
+          "Al Qahwa",
+          "Tim Williams"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "medusa": {
+            "slug": "medusa",
+            "name": "Medusa"
+          },
+          "al-qawha": {
+            "slug": "al-qawha",
+            "name": "Al Qahwa"
+          },
+          "tim-williams": {
+            "slug": "tim-williams",
+            "name": "Tim Williams"
+          }
+        }
+      },
+      "261": {
+        "showId": "261",
+        "showName": "The Hearts",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "14:20:00",
+        "endTime": "15:05:00",
+        "startDateTime": "2025-07-26T14:20:00",
+        "endDateTime": "2025-07-26T15:05:00",
+        "tags": [
+          "The Hearts"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "the-hearts": {
+            "slug": "the-hearts",
+            "name": "The Hearts"
+          }
+        }
+      },
+      "112": {
+        "showId": "112",
+        "showName": "Something for the Thrill",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "15:20:00",
+        "endTime": "16:30:00",
+        "startDateTime": "2025-07-26T15:20:00",
+        "endDateTime": "2025-07-26T16:30:00",
+        "tags": [
+          "Laura Hickli",
+          "Jolie Laide",
+          "Ocie Elliott"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "laura-hickli": {
+            "slug": "laura-hickli",
+            "name": "Laura Hickli"
+          },
+          "jolie-laide": {
+            "slug": "jolie-laide",
+            "name": "Jolie Laide"
+          },
+          "ocie-elliott": {
+            "slug": "ocie-elliott",
+            "name": "Ocie Elliott"
+          }
+        }
+      },
+      "262": {
+        "showId": "262",
+        "showName": "Billie Zizi",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "16:45:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-26T16:45:00",
+        "endDateTime": "2025-07-26T17:30:00",
+        "tags": [
+          "Billie Zizi"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "billie-zizi": {
+            "slug": "billie-zizi",
+            "name": "Billie Zizi"
+          }
+        }
+      },
+      "113": {
+        "showId": "113",
+        "showName": "Picking it up",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "11:00:00",
+        "endTime": "12:15:00",
+        "startDateTime": "2025-07-26T11:00:00",
+        "endDateTime": "2025-07-26T12:15:00",
+        "tags": [
+          "Steve Dawson and The Hooded Mergansers",
+          "Yasmin Williams",
+          "Daby Touré",
+          "Chris Pierce"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "steve-dawson-and-the-hooded-mergansers": {
+            "slug": "steve-dawson-and-the-hooded-mergansers",
+            "name": "Steve Dawson and The Hooded Mergansers"
+          },
+          "yasmin-williams": {
+            "slug": "yasmin-williams",
+            "name": "Yasmin Williams"
+          },
+          "daby-toure": {
+            "slug": "daby-toure",
+            "name": "Daby Touré"
+          },
+          "chris-pierce": {
+            "slug": "chris-pierce",
+            "name": "Chris Pierce"
+          }
+        }
+      },
+      "263": {
+        "showId": "263",
+        "showName": "Laura Hickli",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "12:30:00",
+        "endTime": "13:15:00",
+        "startDateTime": "2025-07-26T12:30:00",
+        "endDateTime": "2025-07-26T13:15:00",
+        "tags": [
+          "Laura Hickli"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "laura-hickli": {
+            "slug": "laura-hickli",
+            "name": "Laura Hickli"
+          }
+        }
+      },
+      "114": {
+        "showId": "114",
+        "showName": "Truth or Fiction?",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "13:35:00",
+        "endTime": "14:50:00",
+        "startDateTime": "2025-07-26T13:35:00",
+        "endDateTime": "2025-07-26T14:50:00",
+        "tags": [
+          "Starpainter",
+          "Tinge",
+          "Maïa Davies",
+          "Billie Zizi"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "starpainter": {
+            "slug": "starpainter",
+            "name": "Starpainter"
+          },
+          "tinge": {
+            "slug": "tinge",
+            "name": "Tinge"
+          },
+          "maia-davies": {
+            "slug": "maia-davies",
+            "name": "Maïa Davies"
+          },
+          "billie-zizi": {
+            "slug": "billie-zizi",
+            "name": "Billie Zizi"
+          }
+        }
+      },
+      "264": {
+        "showId": "264",
+        "showName": "Tim Williams",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "15:05:00",
+        "endTime": "15:50:00",
+        "startDateTime": "2025-07-26T15:05:00",
+        "endDateTime": "2025-07-26T15:50:00",
+        "tags": [
+          "Tim Williams"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "tim-williams": {
+            "slug": "tim-williams",
+            "name": "Tim Williams"
+          }
+        }
+      },
+      "115": {
+        "showId": "115",
+        "showName": "Blue Healers",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "16:10:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-26T16:10:00",
+        "endDateTime": "2025-07-26T17:30:00",
+        "tags": [
+          "Digging Roots",
+          "Emily Wurramara",
+          "Blue Moon Marquee",
+          "Pahua"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "digging-roots": {
+            "slug": "digging-roots",
+            "name": "Digging Roots"
+          },
+          "emily-wurramara": {
+            "slug": "emily-wurramara",
+            "name": "Emily Wurramara"
+          },
+          "blue-moon-marquee": {
+            "slug": "blue-moon-marquee",
+            "name": "Blue Moon Marquee"
+          },
+          "pahua": {
+            "slug": "pahua",
+            "name": "Pahua"
+          }
+        }
+      },
+      "116": {
+        "showId": "116",
+        "showName": "Bound for Story",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "10:30:00",
+        "endTime": "11:40:00",
+        "startDateTime": "2025-07-26T10:30:00",
+        "endDateTime": "2025-07-26T11:40:00",
+        "tags": [
+          "Jennifer Castle",
+          "Jon McKiel",
+          "Starpainter",
+          "Caracol"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "jennifer-castle": {
+            "slug": "jennifer-castle",
+            "name": "Jennifer Castle"
+          },
+          "jon-mckiel": {
+            "slug": "jon-mckiel",
+            "name": "Jon McKiel"
+          },
+          "starpainter": {
+            "slug": "starpainter",
+            "name": "Starpainter"
+          },
+          "caracol": {
+            "slug": "caracol",
+            "name": "Caracol"
+          }
+        }
+      },
+      "265": {
+        "showId": "265",
+        "showName": "Jairus Sharif",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "11:55:00",
+        "endTime": "12:40:00",
+        "startDateTime": "2025-07-26T11:55:00",
+        "endDateTime": "2025-07-26T12:40:00",
+        "tags": [
+          "Jairus Sharif"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "jairus-sharif": {
+            "slug": "jairus-sharif",
+            "name": "Jairus Sharif"
+          }
+        }
+      },
+      "117": {
+        "showId": "117",
+        "showName": "Avant Guardians",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "12:55:00",
+        "endTime": "14:05:00",
+        "startDateTime": "2025-07-26T12:55:00",
+        "endDateTime": "2025-07-26T14:05:00",
+        "tags": [
+          "Tall Tall Trees",
+          "Dengue Fever",
+          "Jairus Sharif",
+          "Bria Salmena"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "tall-tall-trees": {
+            "slug": "tall-tall-trees",
+            "name": "Tall Tall Trees"
+          },
+          "dengue-fever": {
+            "slug": "dengue-fever",
+            "name": "Dengue Fever"
+          },
+          "jairus-sharif": {
+            "slug": "jairus-sharif",
+            "name": "Jairus Sharif"
+          },
+          "bria-salmena": {
+            "slug": "bria-salmena",
+            "name": "Bria Salmena"
+          }
+        }
+      },
+      "266": {
+        "showId": "266",
+        "showName": "Tamar Ilana & Ventanas",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "14:20:00",
+        "endTime": "15:05:00",
+        "startDateTime": "2025-07-26T14:20:00",
+        "endDateTime": "2025-07-26T15:05:00",
+        "tags": [
+          "Tamar Ilana & Ventanas"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "tamar-ilana-and-ventanas": {
+            "slug": "tamar-ilana-and-ventanas",
+            "name": "Tamar Ilana & Ventanas"
+          }
+        }
+      },
+      "118": {
+        "showId": "118",
+        "showName": "Delusions of Banjer",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "15:20:00",
+        "endTime": "16:30:00",
+        "startDateTime": "2025-07-26T15:20:00",
+        "endDateTime": "2025-07-26T16:30:00",
+        "tags": [
+          "Eliza Mary Doyle",
+          "Moontricks",
+          "Tall Tall Trees",
+          "Willi Carlisle"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "eliza-mary-doyle": {
+            "slug": "eliza-mary-doyle",
+            "name": "Eliza Mary Doyle"
+          },
+          "moontricks": {
+            "slug": "moontricks",
+            "name": "Moontricks"
+          },
+          "tall-tall-trees": {
+            "slug": "tall-tall-trees",
+            "name": "Tall Tall Trees"
+          },
+          "willi-carlisle": {
+            "slug": "willi-carlisle",
+            "name": "Willi Carlisle"
+          }
+        }
+      },
+      "267": {
+        "showId": "267",
+        "showName": "Yasmin Williams",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "16:45:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-26T16:45:00",
+        "endDateTime": "2025-07-26T17:30:00",
+        "tags": [
+          "Yasmin Williams"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "yasmin-williams": {
+            "slug": "yasmin-williams",
+            "name": "Yasmin Williams"
+          }
+        }
+      },
+      "119": {
+        "showId": "119",
+        "showName": "Nordic Nellies",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "11:00:00",
+        "endTime": "12:15:00",
+        "startDateTime": "2025-07-26T11:00:00",
+        "endDateTime": "2025-07-26T12:15:00",
+        "tags": [
+          "Susan O'Neill",
+          "VÍÍK",
+          "Begonia"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "susan-o-neill": {
+            "slug": "susan-o-neill",
+            "name": "Susan O'Neill"
+          },
+          "viik": {
+            "slug": "viik",
+            "name": "VÍÍK"
+          },
+          "begonia": {
+            "slug": "begonia",
+            "name": "Begonia"
+          }
+        }
+      },
+      "268": {
+        "showId": "268",
+        "showName": "Shaina Hayes",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "12:30:00",
+        "endTime": "13:15:00",
+        "startDateTime": "2025-07-26T12:30:00",
+        "endDateTime": "2025-07-26T13:15:00",
+        "tags": [
+          "Shaina Hayes"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "shaina-hayes": {
+            "slug": "shaina-hayes",
+            "name": "Shaina Hayes"
+          }
+        }
+      },
+      "120": {
+        "showId": "120",
+        "showName": "Nation to Nation",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "13:35:00",
+        "endTime": "14:50:00",
+        "startDateTime": "2025-07-26T13:35:00",
+        "endDateTime": "2025-07-26T14:50:00",
+        "tags": [
+          "VÍÍK",
+          "Emily Wurramara",
+          "Montuno West"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "viik": {
+            "slug": "viik",
+            "name": "VÍÍK"
+          },
+          "emily-wurramara": {
+            "slug": "emily-wurramara",
+            "name": "Emily Wurramara"
+          },
+          "montuno-west": {
+            "slug": "montuno-west",
+            "name": "Montuno West"
+          }
+        }
+      },
+      "269": {
+        "showId": "269",
+        "showName": "Bel and Quinn",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "15:05:00",
+        "endTime": "15:50:00",
+        "startDateTime": "2025-07-26T15:05:00",
+        "endDateTime": "2025-07-26T15:50:00",
+        "tags": [
+          "Bel and Quinn"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "bel-and-quinn": {
+            "slug": "bel-and-quinn",
+            "name": "Bel and Quinn"
+          }
+        }
+      },
+      "121": {
+        "showId": "121",
+        "showName": "For Funk's Sake",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "16:10:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-26T16:10:00",
+        "endDateTime": "2025-07-26T17:30:00",
+        "tags": [
+          "Daby Touré",
+          "Cymande",
+          "Bel and Quinn"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "daby-toure": {
+            "slug": "daby-toure",
+            "name": "Daby Touré"
+          },
+          "cymande": {
+            "slug": "cymande",
+            "name": "Cymande"
+          },
+          "bel-and-quinn": {
+            "slug": "bel-and-quinn",
+            "name": "Bel and Quinn"
+          }
+        }
+      },
+      "280": {
+        "showId": "280",
+        "showName": "Digging Roots",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "18:15:00",
+        "endTime": "19:15:00",
+        "startDateTime": "2025-07-26T18:15:00",
+        "endDateTime": "2025-07-26T19:15:00",
+        "tags": [
+          "Digging Roots"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "digging-roots": {
+            "slug": "digging-roots",
+            "name": "Digging Roots"
+          }
+        }
+      },
+      "281": {
+        "showId": "281",
+        "showName": "Tall Tall Trees",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "19:30:00",
+        "endTime": "20:30:00",
+        "startDateTime": "2025-07-26T19:30:00",
+        "endDateTime": "2025-07-26T20:30:00",
+        "tags": [
+          "Tall Tall Trees"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "tall-tall-trees": {
+            "slug": "tall-tall-trees",
+            "name": "Tall Tall Trees"
+          }
+        }
+      },
+      "282": {
+        "showId": "282",
+        "showName": "Blue Moon Marquee",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "20:45:00",
+        "endTime": "21:45:00",
+        "startDateTime": "2025-07-26T20:45:00",
+        "endDateTime": "2025-07-26T21:45:00",
+        "tags": [
+          "Blue Moon Marquee"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "blue-moon-marquee": {
+            "slug": "blue-moon-marquee",
+            "name": "Blue Moon Marquee"
+          }
+        }
+      },
+      "283": {
+        "showId": "283",
+        "showName": "Nick Shoulders",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "22:00:00",
+        "endTime": "23:00:00",
+        "startDateTime": "2025-07-26T22:00:00",
+        "endDateTime": "2025-07-26T23:00:00",
+        "tags": [
+          "Nick Shoulders"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "nick-shoulders": {
+            "slug": "nick-shoulders",
+            "name": "Nick Shoulders"
+          }
+        }
+      },
+      "122": {
+        "showId": "122",
+        "showName": "Many Trick Ponies",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "10:30:00",
+        "endTime": "11:40:00",
+        "startDateTime": "2025-07-26T10:30:00",
+        "endDateTime": "2025-07-26T11:40:00",
+        "tags": [
+          "Nick Shoulders",
+          "Eliza Mary Doyle",
+          "Willi Carlisle",
+          "Katy Kirby"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "nick-shoulders": {
+            "slug": "nick-shoulders",
+            "name": "Nick Shoulders"
+          },
+          "eliza-mary-doyle": {
+            "slug": "eliza-mary-doyle",
+            "name": "Eliza Mary Doyle"
+          },
+          "willi-carlisle": {
+            "slug": "willi-carlisle",
+            "name": "Willi Carlisle"
+          },
+          "katy-kirby": {
+            "slug": "katy-kirby",
+            "name": "Katy Kirby"
+          }
+        }
+      },
+      "270": {
+        "showId": "270",
+        "showName": "El Balcón",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "11:55:00",
+        "endTime": "12:40:00",
+        "startDateTime": "2025-07-26T11:55:00",
+        "endDateTime": "2025-07-26T12:40:00",
+        "tags": [
+          "El Balcón"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "el-balcon": {
+            "slug": "el-balcon",
+            "name": "El Balcón"
+          }
+        }
+      },
+      "123": {
+        "showId": "123",
+        "showName": "Cante Brilliante",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "12:55:00",
+        "endTime": "14:05:00",
+        "startDateTime": "2025-07-26T12:55:00",
+        "endDateTime": "2025-07-26T14:05:00",
+        "tags": [
+          "El Balcón",
+          "Empanadas Ilegales",
+          "LA LOM"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "el-balcon": {
+            "slug": "el-balcon",
+            "name": "El Balcón"
+          },
+          "empanadas-ilegales": {
+            "slug": "empanadas-ilegales",
+            "name": "Empanadas Ilegales"
+          },
+          "la-lom": {
+            "slug": "la-lom",
+            "name": "LA LOM"
+          }
+        }
+      },
+      "271": {
+        "showId": "271",
+        "showName": "Steve Dawson and The Hooded Mergansers",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "14:20:00",
+        "endTime": "15:05:00",
+        "startDateTime": "2025-07-26T14:20:00",
+        "endDateTime": "2025-07-26T15:05:00",
+        "tags": [
+          "Steve Dawson and The Hooded Mergansers"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "steve-dawson-and-the-hooded-mergansers": {
+            "slug": "steve-dawson-and-the-hooded-mergansers",
+            "name": "Steve Dawson and The Hooded Mergansers"
+          }
+        }
+      },
+      "124": {
+        "showId": "124",
+        "showName": "Pretty Heavy",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "15:20:00",
+        "endTime": "16:30:00",
+        "startDateTime": "2025-07-26T15:20:00",
+        "endDateTime": "2025-07-26T16:30:00",
+        "tags": [
+          "Shaina Hayes",
+          "Olive Klug",
+          "Katie Tupper",
+          "Caracol"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "shaina-hayes": {
+            "slug": "shaina-hayes",
+            "name": "Shaina Hayes"
+          },
+          "olive-klug": {
+            "slug": "olive-klug",
+            "name": "Olive Klug"
+          },
+          "katie-tupper": {
+            "slug": "katie-tupper",
+            "name": "Katie Tupper"
+          },
+          "caracol": {
+            "slug": "caracol",
+            "name": "Caracol"
+          }
+        }
+      },
+      "272": {
+        "showId": "272",
+        "showName": "Jake Vaadeland & The Sturgeon River Boys",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "16:45:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-26T16:45:00",
+        "endDateTime": "2025-07-26T17:30:00",
+        "tags": [
+          "Jake Vaadeland & The Sturgeon River Boys"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "jake-vaadeland": {
+            "slug": "jake-vaadeland",
+            "name": "Jake Vaadeland & The Sturgeon River Boys"
+          }
+        }
+      },
+      "125": {
+        "showId": "125",
+        "showName": "Sound Envisioned",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "11:00:00",
+        "endTime": "12:15:00",
+        "startDateTime": "2025-07-26T11:00:00",
+        "endDateTime": "2025-07-26T12:15:00",
+        "tags": [
+          "Aladean Kheroufi",
+          "Skinny Dyck",
+          "Maïa Davies",
+          "Katie Tupper"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "aladean-kheroufi": {
+            "slug": "aladean-kheroufi",
+            "name": "Aladean Kheroufi"
+          },
+          "skinny-dyck": {
+            "slug": "skinny-dyck",
+            "name": "Skinny Dyck"
+          },
+          "maia-davies": {
+            "slug": "maia-davies",
+            "name": "Maïa Davies"
+          },
+          "katie-tupper": {
+            "slug": "katie-tupper",
+            "name": "Katie Tupper"
+          }
+        }
+      },
+      "273": {
+        "showId": "273",
+        "showName": "Jon McKiel",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "12:30:00",
+        "endTime": "13:15:00",
+        "startDateTime": "2025-07-26T12:30:00",
+        "endDateTime": "2025-07-26T13:15:00",
+        "tags": [
+          "Jon McKiel"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "jon-mckiel": {
+            "slug": "jon-mckiel",
+            "name": "Jon McKiel"
+          }
+        }
+      },
+      "126": {
+        "showId": "126",
+        "showName": "Meteor Shower",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "13:35:00",
+        "endTime": "14:50:00",
+        "startDateTime": "2025-07-26T13:35:00",
+        "endDateTime": "2025-07-26T14:50:00",
+        "tags": [
+          "The Langan Band",
+          "Katy Kirby",
+          "Nick Shoulders",
+          "Susan O'Neill"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "the-langan-band": {
+            "slug": "the-langan-band",
+            "name": "The Langan Band"
+          },
+          "katy-kirby": {
+            "slug": "katy-kirby",
+            "name": "Katy Kirby"
+          },
+          "nick-shoulders": {
+            "slug": "nick-shoulders",
+            "name": "Nick Shoulders"
+          },
+          "susan-o-neill": {
+            "slug": "susan-o-neill",
+            "name": "Susan O'Neill"
+          }
+        }
+      },
+      "274": {
+        "showId": "274",
+        "showName": "Jennifer Castle",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "15:05:00",
+        "endTime": "15:50:00",
+        "startDateTime": "2025-07-26T15:05:00",
+        "endDateTime": "2025-07-26T15:50:00",
+        "tags": [
+          "Jennifer Castle"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "jennifer-castle": {
+            "slug": "jennifer-castle",
+            "name": "Jennifer Castle"
+          }
+        }
+      },
+      "127": {
+        "showId": "127",
+        "showName": "Group Therapy",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "16:10:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-26T16:10:00",
+        "endDateTime": "2025-07-26T17:30:00",
+        "tags": [
+          "Dengue Fever",
+          "Medusa",
+          "Begonia"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "dengue-fever": {
+            "slug": "dengue-fever",
+            "name": "Dengue Fever"
+          },
+          "medusa": {
+            "slug": "medusa",
+            "name": "Medusa"
+          },
+          "begonia": {
+            "slug": "begonia",
+            "name": "Begonia"
+          }
+        }
+      },
+      "275": {
+        "showId": "275",
+        "showName": "The Langan Band",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "17:30:00",
+        "endTime": "18:20:00",
+        "startDateTime": "2025-07-26T17:30:00",
+        "endDateTime": "2025-07-26T18:20:00",
+        "tags": [
+          "The Langan Band"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "the-langan-band": {
+            "slug": "the-langan-band",
+            "name": "The Langan Band"
+          }
+        }
+      },
+      "276": {
+        "showId": "276",
+        "showName": "Madeleine Peyroux",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "18:35:00",
+        "endTime": "19:30:00",
+        "startDateTime": "2025-07-26T18:35:00",
+        "endDateTime": "2025-07-26T19:30:00",
+        "tags": [
+          "Madeleine Peyroux"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "madeleine-peyroux": {
+            "slug": "madeleine-peyroux",
+            "name": "Madeleine Peyroux"
+          }
+        }
+      },
+      "277": {
+        "showId": "277",
+        "showName": "Les Mamans du Congo x Rrobin",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "19:45:00",
+        "endTime": "20:35:00",
+        "startDateTime": "2025-07-26T19:45:00",
+        "endDateTime": "2025-07-26T20:35:00",
+        "tags": [
+          "Les Mamans du Congo x Rrobin"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "les-mamans-du-congo-x-rrobin": {
+            "slug": "les-mamans-du-congo-x-rrobin",
+            "name": "Les Mamans du Congo x Rrobin"
+          }
+        }
+      },
+      "278": {
+        "showId": "278",
+        "showName": "Los Lobos",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "20:50:00",
+        "endTime": "22:00:00",
+        "startDateTime": "2025-07-26T20:50:00",
+        "endDateTime": "2025-07-26T22:00:00",
+        "tags": [
+          "Los Lobos"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "los-lobos": {
+            "slug": "los-lobos",
+            "name": "Los Lobos"
+          }
+        }
+      },
+      "279": {
+        "showId": "279",
+        "showName": "Steve Earle and Reckless Kelly",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "22:15:00",
+        "endTime": "23:30:00",
+        "startDateTime": "2025-07-26T22:15:00",
+        "endDateTime": "2025-07-26T23:30:00",
+        "tags": [
+          "Steve Earle and Reckless Kelly"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "steve-earle-and-reckless-kelly": {
+            "slug": "steve-earle-and-reckless-kelly",
+            "name": "Steve Earle and Reckless Kelly"
+          }
+        }
+      },
+      "303": {
+        "showId": "303",
+        "showName": "Human Interest with Col Cseke",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "15:00:00",
+        "endTime": "16:00:00",
+        "startDateTime": "2025-07-26T15:00:00",
+        "endDateTime": "2025-07-26T16:00:00",
+        "tags": [
+          "Human Interest with Col Cseke"
+        ],
+        "location": "Altitude Communications Talk Tent",
+        "locationId": 7,
+        "slugs": {
+          "human-interest-with-col-cseke": {
+            "slug": "human-interest-with-col-cseke",
+            "name": "Human Interest with Col Cseke"
+          }
+        }
+      },
+      "147": {
+        "showId": "147",
+        "showName": "Richard Flohil's War Stories",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "13:45:00",
+        "endTime": "14:45:00",
+        "startDateTime": "2025-07-26T13:45:00",
+        "endDateTime": "2025-07-26T14:45:00",
+        "tags": [
+          "Jolie Laide",
+          "Blue Moon Marquee",
+          "Digging Roots",
+          "Skinny Dyck"
+        ],
+        "location": "Altitude Communications Talk Tent",
+        "locationId": 7,
+        "slugs": {
+          "jolie-laide": {
+            "slug": "jolie-laide",
+            "name": "Jolie Laide"
+          },
+          "blue-moon-marquee": {
+            "slug": "blue-moon-marquee",
+            "name": "Blue Moon Marquee"
+          },
+          "digging-roots": {
+            "slug": "digging-roots",
+            "name": "Digging Roots"
+          },
+          "skinny-dyck": {
+            "slug": "skinny-dyck",
+            "name": "Skinny Dyck"
+          }
+        }
+      },
+      "305": {
+        "showId": "305",
+        "showName": "Tribe Artist Society",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "startTime": "16:15:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-26T16:15:00",
+        "endDateTime": "2025-07-26T17:30:00",
+        "tags": [
+          "Tribe Artist Society"
+        ],
+        "location": "Altitude Communications Talk Tent",
+        "locationId": 7,
+        "slugs": {
+          "tribe-artist-society": {
+            "slug": "tribe-artist-society",
+            "name": "Tribe Artist Society"
+          }
+        }
+      }
+    }
+  },
+  "2025-07-27": {
+    "date": "Sun, Jul 27 2025",
+    "gate_open_time": "",
+    "schedule": {
+      "128": {
+        "showId": "128",
+        "showName": "Retro Selectives",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "10:30:00",
+        "endTime": "11:45:00",
+        "startDateTime": "2025-07-27T10:30:00",
+        "endDateTime": "2025-07-27T11:45:00",
+        "tags": [
+          "The Dust Collectors",
+          "Steve Dawson and The Hooded Mergansers",
+          "Jake Vaadeland & The Sturgeon River Boys"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "the-dust-collectors": {
+            "slug": "the-dust-collectors",
+            "name": "The Dust Collectors"
+          },
+          "steve-dawson-and-the-hooded-mergansers": {
+            "slug": "steve-dawson-and-the-hooded-mergansers",
+            "name": "Steve Dawson and The Hooded Mergansers"
+          },
+          "jake-vaadeland": {
+            "slug": "jake-vaadeland",
+            "name": "Jake Vaadeland & The Sturgeon River Boys"
+          }
+        }
+      },
+      "284": {
+        "showId": "284",
+        "showName": "Maïa Davies",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "12:00:00",
+        "endTime": "12:45:00",
+        "startDateTime": "2025-07-27T12:00:00",
+        "endDateTime": "2025-07-27T12:45:00",
+        "tags": [
+          "Maïa Davies"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "maia-davies": {
+            "slug": "maia-davies",
+            "name": "Maïa Davies"
+          }
+        }
+      },
+      "129": {
+        "showId": "129",
+        "showName": "All Strings Attached",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "13:00:00",
+        "endTime": "14:10:00",
+        "startDateTime": "2025-07-27T13:00:00",
+        "endDateTime": "2025-07-27T14:10:00",
+        "tags": [
+          "Tim Williams",
+          "Tamar Ilana & Ventanas",
+          "Eliza Mary Doyle"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "tim-williams": {
+            "slug": "tim-williams",
+            "name": "Tim Williams"
+          },
+          "tamar-ilana-and-ventanas": {
+            "slug": "tamar-ilana-and-ventanas",
+            "name": "Tamar Ilana & Ventanas"
+          },
+          "eliza-mary-doyle": {
+            "slug": "eliza-mary-doyle",
+            "name": "Eliza Mary Doyle"
+          }
+        }
+      },
+      "285": {
+        "showId": "285",
+        "showName": "Cedric Lightning",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "14:25:00",
+        "endTime": "15:00:00",
+        "startDateTime": "2025-07-27T14:25:00",
+        "endDateTime": "2025-07-27T15:00:00",
+        "tags": [
+          "Cedric Lightning"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "cedric-lightning": {
+            "slug": "cedric-lightning",
+            "name": "Cedric Lightning"
+          }
+        }
+      },
+      "130": {
+        "showId": "130",
+        "showName": "Orchestral Manoeuvres in the Park",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "15:20:00",
+        "endTime": "16:30:00",
+        "startDateTime": "2025-07-27T15:20:00",
+        "endDateTime": "2025-07-27T16:30:00",
+        "tags": [
+          "Laura Hickli",
+          "Tall Tall Trees",
+          "Billie Zizi"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "laura-hickli": {
+            "slug": "laura-hickli",
+            "name": "Laura Hickli"
+          },
+          "tall-tall-trees": {
+            "slug": "tall-tall-trees",
+            "name": "Tall Tall Trees"
+          },
+          "billie-zizi": {
+            "slug": "billie-zizi",
+            "name": "Billie Zizi"
+          }
+        }
+      },
+      "286": {
+        "showId": "286",
+        "showName": "Skinny Dyck",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "16:45:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-27T16:45:00",
+        "endDateTime": "2025-07-27T17:30:00",
+        "tags": [
+          "Skinny Dyck"
+        ],
+        "location": "Horizon Heating Stage 1",
+        "locationId": 1,
+        "slugs": {
+          "skinny-dyck": {
+            "slug": "skinny-dyck",
+            "name": "Skinny Dyck"
+          }
+        }
+      },
+      "131": {
+        "showId": "131",
+        "showName": "Songs in the Key of Life",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "11:00:00",
+        "endTime": "12:15:00",
+        "startDateTime": "2025-07-27T11:00:00",
+        "endDateTime": "2025-07-27T12:15:00",
+        "tags": [
+          "St.Arnaud",
+          "The Hearts",
+          "Jon McKiel",
+          "Nick Shoulders"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "st-arnaud": {
+            "slug": "st-arnaud",
+            "name": "St.Arnaud"
+          },
+          "the-hearts": {
+            "slug": "the-hearts",
+            "name": "The Hearts"
+          },
+          "jon-mckiel": {
+            "slug": "jon-mckiel",
+            "name": "Jon McKiel"
+          },
+          "nick-shoulders": {
+            "slug": "nick-shoulders",
+            "name": "Nick Shoulders"
+          }
+        }
+      },
+      "287": {
+        "showId": "287",
+        "showName": "St.Arnaud",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "12:30:00",
+        "endTime": "13:15:00",
+        "startDateTime": "2025-07-27T12:30:00",
+        "endDateTime": "2025-07-27T13:15:00",
+        "tags": [
+          "St.Arnaud"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "st-arnaud": {
+            "slug": "st-arnaud",
+            "name": "St.Arnaud"
+          }
+        }
+      },
+      "132": {
+        "showId": "132",
+        "showName": "Hooks, Lines and Singers",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "13:35:00",
+        "endTime": "14:50:00",
+        "startDateTime": "2025-07-27T13:35:00",
+        "endDateTime": "2025-07-27T14:50:00",
+        "tags": [
+          "Skinny Dyck",
+          "The Hearts",
+          "St.Arnaud",
+          "Shaina Hayes"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "skinny-dyck": {
+            "slug": "skinny-dyck",
+            "name": "Skinny Dyck"
+          },
+          "the-hearts": {
+            "slug": "the-hearts",
+            "name": "The Hearts"
+          },
+          "st-arnaud": {
+            "slug": "st-arnaud",
+            "name": "St.Arnaud"
+          },
+          "shaina-hayes": {
+            "slug": "shaina-hayes",
+            "name": "Shaina Hayes"
+          }
+        }
+      },
+      "288": {
+        "showId": "288",
+        "showName": "Eliza Mary Doyle",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "15:05:00",
+        "endTime": "15:50:00",
+        "startDateTime": "2025-07-27T15:05:00",
+        "endDateTime": "2025-07-27T15:50:00",
+        "tags": [
+          "Eliza Mary Doyle"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "eliza-mary-doyle": {
+            "slug": "eliza-mary-doyle",
+            "name": "Eliza Mary Doyle"
+          }
+        }
+      },
+      "133": {
+        "showId": "133",
+        "showName": "Groove Lock",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "16:10:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-27T16:10:00",
+        "endDateTime": "2025-07-27T17:30:00",
+        "tags": [
+          "Jairus Sharif",
+          "Yasmin Williams",
+          "Bel and Quinn"
+        ],
+        "location": "CKUA Stage 2",
+        "locationId": 2,
+        "slugs": {
+          "jairus-sharif": {
+            "slug": "jairus-sharif",
+            "name": "Jairus Sharif"
+          },
+          "yasmin-williams": {
+            "slug": "yasmin-williams",
+            "name": "Yasmin Williams"
+          },
+          "bel-and-quinn": {
+            "slug": "bel-and-quinn",
+            "name": "Bel and Quinn"
+          }
+        }
+      },
+      "134": {
+        "showId": "134",
+        "showName": "Source Codes",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "10:30:00",
+        "endTime": "11:40:00",
+        "startDateTime": "2025-07-27T10:30:00",
+        "endDateTime": "2025-07-27T11:40:00",
+        "tags": [
+          "Bel and Quinn",
+          "Les Mamans du Congo x Rrobin",
+          "Chris Pierce"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "bel-and-quinn": {
+            "slug": "bel-and-quinn",
+            "name": "Bel and Quinn"
+          },
+          "les-mamans-du-congo-x-rrobin": {
+            "slug": "les-mamans-du-congo-x-rrobin",
+            "name": "Les Mamans du Congo x Rrobin"
+          },
+          "chris-pierce": {
+            "slug": "chris-pierce",
+            "name": "Chris Pierce"
+          }
+        }
+      },
+      "289": {
+        "showId": "289",
+        "showName": "Montuno West",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "11:55:00",
+        "endTime": "12:40:00",
+        "startDateTime": "2025-07-27T11:55:00",
+        "endDateTime": "2025-07-27T12:40:00",
+        "tags": [
+          "Montuno West"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "montuno-west": {
+            "slug": "montuno-west",
+            "name": "Montuno West"
+          }
+        }
+      },
+      "135": {
+        "showId": "135",
+        "showName": "Roots Bound",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "12:55:00",
+        "endTime": "14:05:00",
+        "startDateTime": "2025-07-27T12:55:00",
+        "endDateTime": "2025-07-27T14:05:00",
+        "tags": [
+          "The Dust Collectors",
+          "Fruition",
+          "Jake Vaadeland & The Sturgeon River Boys"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "the-dust-collectors": {
+            "slug": "the-dust-collectors",
+            "name": "The Dust Collectors"
+          },
+          "fruition": {
+            "slug": "fruition",
+            "name": "Fruition"
+          },
+          "jake-vaadeland": {
+            "slug": "jake-vaadeland",
+            "name": "Jake Vaadeland & The Sturgeon River Boys"
+          }
+        }
+      },
+      "290": {
+        "showId": "290",
+        "showName": "Aladean Kheroufi",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "14:20:00",
+        "endTime": "15:05:00",
+        "startDateTime": "2025-07-27T14:20:00",
+        "endDateTime": "2025-07-27T15:05:00",
+        "tags": [
+          "Aladean Kheroufi"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "aladean-kheroufi": {
+            "slug": "aladean-kheroufi",
+            "name": "Aladean Kheroufi"
+          }
+        }
+      },
+      "136": {
+        "showId": "136",
+        "showName": "Native Tongues",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "15:20:00",
+        "endTime": "16:30:00",
+        "startDateTime": "2025-07-27T15:20:00",
+        "endDateTime": "2025-07-27T16:30:00",
+        "tags": [
+          "Tamar Ilana & Ventanas",
+          "Digging Roots",
+          "Tinge"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "tamar-ilana-and-ventanas": {
+            "slug": "tamar-ilana-and-ventanas",
+            "name": "Tamar Ilana & Ventanas"
+          },
+          "digging-roots": {
+            "slug": "digging-roots",
+            "name": "Digging Roots"
+          },
+          "tinge": {
+            "slug": "tinge",
+            "name": "Tinge"
+          }
+        }
+      },
+      "291": {
+        "showId": "291",
+        "showName": "Daby Touré",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "16:45:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-27T16:45:00",
+        "endDateTime": "2025-07-27T17:30:00",
+        "tags": [
+          "Daby Touré"
+        ],
+        "location": "Friends of the Festival Stage 3",
+        "locationId": 3,
+        "slugs": {
+          "daby-toure": {
+            "slug": "daby-toure",
+            "name": "Daby Touré"
+          }
+        }
+      },
+      "137": {
+        "showId": "137",
+        "showName": "Beauty in (e)Motion",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "11:00:00",
+        "endTime": "12:15:00",
+        "startDateTime": "2025-07-27T11:00:00",
+        "endDateTime": "2025-07-27T12:15:00",
+        "tags": [
+          "Jennifer Castle",
+          "Katy Kirby",
+          "Tinge",
+          "Billie Zizi"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "jennifer-castle": {
+            "slug": "jennifer-castle",
+            "name": "Jennifer Castle"
+          },
+          "katy-kirby": {
+            "slug": "katy-kirby",
+            "name": "Katy Kirby"
+          },
+          "tinge": {
+            "slug": "tinge",
+            "name": "Tinge"
+          },
+          "billie-zizi": {
+            "slug": "billie-zizi",
+            "name": "Billie Zizi"
+          }
+        }
+      },
+      "292": {
+        "showId": "292",
+        "showName": "Caracol",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "12:30:00",
+        "endTime": "13:15:00",
+        "startDateTime": "2025-07-27T12:30:00",
+        "endDateTime": "2025-07-27T13:15:00",
+        "tags": [
+          "Caracol"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "caracol": {
+            "slug": "caracol",
+            "name": "Caracol"
+          }
+        }
+      },
+      "138": {
+        "showId": "138",
+        "showName": "Timely Reminders",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "13:35:00",
+        "endTime": "14:50:00",
+        "startDateTime": "2025-07-27T13:35:00",
+        "endDateTime": "2025-07-27T14:50:00",
+        "tags": [
+          "Blue Moon Marquee",
+          "Madeleine Peyroux",
+          "Chris Pierce"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "blue-moon-marquee": {
+            "slug": "blue-moon-marquee",
+            "name": "Blue Moon Marquee"
+          },
+          "madeleine-peyroux": {
+            "slug": "madeleine-peyroux",
+            "name": "Madeleine Peyroux"
+          },
+          "chris-pierce": {
+            "slug": "chris-pierce",
+            "name": "Chris Pierce"
+          }
+        }
+      },
+      "293": {
+        "showId": "293",
+        "showName": "Katy Kirby",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "15:05:00",
+        "endTime": "15:50:00",
+        "startDateTime": "2025-07-27T15:05:00",
+        "endDateTime": "2025-07-27T15:50:00",
+        "tags": [
+          "Katy Kirby"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "katy-kirby": {
+            "slug": "katy-kirby",
+            "name": "Katy Kirby"
+          }
+        }
+      },
+      "139": {
+        "showId": "139",
+        "showName": "The Art of the Feel",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "16:10:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-27T16:10:00",
+        "endDateTime": "2025-07-27T17:30:00",
+        "tags": [
+          "Blue Moon Marquee",
+          "Fruition",
+          "Ocie Elliott"
+        ],
+        "location": "National Stage 4",
+        "locationId": 4,
+        "slugs": {
+          "blue-moon-marquee": {
+            "slug": "blue-moon-marquee",
+            "name": "Blue Moon Marquee"
+          },
+          "fruition": {
+            "slug": "fruition",
+            "name": "Fruition"
+          },
+          "ocie-elliott": {
+            "slug": "ocie-elliott",
+            "name": "Ocie Elliott"
+          }
+        }
+      },
+      "140": {
+        "showId": "140",
+        "showName": "Intersection Ahead",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "10:30:00",
+        "endTime": "11:40:00",
+        "startDateTime": "2025-07-27T10:30:00",
+        "endDateTime": "2025-07-27T11:40:00",
+        "tags": [
+          "Tim Williams",
+          "Cedric Lightning",
+          "El Balcón",
+          "Al Qahwa"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "tim-williams": {
+            "slug": "tim-williams",
+            "name": "Tim Williams"
+          },
+          "cedric-lightning": {
+            "slug": "cedric-lightning",
+            "name": "Cedric Lightning"
+          },
+          "el-balcon": {
+            "slug": "el-balcon",
+            "name": "El Balcón"
+          },
+          "al-qawha": {
+            "slug": "al-qawha",
+            "name": "Al Qahwa"
+          }
+        }
+      },
+      "294": {
+        "showId": "294",
+        "showName": "Medusa",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "11:55:00",
+        "endTime": "12:40:00",
+        "startDateTime": "2025-07-27T11:55:00",
+        "endDateTime": "2025-07-27T12:40:00",
+        "tags": [
+          "Medusa"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "medusa": {
+            "slug": "medusa",
+            "name": "Medusa"
+          }
+        }
+      },
+      "141": {
+        "showId": "141",
+        "showName": "Stomp and Holler",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "12:55:00",
+        "endTime": "14:05:00",
+        "startDateTime": "2025-07-27T12:55:00",
+        "endDateTime": "2025-07-27T14:05:00",
+        "tags": [
+          "Daby Touré",
+          "Medusa",
+          "Begonia"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "daby-toure": {
+            "slug": "daby-toure",
+            "name": "Daby Touré"
+          },
+          "medusa": {
+            "slug": "medusa",
+            "name": "Medusa"
+          },
+          "begonia": {
+            "slug": "begonia",
+            "name": "Begonia"
+          }
+        }
+      },
+      "295": {
+        "showId": "295",
+        "showName": "Al Qahwa",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "14:20:00",
+        "endTime": "15:05:00",
+        "startDateTime": "2025-07-27T14:20:00",
+        "endDateTime": "2025-07-27T15:05:00",
+        "tags": [
+          "Al Qahwa"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "al-qawha": {
+            "slug": "al-qawha",
+            "name": "Al Qahwa"
+          }
+        }
+      },
+      "142": {
+        "showId": "142",
+        "showName": "World Wide Webs",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "15:20:00",
+        "endTime": "16:30:00",
+        "startDateTime": "2025-07-27T15:20:00",
+        "endDateTime": "2025-07-27T16:30:00",
+        "tags": [
+          "Steve Dawson and The Hooded Mergansers",
+          "Les Mamans du Congo x Rrobin",
+          "Montuno West"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "steve-dawson-and-the-hooded-mergansers": {
+            "slug": "steve-dawson-and-the-hooded-mergansers",
+            "name": "Steve Dawson and The Hooded Mergansers"
+          },
+          "les-mamans-du-congo-x-rrobin": {
+            "slug": "les-mamans-du-congo-x-rrobin",
+            "name": "Les Mamans du Congo x Rrobin"
+          },
+          "montuno-west": {
+            "slug": "montuno-west",
+            "name": "Montuno West"
+          }
+        }
+      },
+      "296": {
+        "showId": "296",
+        "showName": "Chris Pierce",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "16:45:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-27T16:45:00",
+        "endDateTime": "2025-07-27T17:30:00",
+        "tags": [
+          "Chris Pierce"
+        ],
+        "location": "RSG Telecom Stage 5",
+        "locationId": 5,
+        "slugs": {
+          "chris-pierce": {
+            "slug": "chris-pierce",
+            "name": "Chris Pierce"
+          }
+        }
+      },
+      "143": {
+        "showId": "143",
+        "showName": "The Eh Team",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "11:00:00",
+        "endTime": "12:15:00",
+        "startDateTime": "2025-07-27T11:00:00",
+        "endDateTime": "2025-07-27T12:15:00",
+        "tags": [
+          "Aladean Kheroufi",
+          "Starpainter",
+          "Digging Roots"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "aladean-kheroufi": {
+            "slug": "aladean-kheroufi",
+            "name": "Aladean Kheroufi"
+          },
+          "starpainter": {
+            "slug": "starpainter",
+            "name": "Starpainter"
+          },
+          "digging-roots": {
+            "slug": "digging-roots",
+            "name": "Digging Roots"
+          }
+        }
+      },
+      "297": {
+        "showId": "297",
+        "showName": "Starpainter",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "12:30:00",
+        "endTime": "13:15:00",
+        "startDateTime": "2025-07-27T12:30:00",
+        "endDateTime": "2025-07-27T13:15:00",
+        "tags": [
+          "Starpainter"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "starpainter": {
+            "slug": "starpainter",
+            "name": "Starpainter"
+          }
+        }
+      },
+      "144": {
+        "showId": "144",
+        "showName": "Dark and Story Day",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "13:35:00",
+        "endTime": "14:50:00",
+        "startDateTime": "2025-07-27T13:35:00",
+        "endDateTime": "2025-07-27T14:50:00",
+        "tags": [
+          "Jolie Laide",
+          "Susan O'Neill",
+          "Jennifer Castle",
+          "Jairus Sharif"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "jolie-laide": {
+            "slug": "jolie-laide",
+            "name": "Jolie Laide"
+          },
+          "susan-o-neill": {
+            "slug": "susan-o-neill",
+            "name": "Susan O'Neill"
+          },
+          "jennifer-castle": {
+            "slug": "jennifer-castle",
+            "name": "Jennifer Castle"
+          },
+          "jairus-sharif": {
+            "slug": "jairus-sharif",
+            "name": "Jairus Sharif"
+          }
+        }
+      },
+      "298": {
+        "showId": "298",
+        "showName": "Susan O'Neill",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "15:05:00",
+        "endTime": "15:50:00",
+        "startDateTime": "2025-07-27T15:05:00",
+        "endDateTime": "2025-07-27T15:50:00",
+        "tags": [
+          "Susan O'Neill"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "susan-o-neill": {
+            "slug": "susan-o-neill",
+            "name": "Susan O'Neill"
+          }
+        }
+      },
+      "145": {
+        "showId": "145",
+        "showName": "Alternative Energy",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "16:10:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-27T16:10:00",
+        "endDateTime": "2025-07-27T17:30:00",
+        "tags": [
+          "Jolie Laide",
+          "Jon McKiel",
+          "Shaina Hayes",
+          "Bria Salmena"
+        ],
+        "location": "Community Natural Foods Stage 6",
+        "locationId": 6,
+        "slugs": {
+          "jolie-laide": {
+            "slug": "jolie-laide",
+            "name": "Jolie Laide"
+          },
+          "jon-mckiel": {
+            "slug": "jon-mckiel",
+            "name": "Jon McKiel"
+          },
+          "shaina-hayes": {
+            "slug": "shaina-hayes",
+            "name": "Shaina Hayes"
+          },
+          "bria-salmena": {
+            "slug": "bria-salmena",
+            "name": "Bria Salmena"
+          }
+        }
+      },
+      "299": {
+        "showId": "299",
+        "showName": "Begonia",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "17:30:00",
+        "endTime": "18:15:00",
+        "startDateTime": "2025-07-27T17:30:00",
+        "endDateTime": "2025-07-27T18:15:00",
+        "tags": [
+          "Begonia"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "begonia": {
+            "slug": "begonia",
+            "name": "Begonia"
+          }
+        }
+      },
+      "300": {
+        "showId": "300",
+        "showName": "LA LOM",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "18:30:00",
+        "endTime": "19:20:00",
+        "startDateTime": "2025-07-27T18:30:00",
+        "endDateTime": "2025-07-27T19:20:00",
+        "tags": [
+          "LA LOM"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "la-lom": {
+            "slug": "la-lom",
+            "name": "LA LOM"
+          }
+        }
+      },
+      "301": {
+        "showId": "301",
+        "showName": "Ocie Elliott",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "19:35:00",
+        "endTime": "20:40:00",
+        "startDateTime": "2025-07-27T19:35:00",
+        "endDateTime": "2025-07-27T20:40:00",
+        "tags": [
+          "Ocie Elliott"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "ocie-elliott": {
+            "slug": "ocie-elliott",
+            "name": "Ocie Elliott"
+          }
+        }
+      },
+      "302": {
+        "showId": "302",
+        "showName": "CAKE",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "20:55:00",
+        "endTime": "22:15:00",
+        "startDateTime": "2025-07-27T20:55:00",
+        "endDateTime": "2025-07-27T22:15:00",
+        "tags": [
+          "CAKE"
+        ],
+        "location": "ATB Main Stage",
+        "locationId": 0,
+        "slugs": {
+          "cake": {
+            "slug": "cake",
+            "name": "CAKE"
+          }
+        }
+      },
+      "146": {
+        "showId": "146",
+        "showName": "Richard Flohil's War Stories",
+        "showDesc": null,
+        "type": "Session",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "13:45:00",
+        "endTime": "14:45:00",
+        "startDateTime": "2025-07-27T13:45:00",
+        "endDateTime": "2025-07-27T14:45:00",
+        "tags": [
+          "Yasmin Williams",
+          "Nick Shoulders",
+          "Bria Salmena",
+          "Caracol"
+        ],
+        "location": "Altitude Communications Talk Tent",
+        "locationId": 7,
+        "slugs": {
+          "yasmin-williams": {
+            "slug": "yasmin-williams",
+            "name": "Yasmin Williams"
+          },
+          "nick-shoulders": {
+            "slug": "nick-shoulders",
+            "name": "Nick Shoulders"
+          },
+          "bria-salmena": {
+            "slug": "bria-salmena",
+            "name": "Bria Salmena"
+          },
+          "caracol": {
+            "slug": "caracol",
+            "name": "Caracol"
+          }
+        }
+      },
+      "304": {
+        "showId": "304",
+        "showName": "Human Interest with Col Cseke",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "15:00:00",
+        "endTime": "16:00:00",
+        "startDateTime": "2025-07-27T15:00:00",
+        "endDateTime": "2025-07-27T16:00:00",
+        "tags": [
+          "Human Interest with Col Cseke"
+        ],
+        "location": "Altitude Communications Talk Tent",
+        "locationId": 7,
+        "slugs": {
+          "human-interest-with-col-cseke": {
+            "slug": "human-interest-with-col-cseke",
+            "name": "Human Interest with Col Cseke"
+          }
+        }
+      },
+      "306": {
+        "showId": "306",
+        "showName": "Tribe Artist Society",
+        "showDesc": null,
+        "type": "Concert",
+        "startDate": "2025-07-27",
+        "endDate": "2025-07-27",
+        "startTime": "16:15:00",
+        "endTime": "17:30:00",
+        "startDateTime": "2025-07-27T16:15:00",
+        "endDateTime": "2025-07-27T17:30:00",
+        "tags": [
+          "Tribe Artist Society"
+        ],
+        "location": "Altitude Communications Talk Tent",
+        "locationId": 7,
+        "slugs": {
+          "tribe-artist-society": {
+            "slug": "tribe-artist-society",
+            "name": "Tribe Artist Society"
+          }
+        }
+      }
+    }
+  }
+}

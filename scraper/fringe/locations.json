@@ -1,0 +1,282 @@
+{
+  "10": {
+    "locationId": 10,
+    "name": "10: Old Strathcona Public Library",
+    "altName": "Old Strathcona Public Library",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8331 104 St NW</p> <p>T6E 4E9</p> </div> <!--<a href=\"#\"></a>--> <span>(780) 496-1828</span> <a href=\"mailto:\"></a>  <div class=\"addres-pin\"> <p>8331 104 St NW</p> </div>",
+    "maxCapacity": 64
+  },
+  "8": {
+    "locationId": 8,
+    "name": "08: Kick Point Old Strathcona Performing Arts Centre",
+    "altName": "Old Strathcona Performing Arts Centre",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> <p>T6E 4B4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>8426 Gateway Blvd</p> </div>",
+    "maxCapacity": 157
+  },
+  "7": {
+    "locationId": 7,
+    "name": "07: Chianti Yardbird Suite",
+    "altName": "Yardbird Suite",
+    "shortDesc": "<div class=\"addres-pin\"> <p>11 Tommy Banks Way</p> <p>T6E 2M2</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 94
+  },
+  "5": {
+    "locationId": 5,
+    "name": "05: Acacia Hall",
+    "altName": "Acacia Hall",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10433 83 Avenue</p> <p>T6E 2C7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 79
+  },
+  "6": {
+    "locationId": 6,
+    "name": "06: The Gateway Theatre",
+    "altName": "The Gateway Theatre",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8529 Gateway Blvd</p> <p>T6E 6P3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 101
+  },
+  "4": {
+    "locationId": 4,
+    "name": "04: MacEwan Fine Arts Walterdale Theatre",
+    "altName": "Walterdale Theatre",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10322 83 Ave NW</p> <p>T6E 5C3</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10322 83 Avenue Northwest</p> </div>",
+    "maxCapacity": 132
+  },
+  "3": {
+    "locationId": 3,
+    "name": "03: Nordic Studio Theatre",
+    "altName": "Fringe Theatre Arts Barns",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10330 84 Avenue NW</p> </div>",
+    "maxCapacity": 67
+  },
+  "2": {
+    "locationId": 2,
+    "name": "02: The Next Act Backstage Theatre",
+    "altName": "Fringe Theatre Arts Barns",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10330 84 Avenue NW</p> </div>",
+    "maxCapacity": 134
+  },
+  "1": {
+    "locationId": 1,
+    "name": "01: ATB Westbury Theatre",
+    "altName": "Fringe Theatre Arts Barns",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10330 84 AVE NW</p> </div>",
+    "maxCapacity": 288
+  },
+  "9": {
+    "locationId": 9,
+    "name": "09: Sea Change Granite Curling Club",
+    "altName": "Granite Curling Club",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8620 107 St NW</p> <p>T6E 4L3</p> </div> <!--<a href=\"#\"></a>--> <span>780-409-1910</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>8620 107 St NW</p> </div>",
+    "maxCapacity": 282
+  },
+  "26": {
+    "locationId": 26,
+    "name": "26: Sugar Swing Ballroom: Main Floor",
+    "altName": "Sugar Swing Ballroom",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10019 80 Ave NW</p> <p>T6E 1T4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 119
+  },
+  "15": {
+    "locationId": 15,
+    "name": "15: Auditorium at Campus Saint-Jean",
+    "altName": "Campus Saint-Jean",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8406 Rue Marie-Anne Gaboury</p> <p>T6C 4G9</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 215
+  },
+  "16": {
+    "locationId": 16,
+    "name": "16: Sue Paterson Theatre at Campus Saint-Jean",
+    "altName": "Campus Saint-Jean",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8406 Rue Marie-Anne Gaboury</p> <p>T6C 4G9</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 75
+  },
+  "14": {
+    "locationId": 14,
+    "name": "14: Café Bicyclette Stage",
+    "altName": "La Cité Francophone",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8627 rue Marie Anne Gaboury (91 Street)</p> <p>T6C 3N1</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a>  <div class=\"addres-pin\"> <p>8627 91 Street</p> </div>",
+    "maxCapacity": 149
+  },
+  "11": {
+    "locationId": 11,
+    "name": "11: Varscona Theatre",
+    "altName": "Varscona Theatre",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10329 83 Avenue</p> <p>T6E 2C6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10329 83 Avenue</p> </div>",
+    "maxCapacity": 186
+  },
+  "32": {
+    "locationId": 32,
+    "name": "32: Lorne Cardinal Theatre",
+    "altName": "The Roxy Theatre",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10708 124 ST NW</p> <p>T5M 0H1</p> </div> <!--<a href=\"#\"></a>--> <span>780-453-2440</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10708 124 ST NW</p> </div>",
+    "maxCapacity": 72
+  },
+  "21": {
+    "locationId": 21,
+    "name": "21: The Sanctuary Stage",
+    "altName": "Holy Trinity Anglican Church",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10037 84 Ave NW</p> <p>T6E 2G6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> </div>",
+    "maxCapacity": 209
+  },
+  "23": {
+    "locationId": 23,
+    "name": "23: The Bliss Stage",
+    "altName": "Holy Trinity Anglican Church",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10037 84 Ave NW</p> <p>T6E 2G6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> </div>",
+    "maxCapacity": 94
+  },
+  "22": {
+    "locationId": 22,
+    "name": "22: The de Villars Jones LLP Stage",
+    "altName": "Holy Trinity Anglican Church",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10037 84 Ave NW</p> <p>T6E 2G6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> </div>",
+    "maxCapacity": 138
+  },
+  "13": {
+    "locationId": 13,
+    "name": "13: SERVUS Credit Union Théâtre",
+    "altName": "La Cité Francophone",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8627 rue Marie Anne Gaboury (91 Street)</p> <p>T6C 3N1</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a>  <div class=\"addres-pin\"> <p>8627 rue Marie Anne Gaboury (91 Street)</p> </div>",
+    "maxCapacity": 179
+  },
+  "27": {
+    "locationId": 27,
+    "name": "27: Sugar Swing Ballroom: Upstairs",
+    "altName": "Sugar Swing Ballroom",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10019 80 Ave NW</p> <p>T6E 1T4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 97
+  },
+  "19": {
+    "locationId": 19,
+    "name": "19: The Lumos Dental Stage",
+    "altName": "G.B. Building",
+    "shortDesc": "<div class=\"addres-pin\"> <p>9562 82 Ave NW</p> <p>T6C 0Z8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>9562 82 Ave NW</p> </div>",
+    "maxCapacity": 59
+  },
+  "29": {
+    "locationId": 29,
+    "name": "29: Strathcona High School",
+    "altName": "Strathcona High School",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10450 72 Ave NW</p> <p>T6E 0Z6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 99
+  },
+  "37": {
+    "locationId": 37,
+    "name": "37: Galerie CAVA",
+    "altName": "Galerie CAVA",
+    "shortDesc": "<div class=\"addres-pin\"> <p>9103 95 Ave NW</p> <p>T6C 1Z4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>9103 95 Ave NW</p> </div>",
+    "maxCapacity": 44
+  },
+  "34": {
+    "locationId": 34,
+    "name": "34: The Faculty Events Centre",
+    "altName": "The Faculty Events Centre",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10151 82 Ave NW</p> <p>T6E 1Z6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 94
+  },
+  "17": {
+    "locationId": 17,
+    "name": "17: The Grindstone - Comedy Theatre & Bistro",
+    "altName": "The Grindstone - Comedy Theatre",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10019 81 Ave NW</p> <p>T6E-1W7</p> </div> <!--<a href=\"#\"></a>--> <span>780-244-9076</span> <a href=\"mailto:grindstonetheatreyeg@gmail.com\">grindstonetheatreyeg@gmail.com</a>  <div class=\"addres-pin\"> <p>10019 81 Ave NW</p> </div>",
+    "maxCapacity": 72
+  },
+  "35": {
+    "locationId": 35,
+    "name": "35: Waffle Bird",
+    "altName": "Waffle Bird",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10347 80 Ave NW</p> <p>T6E 1T8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10347 80 Ave NW</p> </div>",
+    "maxCapacity": 53
+  },
+  "25": {
+    "locationId": 25,
+    "name": "25: Spotlight Cabaret",
+    "altName": "Spotlight Cabaret",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8217 104 ST NW</p> <p>T6E 4E7</p> </div> <!--<a href=\"#\"></a>--> <span>780-760-0202</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>8217 104 ST NW</p> </div>",
+    "maxCapacity": 87
+  },
+  "31": {
+    "locationId": 31,
+    "name": "31: Nancy Power Theatre",
+    "altName": "The Roxy Theatre",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10708 124 ST NW</p> <p>T5M 0H1</p> </div> <!--<a href=\"#\"></a>--> <span>780-453-2440</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10708 124 ST NW</p> </div>",
+    "maxCapacity": 173
+  },
+  "28": {
+    "locationId": 28,
+    "name": "28: Roots on Whyte Community Building (Unit 305)",
+    "altName": "Roots on Whyte Community Building",
+    "shortDesc": "<div class=\"addres-pin\"> <p></p> <p>T6E 4A4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>Unit 305</p> </div>",
+    "maxCapacity": 86
+  },
+  "40": {
+    "locationId": 40,
+    "name": "40: Haunted Corner",
+    "altName": "Haunted Corner",
+    "shortDesc": "<div class=\"addres-pin\"> <p>Corner of 84 Avenue &amp; 104 Street</p> <p></p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>Corner of 84 Avenue &amp; 104 Street</p> </div>",
+    "maxCapacity": 17
+  },
+  "20": {
+    "locationId": 20,
+    "name": "20: Mile Zero Dance",
+    "altName": "Mile Zero Dance Society",
+    "shortDesc": "<div class=\"addres-pin\"> <p></p> <p>T6E 1N6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p></p> </div>",
+    "maxCapacity": 97
+  },
+  "12": {
+    "locationId": 12,
+    "name": "12: Rapid Fire Exchange",
+    "altName": "Rapid Fire Exchange",
+    "shortDesc": "<div class=\"addres-pin\"> <p></p> <p>T6E 2C7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10437 83 Ave NW</p> </div>",
+    "maxCapacity": 139
+  },
+  "30": {
+    "locationId": 30,
+    "name": "30: The Playhouse",
+    "altName": "The Playhouse",
+    "shortDesc": "<div class=\"addres-pin\"> <p></p> <p>T6E 1T4</p> </div> <!--<a href=\"#\"></a>--> <span>780-433-3161</span> <a href=\"mailto:bookings@albertamusicaltheatre.ca\">bookings@albertamusicaltheatre.ca</a>  <div class=\"addres-pin\"> <p>10033 80 Avenue</p> </div>",
+    "maxCapacity": 45
+  },
+  "39": {
+    "locationId": 39,
+    "name": "39: Checkpoint Cassandra",
+    "altName": "Checkpoint Cassandra",
+    "shortDesc": "<div class=\"addres-pin\"> <p>The black structure just north of the Fringe Theatre Arts Barns.</p> <p></p> </div> <!--<a href=\"#\"></a>--> <span>780-409-1910</span> <a href=\"mailto:\"></a>  <div class=\"addres-pin\"> <p>The black structure just north of the Fringe Theatre Arts Barns.</p> </div>",
+    "maxCapacity": 29
+  },
+  "18": {
+    "locationId": 18,
+    "name": "18: The FOH PRO Stage",
+    "altName": "Trinity Evangelical Lutheran Church",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10014 81 Ave NW</p> <p>T6E 1W8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10014 81 Ave NW</p> </div>",
+    "maxCapacity": 187
+  },
+  "33": {
+    "locationId": 33,
+    "name": "33: Woodcroft Community Hall",
+    "altName": "Woodcroft Community Hall",
+    "shortDesc": "<div class=\"addres-pin\"> <p>13915 115 Ave NW</p> <p>T5M 4B6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>13915 115 Ave NW</p> </div>",
+    "maxCapacity": 87
+  },
+  "24": {
+    "locationId": 24,
+    "name": "24: Garneau Theatre",
+    "altName": "Garneau Theatre",
+    "shortDesc": "<div class=\"addres-pin\"> <p>8712 109 Street</p> <p>T6G 3E9</p> </div> <!--<a href=\"#\"></a>--> <span>780-425-9212</span> <a href=\"mailto:director@metrocinema.org\">director@metrocinema.org</a>  <div class=\"addres-pin\"> <p>8712 109 Street</p> </div>",
+    "maxCapacity": 473
+  },
+  "38": {
+    "locationId": 38,
+    "name": "38: Plaza Bowling",
+    "altName": "Plaza Bowling",
+    "shortDesc": "<div class=\"addres-pin\"> <p>10418 118 Ave NW</p> <p>T5G0P7</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>10418 118 Ave NW</p> </div>",
+    "maxCapacity": 98
+  },
+  "36": {
+    "locationId": 36,
+    "name": "36: ArtsHub Ortona",
+    "altName": "ArtsHub Ortona",
+    "shortDesc": "<div class=\"addres-pin\"> <p>9722 102 ST NW</p> <p>T5K 0X4</p> </div> <!--<a href=\"#\"></a>--> <span>7806679027</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a>  <div class=\"addres-pin\"> <p>9722 102 ST NW</p> </div>",
+    "maxCapacity": 99
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "image": "6715\\6715.jpg",
+  "title": "Pair of Guys Lost: A New Musical",
+  "description": "A queer, irreverent, sinfully original satirical biblical musical comedy with new original music and book by local playwright, David Son. Angels spill tea, snakes offer wisdom, and a Trump-like administration struggles to control Eden, where truth and knowledge are elusive. Wickedly funny, catchy and heartfelt.",
+  "credits": "<strong>Playwright</strong>: David Son<br/><strong>Director</strong>: Director/Choreography: David Son Assistant Director: Rachel Whipple<br/><strong>Cast</strong>: Sika Clarke, Andrew Cormier, Nicole Gaskell, Jack Hunting, Erin Mclean, Kaitlyn Power, David Son, and Zack Siezmagraff<br/><strong>Designers</strong>: Debo Gunning<br/><strong>Stage Manager</strong>: Rachel Whipple<br/>",
+  "website": "https://darkstageproductions.com",
+  "plain_language": "This is a queer version of the creation story, with original songs, lots of jokes, and big, exciting characters. Follow Adam as he learns about himself in an Eden run by a leader like Trump. The show is bold, funny, and makes you think.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Mile Zero Dance Society",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 20: Mile Zero Dance",
+  "locationId": 20,
+  "location": "20: Mile Zero Dance",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol, Political Content, Religious Content, Sexual Content</div> </span>",
+  "location_html": "<h3>Mile Zero Dance Society</h3> <div class=\"addres-pin\"> <p></p> <p>T6E 1N6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>20: Mile Zero Dance</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43853",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:45",
+          "performanceRealTime": "2025-08-15 19:45:00",
+          "performanceDate": "15th August 2025 19:45",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43854",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:45",
+          "performanceRealTime": "2025-08-16 23:45:00",
+          "performanceDate": "16th August 2025 23:45",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43855",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-18 17:30:00",
+          "performanceDate": "18th August 2025 17:30",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43856",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-19 19:15:00",
+          "performanceDate": "19th August 2025 19:15",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43857",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:15",
+          "performanceRealTime": "2025-08-20 15:15:00",
+          "performanceDate": "20th August 2025 15:15",
+          "availability": 95,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43858",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-21 17:30:00",
+          "performanceDate": "21st August 2025 17:30",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43859",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:45",
+          "performanceRealTime": "2025-08-22 19:45:00",
+          "performanceDate": "22nd August 2025 19:45",
+          "availability": 95,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43860",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-23 18:30:00",
+          "performanceDate": "23rd August 2025 18:30",
+          "availability": 97,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6715",
+    "showAvailabilityInCalendar": true
+  }
+}

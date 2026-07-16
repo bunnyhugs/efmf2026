@@ -1,0 +1,165 @@
+{
+  "image": "6582\\6582.jpg",
+  "title": "Bad Gut",
+  "description": "a show about comedian Elyott Ryan's journey through severe health issues and his road to recovery. As a teenager, his body was a mess—crippling stomach aches, insomnia, chronic fatigue and he could even get drunk off sugar. Now, he's ready to share the wild, weird, and funny lessons he learned from living with a unwell body.",
+  "credits": "<strong>Director</strong>: Elyott Ryan<br/><strong>Cast</strong>: Elyott Ryan<br/>",
+  "website": "https://elyottryan.com",
+  "plain_language": "Bad Gut is a funny and honest show about comedian Elyott Ryan’s struggle with a seriously sick body. After antibiotics damaged his gut as a teen, he faced pain, fatigue, and other problems. Elyott shares funny stories and hard lessons from his journey to heal and stay healthy.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 21, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 50 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>G.B. Building",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 19: The Lumos Dental Stage",
+  "locationId": 19,
+  "location": "19: The Lumos Dental Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Mental Illness/Disorders, Suicide</div> </span>",
+  "location_html": "<h3>G.B. Building</h3> <div class=\"addres-pin\"> <p>9562 82 Ave NW</p> <p>T6C 0Z8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>19: The Lumos Dental Stage</h3> <div class=\"addres-pin\"> <p>9562 82 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51845510,-113.47627230&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:42755",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-14 22:00:00",
+          "performanceDate": "14th August 2025 22:00",
+          "availability": 59,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:42756",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:15",
+          "performanceRealTime": "2025-08-15 18:15:00",
+          "performanceDate": "15th August 2025 18:15",
+          "availability": 59,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42757",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-16 14:15:00",
+          "performanceDate": "16th August 2025 14:15",
+          "availability": 59,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42758",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:15",
+          "performanceRealTime": "2025-08-17 22:15:00",
+          "performanceDate": "17th August 2025 22:15",
+          "availability": 59,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42759",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-18 17:15:00",
+          "performanceDate": "18th August 2025 17:15",
+          "availability": 59,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42760",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:15",
+          "performanceRealTime": "2025-08-19 21:15:00",
+          "performanceDate": "19th August 2025 21:15",
+          "availability": 59,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42761",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-20 23:00:00",
+          "performanceDate": "20th August 2025 23:00",
+          "availability": 59,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42762",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-21 15:30:00",
+          "performanceDate": "21st August 2025 15:30",
+          "availability": 59,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6582",
+    "showAvailabilityInCalendar": true
+  }
+}

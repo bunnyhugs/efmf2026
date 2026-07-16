@@ -1,0 +1,148 @@
+{
+  "image": "6598\\6598.png",
+  "title": "Period Problems",
+  "description": "I've got 99 problems and my period is most of them. If you have a period or know someone with a period, this show is for you. From cramps to comedy, the cycle is the main event. Live visuals, real talk and big laughs. PERIOD.",
+  "credits": "<strong>Playwright</strong>: Lita Pater<br/><strong>Cast</strong>: Lita Pater<br/><strong>Designers</strong>: Christina Hamer<br/>",
+  "website": "https://www.instagram.com/littlewitchproyeg",
+  "plain_language": "Period Problems is a one-person show about periods (menstruation) and living with chronic illness. It includes songs, poems, funny moments, personal stories, and visuals.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Storytelling",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $15.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 50 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Playhouse",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 30: The Playhouse",
+  "locationId": 30,
+  "location": "30: The Playhouse",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Mental Illness/Disorders,</div> </span>",
+  "location_html": "<h3>The Playhouse</h3> <div class=\"addres-pin\"> <p></p> <p>T6E 1T4</p> </div> <!--<a href=\"#\"></a>--> <span>780-433-3161</span> <a href=\"mailto:bookings@albertamusicaltheatre.ca\">bookings@albertamusicaltheatre.ca</a> <h3>30: The Playhouse</h3> <div class=\"addres-pin\"> <p>10033 80 Avenue</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51599561,-113.49016615&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42889",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-15 18:30:00",
+          "performanceDate": "15th August 2025 18:30",
+          "availability": 45,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42890",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-16 21:00:00",
+          "performanceDate": "16th August 2025 21:00",
+          "availability": 45,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42891",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-17 16:00:00",
+          "performanceDate": "17th August 2025 16:00",
+          "availability": 45,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42892",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-18 21:00:00",
+          "performanceDate": "18th August 2025 21:00",
+          "availability": 45,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42893",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-20 22:00:00",
+          "performanceDate": "20th August 2025 22:00",
+          "availability": 45,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42894",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-21 19:00:00",
+          "performanceDate": "21st August 2025 19:00",
+          "availability": 45,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:42895",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:30",
+          "performanceRealTime": "2025-08-24 14:30:00",
+          "performanceDate": "24th August 2025 14:30",
+          "availability": 45,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6598",
+    "showAvailabilityInCalendar": true
+  }
+}

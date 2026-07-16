@@ -1,0 +1,165 @@
+{
+  "image": "6697\\6697.jpg",
+  "title": "SHIRLEY GNOME: Children, You Can't Beat 'Em! (this is not a kid's show)",
+  "description": "Juno nominee and last year’s holdover Shirley Gnome returns with a new direction. After accidentally creating a viral kids’ song on TikTok, the R-rated singer tries to cash in with a children’s music hour. Spoiler: it doesn’t go well. ★★★★★ “a bona fide genius” -Edmonton Journal. NOT SUITABLE FOR KIDS.",
+  "credits": "<strong>Playwright</strong>: Shirley Gnome, Becky Johnson<br/><strong>Cast</strong>: Shirley Gnome, children who wish to remain anonymous<br/>",
+  "website": "",
+  "plain_language": "Shirley Gnome is a singer who has spent sixteen years performing songs about adult topics. Even though she’s been doing this for a long time, she’s never had a big hit. That changes when a video of her at a music festival, looking a bit \"out of it\", gets posted on TikTok by a teenager. The video quickly goes viral. A popular TikTok creator named DJ BBN0$e turns the video into a song that becomes a huge hit with kids — like the next “Baby Shark.” Suddenly, Shirley finds herself famous with a new, younger audience. She decides to go along with it to make more money. She’s invited to perform at an elite private school, hoping this new direction will finally pay off. But things quickly fall apart. The kids hate the songs, and her lyrics raise disturbing questions that no child (or parent) is ready for. Through this experience, Shirley starts to reflect on her fears about the world, the future, and the kind of planet we’re leaving behind. What starts as a cash grab gig turns into something deeper — a search for hope. Let’s be clear: this is not a real kids' show. It’s satire. Please do not bring your children. Seriously.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Satire",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Grindstone - Comedy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 17: The Grindstone - Comedy Theatre &amp; Bistro",
+  "locationId": 17,
+  "location": "17: The Grindstone - Comedy Theatre &amp; Bistro",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Death, Drugs/Alcohol, Mental Illness/Disorders, Political Content, Religious Content, Sexual Content, Smoke/Fog, Suicide</div> </span>",
+  "location_html": "<h3>The Grindstone - Comedy Theatre</h3> <div class=\"addres-pin\"> <p>10019 81 Ave NW</p> <p>T6E-1W7</p> </div> <!--<a href=\"#\"></a>--> <span>780-244-9076</span> <a href=\"mailto:grindstonetheatreyeg@gmail.com\">grindstonetheatreyeg@gmail.com</a> <h3>17: The Grindstone - Comedy Theatre &amp; Bistro</h3> <div class=\"addres-pin\"> <p>10019 81 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51691297,-113.48956407&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43715",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-15 22:00:00",
+          "performanceDate": "15th August 2025 22:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43716",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:45",
+          "performanceRealTime": "2025-08-16 23:45:00",
+          "performanceDate": "16th August 2025 23:45",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43717",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-18 23:00:00",
+          "performanceDate": "18th August 2025 23:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43718",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-19 17:30:00",
+          "performanceDate": "19th August 2025 17:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43994",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-20 17:30:00",
+          "performanceDate": "20th August 2025 17:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43719",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-21 21:00:00",
+          "performanceDate": "21st August 2025 21:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43720",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-22 18:00:00",
+          "performanceDate": "22nd August 2025 18:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43721",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-23 12:15:00",
+          "performanceDate": "23rd August 2025 12:15",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6697",
+    "showAvailabilityInCalendar": true
+  }
+}

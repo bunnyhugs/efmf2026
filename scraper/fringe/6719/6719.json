@@ -1,0 +1,165 @@
+{
+  "image": "6719\\6719.jpg",
+  "title": "King of the Hill",
+  "description": "Grindstone’s King of the Hill is back! Each show, a cast of improvisers hash it out in this comedy battle royale! Our improvisers use audience suggestions to create unique characters, scenes and sketches on the spot. After each round, our audience votes, knocking out the bottom performers until we crown a reigning monarch!",
+  "credits": "<strong>Director</strong>: Byron Johnson, Heidi Johnson and Logan Teske<br/><strong>Cast</strong>: A rotating cast from the always hilarious Grindstone Theatre Improv Ensemble.<br/>",
+  "website": "https://grindstonetheatre.ca/kingofthehill | @grindstoneimprov",
+  "plain_language": "King of the Hillis a short-form improv battle royale! In each show, 6 talented improvisers go head to head in a battle of wits and comedy. You, the audience, decide on who wins and who loses until only one improviser remains.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Grindstone - Comedy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 17: The Grindstone - Comedy Theatre &amp; Bistro",
+  "locationId": 17,
+  "location": "17: The Grindstone - Comedy Theatre &amp; Bistro",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Sexual Content</div> </span>",
+  "location_html": "<h3>The Grindstone - Comedy Theatre</h3> <div class=\"addres-pin\"> <p>10019 81 Ave NW</p> <p>T6E-1W7</p> </div> <!--<a href=\"#\"></a>--> <span>780-244-9076</span> <a href=\"mailto:grindstonetheatreyeg@gmail.com\">grindstonetheatreyeg@gmail.com</a> <h3>17: The Grindstone - Comedy Theatre &amp; Bistro</h3> <div class=\"addres-pin\"> <p>10019 81 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51691297,-113.48956407&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43885",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:45",
+          "performanceRealTime": "2025-08-14 21:45:00",
+          "performanceDate": "14th August 2025 21:45",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:43886",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:45",
+          "performanceRealTime": "2025-08-15 19:45:00",
+          "performanceDate": "15th August 2025 19:45",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43887",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:00",
+          "performanceRealTime": "2025-08-16 14:00:00",
+          "performanceDate": "16th August 2025 14:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43888",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-19 19:15:00",
+          "performanceDate": "19th August 2025 19:15",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43889",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-20 21:00:00",
+          "performanceDate": "20th August 2025 21:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43890",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:00",
+          "performanceRealTime": "2025-08-22 22:00:00",
+          "performanceDate": "22nd August 2025 22:00",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43891",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:30",
+          "performanceRealTime": "2025-08-23 18:30:00",
+          "performanceDate": "23rd August 2025 18:30",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43892",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:45",
+          "performanceRealTime": "2025-08-24 19:45:00",
+          "performanceDate": "24th August 2025 19:45",
+          "availability": 72,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6719",
+    "showAvailabilityInCalendar": true
+  }
+}

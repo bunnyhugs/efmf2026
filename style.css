@@ -1,0 +1,1254 @@
+:root {
+	--fringe-header-height: 80px;
+	--folk-header-height: 40px;
+
+	--slot-height: 16px;
+	--slot-padding: 2px 3px;
+	--time-slot-padding: 5px;
+	--slot-vertical: calc(var(--slot-height));
+	--favourite-background: #976;
+	--favourite-header-background: #fa4;
+	--primary-background: #777;
+	--time-slot-background: #bbb;
+	--header-height: 42px;
+	--artistList-height: calc(var(--header-height) * 2);
+	--header-background: rgb(235, 235, 235);
+	--header-background-current: rgb(197, 7, 7);
+	--header-background-active: rgb(197, 197, 7);
+	--header-background-about: rgb(197, 197, 197);
+	--header-background-artists: rgb(7, 197, 197);
+	--header-background-hover: rgb(127, 77, 177);
+	--header-background-food: gold;
+	--header-background-now: gold;
+	--header-background-1: gold;
+	--header-background-2: rgb(150, 150, 150);
+	--header-background-3: rgb(150, 150, 150);
+	--header-background-4: rgb(150, 150, 150);
+	--header-background-5: rgb(150, 150, 150);
+	--header-background-venue: rgb(150, 150, 150);
+	--column-min-width: 10em;
+	--column-max-width: 200px;
+	--slide-time: 0.2s;
+	--header-div-date-width: 20vw;
+	--following-header-border: rgba(187,102,102,1);
+	--following-header-background: rgba(227,192,192,.5);
+}
+
+:root:is([data-mode="fringe"]) {
+	--location-header-height: var(--fringe-header-height);
+}
+
+:root:is([data-mode="efmf"]),
+:root:is([data-mode="cfmf"]) {
+	--location-header-height: var(--folk-header-height);
+}
+
+a {
+	text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	font-feature-settings: "liga";
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+	white-space-collapse: collapse;
+	overflow: hidden;
+
+	
+}
+
+img.warning-image {
+	width: 16px;
+	height: 16px;
+}
+
+div.artistDataTableBio span {
+	padding-left: 10px;
+	padding-right: 3px;
+}
+
+div.artistDataTableBio div.tags, 
+div.artistDataTableBio div.tags span {
+	display: flex;
+	align-items: center;
+}
+
+.header {
+	height: var(--header-height);
+	/* width: 100%; */
+	display: flex;
+	flex-wrap: nowrap;
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+	overflow-x: scroll; /* Enable horizontal scrolling on smaller screens */
+	overflow-y: hidden;
+	padding-bottom: 2px;
+}
+
+.header::-webkit-scrollbar {
+    display: none;
+}
+
+.header div {
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: column;
+	flex: 1;
+	height: 100%;
+	text-align: center;
+	vertical-align: middle;
+
+	line-height: 0.8em;
+	font-size: 16px;
+	padding-right: 5px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	transition: min-width 1s ease, width 1s ease;
+}
+
+.header div a {
+	padding-top: 7px;
+	width: 100%;
+	height: 100%;
+	background-color: var(--header-background);
+	border-radius: 20px;
+	border-color: rgba(0,0,0,0);
+}
+
+.header div.date {
+	color: #fff;
+	width: var(--header-div-date-width);
+	min-width: var(--header-div-date-width);
+}
+
+.header span.date {
+	border: none;
+	font-size: 12px;
+}
+
+.header div a {
+	background-color: var(--header-background-venue);
+}
+.header div a.artists {
+	background-color: var(--header-background-artists);
+}
+
+.header div a.now {
+	background-color: var(--header-background-now);
+}
+
+.header div a.food {
+	background-color: var(--header-background-food);
+}
+
+.header div a.about {
+	background-color: var(--header-background-about);
+}
+
+.header div a.now, .header div a.artists, .header div a.about {
+	padding-top: 14px;
+}
+
+.header div.current {
+	min-width: 25vw;
+	transition: min-width 0.2s linear, width 0.2s linear;
+}
+
+.header div.current a {
+	border: 2px solid #e99;
+	background-color: var(--header-background-current);
+	color: #fff;
+}
+
+.schedule-item.transparent {
+	background-color: rgba(255,255,255,0.5);
+}
+
+main {
+	background-color: var(--primary-background);
+	background-image: repeating-linear-gradient(45deg, transparent, transparent 12px, rgba(0, 0, 0, 0.1) 12px, rgba(0, 0, 0, 0.1) 13px);
+}
+
+#loadingStatus {
+	position: fixed;
+	top: 20%;
+	left: 10%;
+	padding: 20px;
+	background: #333;
+	color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 40px 40px rgba(0, 0, 0, 0.5);
+	border-radius: 13px;
+    z-index: 100;
+}
+
+#schedule-section {
+	margin: 0px 0px 0px 0px; /* Add top margin to make space for the fixed header */
+/*
+	max-height: calc(100vh - var(--header-height));
+	min-height: calc(100vh - var(--header-height));
+	*/
+	/* height: calc(100vh - var(--header-height)); */  /* Subtract the header height from the viewport height */
+	/* min-height: calc(100vh - var(--header-height));*/
+	cursor: grab;
+	height: calc(100vh - var(--header-height) );
+	max-height: calc(100vh - var(--header-height) );
+	top: var(--header-height);
+	width: 100vw;
+	overflow-x: scroll;
+	overflow-y: scroll;
+	scrollbar-color: rgba(100,100,100,0);
+	scrollbar-width: thin;
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+	background-color: var(--primary-background);
+	background-image: repeating-linear-gradient(45deg, transparent, transparent 12px, rgba(0, 0, 0, 0.1) 12px, rgba(0, 0, 0, 0.1) 13px);
+}
+
+.schedule {
+	display: flex;
+	flex-wrap: nowrap;
+	min-width: 600px;
+	min-height: max(960px, calc(100vh - var(--header-height) - 10px));
+	 /* max-height: calc(100vh - var(--header-height) -10px);  */
+	/* min-width: calc(200vw); */
+	scrollbar-color: rgba(100,100,100,0);
+	scrollbar-width: thin;
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+	background-color: var(--primary-background);
+	background-image: repeating-linear-gradient(45deg, transparent, transparent 12px, rgba(0, 0, 0, 0.1) 12px, rgba(0, 0, 0, 0.1) 13px);
+}
+
+/* Add sticky headers to each day column */
+.location-header {
+	position: sticky;
+	top: 0;
+	min-height: var(--location-header-height);
+	max-height: var(--location-header-height);
+	background-color: #f1f1f1;
+	z-index: 999; /* Ensure the headers stay above the schedule items */
+	font-weight: 700;
+	padding-left: 10px;
+	border-bottom: 3px solid #000;
+}
+
+.schedule .time-header {
+	position: sticky;
+	left: 0;
+	color: #fff;
+	z-index: 1000;
+	min-width: 4em;
+	max-width: 4em;
+	margin: 0 0px;
+	font-size: 12px;
+}
+
+/* Change cursor appearance to grabbing when the user is actively dragging */
+.schedule:active {
+	cursor: grabbing;
+}
+
+.location-column {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	flex-wrap: nowrap;
+	border: 1px solid #ddd;
+	margin: 0 3px 0 0;
+	min-width: var(--column-min-width);
+	max-width: var(--column-max-width);
+}
+
+@media (min-width: 1001px) {
+	.location-column {
+		display: flex;
+		flex-direction: column;
+		flex: 1;
+		flex-wrap: nowrap;
+		border: 1px solid #ddd;
+		margin: 0 3px 0 0;
+		min-width: var(--column-min-width);
+		max-width: 20vw;
+	}
+}
+
+.time-slot {
+	border-bottom: 1px dotted #ccc;
+	padding: var(--slot-padding);
+	box-sizing: border-box;
+	position: relative;
+	flex: 1;
+	min-height: var(--slot-height);
+	max-height: var(--slot-height);
+	display: flex;
+	flex-direction: row;
+	background-color: var(--time-slot-background);
+}
+
+.location-header.time-slot {
+	min-height: var(--location-header-height);
+	max-height: var(--location-header-height);
+	border-bottom: 3px solid rgba(0,0,0,0.5);
+	box-sizing: content-box;
+}
+
+.time-slot-hour {
+	border-top: 1px solid #ddd;
+	font-weight: 700;
+}
+
+.time-header .time-slot {
+	color: #555;
+}
+
+.time-header .time-slot-half-hour {
+	color: #def;
+}
+
+.time-header .time-slot-hour {
+	color: #fff;
+}
+
+span.altName {
+	font-weight: 400;
+	font-style: italic;
+	font-size: 12px;
+}
+
+div.artistImage {
+	max-width: 100%;
+	z-index: -5;
+	opacity: 0.5;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.artistCard img, .popup img {
+	padding-top: 10px;
+	max-height: 200px;
+}
+
+span.scheduleHeard, span.scheduleStar {
+	padding-top: 0px;
+	display: inline-block;
+	height: 16px;
+	padding-right: 3px;
+	width: 16px;
+	background-repeat: no-repeat;
+}
+
+div.artistImage img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+div.artistImage :before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255, 255, 255, 0.5); /* Partially transparent background for the bg element only */
+}
+
+.schedule-item,
+.slot-length-1 {
+	--slot-count: 1;
+}
+.slot-length-2 {
+	--slot-count: 2;
+}
+.slot-length-3 {
+	--slot-count: 3;
+}
+.slot-length-4 {
+	--slot-count: 4;
+}
+.slot-length-5 {
+	--slot-count: 5;
+}
+.slot-length-6 {
+	--slot-count: 6;
+}
+.slot-length-7 {
+	--slot-count: 7;
+}
+.slot-length-8 {
+	--slot-count: 8;
+}
+.slot-length-9 {
+	--slot-count: 9;
+}
+.slot-length-10 {
+	--slot-count: 10;
+}
+.slot-length-11 {
+	--slot-count: 11;
+}
+.slot-length-12 {
+	--slot-count: 12;
+}
+.slot-length-13 {
+	--slot-count: 13;
+}
+.slot-length-14 {
+	--slot-count: 14;
+}
+.slot-length-15 {
+	--slot-count: 15;
+}
+.slot-length-16 {
+	--slot-count: 16;
+}
+.slot-length-17 {
+	--slot-count: 17;
+}
+.slot-length-18 {
+	--slot-count: 18;
+}
+.slot-length-19 {
+	--slot-count: 19;
+}
+.slot-length-20 {
+	--slot-count: 20;
+}
+.slot-length-21 {
+	--slot-count: 21;
+}
+.slot-length-22 {
+	--slot-count: 22;
+}
+.slot-length-23 {
+	--slot-count: 23;
+}
+.slot-length-24 {
+	--slot-count: 24;
+}
+.slot-length-25 {
+	--slot-count: 25;
+}
+.slot-length-26 {
+	--slot-count: 26;
+}
+.slot-length-27 {
+	--slot-count: 27;
+}
+.slot-length-28 {
+	--slot-count: 28;
+}
+.slot-length-29 {
+	--slot-count: 29;
+}
+.slot-length-30 {
+	--slot-count: 30;
+}
+
+.popup {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 40px 40px rgba(0, 0, 0, 0.5);
+	border-radius: 13px;
+    z-index: 100;
+	font-size: 12px;
+	max-width: 25vw;
+	max-height: 75vh;
+	overflow: auto;
+}
+
+@media (max-width: 1000px) {
+	.popup {
+		max-width: 85vw;
+	}
+}
+
+.popup img {
+	max-width: 70%;
+	max-height: 200px;
+}
+.schedule-item {
+	width: 100%;
+	position: relative;
+	border-width: 4px 4px 4px 4px;
+	border-style: solid;
+	border-top-color: rgba(216, 216, 216, 0);
+	border-left-color: rgba(216, 216, 216, 0);
+	border-bottom-color: rgba(216, 216, 216, 0);
+	border-right-color: rgba(31, min(255, calc(max(1,var(--slot-count) - 8) * 15)), min(255, calc(max(1,var(--slot-count) - 10) * max(1,var(--slot-count) - 10) * 26)),0.5);
+	border-image: initial;
+	border-radius: 20px;
+	
+	color: rgb(27, 26, 25);
+	fill: rgb(27, 26, 25);
+	background-color: rgba(255, 255, 255, 1);
+
+	margin: 0px 2px;
+	font-size: 12px;
+	/* padding: 4px 4px 4px 8px; */
+	white-space: nowrap;
+	overflow-x: auto;
+	overflow-y: auto;
+	scrollbar-width: thin;
+	z-index: 1;
+	/* z-index: calc(50 - var(--slot-count));  */ /* Adjust z-index to control the stacking order */
+	height: calc( calc(var(--slot-count) * var(--slot-vertical)) - var(--time-slot-padding)*4 );
+}
+
+.schedule-item::-webkit-scrollbar {
+  width: 8px;               /* width of the entire scrollbar */
+}
+
+.schedule-item::-webkit-scrollbar:horizontal{
+  display: none;	
+}
+
+.schedule-item::-webkit-scrollbar-track {
+	border-radius: 20px;
+	padding-top: 10px;
+	background-color: rgba(185,185,185,0.5);
+	background-image: repeating-linear-gradient(45deg, transparent, transparent 1px, rgba(0, 0, 0, 0.1) 1px, rgba(0, 0, 0, 0.1) 4px);
+}
+
+
+.schedule-item::-webkit-scrollbar-thumb {
+  background-color: rgba(250,250,250,0.4);    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  width: 50%;
+  height: 50%;
+  border: 3px solid rgba(100,100,100,0.6);  /* creates padding around scroll thumb */
+}
+
+.schedule-item.concert {
+	border-left-color: rgb(25,25,25);
+	border-left-width: 4px;
+}
+
+.schedule-item.session {
+	background-color: rgba(235,235,255,0.5); 
+}
+
+.schedule-item.favouriteOn {
+	border-top-color: var(--favourite-header-background);
+	border-top-width: 4px;
+	background-color: gold;
+}
+
+.schedule-item.following {
+	border-bottom-color: var(--following-header-border);
+	border-bottom-width: 4px;
+	background-color: var(--following-header-background);
+}
+
+.favourites .schedule-item {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.schedule-item div {
+	background-color: rgba(255,255,255,0.6);
+	color: rgb(27, 26, 25);
+	padding: 1px 5px 0px;
+	text-wrap: wrap;
+	
+}
+.schedule-item .time {
+	font-size: 13px;
+	font-weight: 500;
+}
+.schedule-item .name {
+	font-size: 15px;
+	font-weight: 700;
+}
+.schedule-item .artists {
+	font-size: 15px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.schedule-item .showDesc,
+.schedule-item div.showDesc p
+{
+	background: rgba(255,255,255,0);
+	font-size: 11px;
+	font-style: italic;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	display: inline;
+	color: #468;
+}
+
+:root:is([data-mode="fringe"]) a[title="Festival artist page"] {
+	border: solid 1px #000;
+	border-radius: 7px;
+	background: #5f5;
+	padding: 16px 5px 0px;
+	isolation: isolate;
+	-webkit-filter: invert(0%) !important;
+	filter: invert(0%) !important;
+}
+
+:root:is([data-mode="fringe"]) div.artistCard a[title="Festival artist page"] {
+	padding-right: 18px;
+}
+
+div.artistCardHeader {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+div.artistCardHeader span {
+	font-weight: 600;
+}
+
+div.artistCardHeader span span {
+	display: inline-block;
+}
+
+div.artistCardHeader span span img {
+	padding-top: 0px;
+}
+
+.schedule-item a.artistLink {
+	white-space: normal;
+}
+
+.schedule-item .type {
+	font-size: 14px;
+	color: rgba(27, 26, 25, 0.5);
+}		
+
+.time-header .time-slot {
+	padding: 0px;
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+
+.schedule .favourites {
+	min-width: calc(var(--column-min-width) * 2.2);
+	background-color: var(--favourite-background);
+}
+
+.schedule-item div.favouriteStar, .schedule-item div.heardItStar {
+  height: 35px;
+  width: 100%;
+  cursor: pointer;
+  padding: 0px 0px 5px 0px;
+  background: rgba(255,255,255,0);
+}
+
+.schedule-item div.favouriteStar {
+	margin-top: 8px;
+}
+
+div.favouriteStar div.star, 
+div.heardItStar div.heardIt  {
+  font-style: italic;
+  color: rgba(90,90,90,0.8);
+  vertical-align: middle;
+  display: flex;
+  flex-wrap: no-wrap;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+  height: 100%;
+  width: 80%;
+  margin: 0px auto;
+  background-repeat: no-repeat;
+  background-position: 6px 8px;
+  padding: 0px 0px 0px 0px !important;
+  border: 1px solid rgba(100,100,100,0.3);
+  display: flex;
+  vertical-align: middle;
+  text-align: center;
+  
+  border-radius: 10px;
+}
+
+.unheard .heardIt {
+  background-image: url("./unheard.png");
+}
+
+.heard .heardIt {
+  background-image: url("./heard.png");
+}
+
+.favouriteOn .star {
+  background-image: url("./star-on.png");
+}
+
+.favouriteOff .star {
+  background-image: url("./star-off.png");
+}
+
+.scheduleList.favouriteOn {
+  background-image: url("./star-on.png");
+}
+
+.scheduleList.favouriteOff {
+  background-image: url("./star-off.png");
+}
+
+.scheduleList.unheard {
+  background-image: url("./unheard.png");
+}
+
+.scheduleList.heard {
+  background-image: url("./heard.png");
+}
+
+
+
+@media only screen and (min-width: 769px) {
+
+	.heardIt:hover {
+	  background-image: url("./heard-hover.png");
+	}
+
+	.star:hover {
+	  background-image: url("./star-hover.png");
+	}
+
+	.header div a:hover {
+		text-decoration: none;
+		background-color: var(--header-background-hover);
+		color: #fff;
+	}
+
+	.header div a:active {
+		text-decoration: none;
+		background-color: var(--header-background-current);
+		color: #fff;
+		border: 2px solid #eda;
+	}
+
+}
+
+:root:is([data-mode="fringe"]) #food-section,
+:root:is([data-mode="fringe"]) #foodHeader {
+	display: none;
+}
+
+.favourites .location-header {
+	background-color: var(--favourite-header-background);
+}
+.favourites .time-slot {
+	background-color: var(--favourite-background);
+}
+
+.time-header .time-slot {
+	background-color: #333;
+}
+
+.artistImg { 
+	max-height: 200px;
+	max-width: 200px;
+}
+
+@media (max-width: 600px) {
+	.header {
+		flex-wrap: nowrap;
+	}
+	.schedule {
+		flex-wrap: nowrap;
+	}
+}
+
+.hide {
+	display: none;
+}
+
+.slide-off-right {
+  animation: slideOffRight var(--slide-time) forwards;
+}
+
+@keyframes slideOffRight {
+  0% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  100% {
+    opacity: 0.2;
+    transform: translateX(100vw);
+    display: none;
+  }
+}
+
+.slide-off-left {
+  animation: slideOffLeft var(--slide-time) forwards;
+}
+
+@keyframes slideOffLeft {
+  0% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  100% {
+    opacity: 0.2;
+    transform: translateX(-100vw);
+    display: none;
+  }
+}
+
+.slide-on-from-right {
+  animation: slideOnFromRight var(--slide-time) forwards;
+}
+
+@keyframes slideOnFromRight {
+  0% {
+    opacity: 1;
+    transform: translateX(100vw);
+    display: flex;
+	z-index: 20;
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+    display: flex;
+	z-index: 0;
+  }
+}
+
+.slide-on-from-left {
+  animation: slideOnFromLeft var(--slide-time) forwards;
+}
+
+@keyframes slideOnFromLeft {
+  0% {
+    opacity: 1;
+    transform: translateX(-100vw);
+    display: flex;
+	z-index: 20;
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+    display: flex;
+	z-index: 0;
+  }
+}
+
+.artistListContainer, .aboutContainer, .foodContainer {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 100vh;
+	width: 100vw;
+	overflow: hidden;
+}
+
+table.artistTable {
+	width: calc(100% - 0px) !important;
+	max-width: 620px;
+}
+
+#artistTable {
+	width: calc(100% - 10px) !important;
+	max-width: 620px;
+}
+
+
+.artistList {
+	z-index: 1000;
+	position: relative;
+	height: 80%;
+	min-width: 350px;
+	width: 60vw;
+	max-width: 630px;
+	top: var(--artistList-height);
+	margin: 0px auto;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 1);
+	border-radius: 13px;
+	overflow: auto;
+}
+
+.aboutBox {
+	z-index: 1000;
+	position: relative;
+	height: 60%;
+	min-width: 350px;
+	width: 30vw;
+	max-width: 70vw;
+	top: 20%;
+	margin: 0px auto;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 1);
+	border-radius: 13px;
+	overflow: auto;
+
+    justify-content: center;
+    align-items: center;
+	text-align: center;
+}
+
+.aboutBox .aboutImg
+{
+	width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;	
+	padding: 20px 0px;
+}
+
+.aboutBox img {
+	width: 50%;
+	margin: 0px auto;
+}
+
+.aboutBox div.export,
+.aboutBox div.import {
+	border-radius: 10px;
+	padding: 5px;
+	font-weight: 800;
+}
+
+.aboutBox div.export {
+	background-color: #446;
+	color: #fff;
+}
+
+.aboutBox div.import {
+	background-color: #577;
+	color: #000;
+}
+
+#exportButton,
+#exportLink {
+	padding: 10px;
+	background-color: #000;
+	color: #fff;
+	border-radius: 10px;
+	cursor: pointer; /* Add cursor style */
+}
+
+#exportLink {
+	/* Todo: finish */
+	display: none;
+}
+
+.file-upload {
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+	border-radius: 4px;
+	background-color: #f1f1f1;
+	padding: 8px 12px;
+	cursor: pointer;
+}
+
+.file-upload input[type=file] {
+	position: absolute;
+	font-size: 100px;
+	right: 0;
+	top: 0;
+	opacity: 0;
+	cursor: pointer;
+}
+
+.file-upload span {
+	margin-right: 10px;
+}
+
+.file-upload-text {
+	display: inline-block;
+	margin-top: 6px;
+}
+
+a.contact {
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+a.contact:hover {
+	text-decoration: none;
+	color: #62a;
+}
+
+a.aboutLink {
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+span.gender {
+	display: inline-block;
+	min-width: 7em;
+}
+
+span.percent {
+	font-style: italic;
+	color: rgb(150,150,150);
+	display: inline-block;
+	font-size: 0.8em;
+}
+
+thead {
+	font-size: 12px;
+}
+tbody {
+	font-size: 12px;
+}
+
+#artistListStats {
+	font-size: 12px;
+}
+
+#artistListStats ul {
+	margin-top: 0px;
+}
+
+.dataTables_wrapper .dataTables_filter {
+	float: left !important;
+	padding: 5px;
+	background: rgba(240,255,255,1);
+	border: 1px dotted #333;
+	border-radius: 8px;
+
+}
+
+div.dataTAbles_scrollBody {
+/*	max-height: 60vw;*/
+}
+
+.socialLink {
+	height: 29px;
+	width: 29px;
+	padding-left: 15px;
+}
+
+div.artistDataTableBio {
+	max-width: calc(100vw - 30px);
+}
+
+div.tags {
+	background: #ddd;
+	padding-top: 2px;
+	padding-bottom: 3px;
+	padding-right: 4px;
+	border: 1px #444 dotted;
+}
+
+div.tags > span:has(img.warning-image) {
+	font-style: italic;
+}
+
+div.artistDataTableBio {
+	max-width: calc(95vw - 30px);
+}
+
+div.artistRow > a:first-of-type > .socialLink {
+	padding-left: 0px;
+}
+
+img.socialLink.fest {
+	height: 29px;
+}
+
+:root:is([data-mode="fringe"]) img.socialLink.fest {
+	width: 33px; /* Fringe ONLY */
+}
+
+:root:is([data-mode="efmf"]) img.socialLink.fest {
+	width: 72px; /* Fringe ONLY */
+}
+	
+a.socialLink:hover {
+	fill: rgba(200,10,100,1);
+}
+
+.artistRow img.artistPhoto {
+	float: right;
+	max-height: 350px;
+	max-width: 200px;
+	padding: 10px 0px 20px 20px;
+}
+
+img.artistCardIcon {
+	float: right;
+	height: 16px;
+	width: 16px;
+	display: inline-block;
+}
+
+.popup h3 {
+	display: inline-block;
+	padding-left: 20px;
+}
+
+.popup h3, .popup h4 {
+	margin-block-start: 0.5em;
+    margin-block-end: 0.4em;
+}
+
+span.eventTime {
+	font-weight: 700;
+}
+span.eventLocation::before {
+	content: " • ";
+}
+
+#artistTable div.artistSchedule {
+	padding-top: 10px;
+}
+
+div.artistSchedule span {
+	vertical-align: top;
+}
+
+.dt-followArtist {
+  background-image: url("./star-off.png");
+  cursor: pointer;
+  /* height: 40px; */
+  background-repeat: no-repeat;
+  background-position: 4px 5px;
+  /* padding: 5px 0px;*/
+}
+
+div.dt-followArtist {
+	background-position: 0px 6px;
+}
+
+.dt-followArtist.following {
+  background-image: url("./follow-on.png");
+}
+
+span.dt-followArtist {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+}
+
+
+.glow {
+	-webkit-animation: glow 5s ease-in-out infinite alternate;
+	-moz-animation: glow 5s ease-in-out infinite alternate;
+	animation: glow 5s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+	from {
+	  text-shadow: 0 0 5px #c99, 0 0 5px #b88, 0 0 5px #fff, 0 0 5px #fff;
+	}
+	to {
+	  text-shadow: 0 0 5px #c99, 0 0 5px #b88, 0 0 5px #fff, 0 0 5px #fff;
+	}
+}
+
+
+#installedStatus {
+	padding: 8px;
+}
+
+#installedStatus img {
+	max-width: 80vw;
+	max-height: 60vh;
+}
+
+/* Apply the animation class only when active */
+.meta-viewport-animate {
+  transition: initial-scale 0.3s ease-in-out !important;
+}
+
+.popupDisplay {
+	display: block;
+}
+
+
+div.food {
+	z-index: 1000;
+	position: relative;
+	height: 80%;
+	min-width: 410px;
+	width: 60vw;
+	max-width: 410px;
+	top: var(--artistList-height);
+	margin: 0px auto;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 1);
+	border-radius: 13px;
+	overflow: auto;
+}
+
+div.food *:not(div.food) {
+	z-index: initial;
+	position: initial;
+	height: initial;
+	min-width: initial;
+	width: initial;
+	max-width: initial;
+	top: initial;
+	margin: initial;
+    background-color: initial;
+    padding: initial;
+    border: initial;
+    box-shadow: initial;
+	border-radius: initial;
+	overflow: initial;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+div.fl-col, 
+div.fl-rich-text,
+div.fl-rich-text p {
+	display: block !important;
+}
+
+div.food>div {
+	border: 4px #aaa solid;
+	border-radius: 10px;
+	max-width: 90vw;
+	width: 360px;
+	padding: 5px 10px 10px 10px;
+	font-size: 12px;
+	margin-bottom: 20px;
+	display: block;
+}
+
+div.vendor-link-out {
+	display: block !important;
+}
+div.vendor-wrapper {
+	padding: 1px 10px !important;
+	border-radius: 10px !important;
+	border: 1px dotted #333 !important;
+	margin: 3px 0px !important;
+}
+
+div.food h3, div.food h4	{
+	margin-top: 4px;
+	margin-bottom: 10px;
+}
+div.food h3 {
+	font-size: 2em;
+}
+div.food img {
+	max-height: 350px;
+	max-width: 350px;
+	display: block;
+	padding: 10px 0px;
+}
+div.food a {
+	text-decoration: none;
+	color: #000;
+}

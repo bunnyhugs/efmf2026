@@ -1,0 +1,148 @@
+{
+  "image": "6594\\6594.jpg",
+  "title": "4-Way Stretch",
+  "description": "Lost in grief, a drag king finds himself stretched by the four components of time; past, present, future and... gender identity. In Stretcher Hartout’s second one man show and first time fringe debut, this drag king rekindles himself with his femininity and labours to fit in non-toxic masculinity.",
+  "credits": "<strong>Playwright</strong>: Stretcher Hartout<br/><strong>Director</strong>: Stretcher Hartout<br/><strong>Cast</strong>: Stretcher Hartout<br/><strong>Stage Manager</strong>: Abyss<br/>",
+  "website": "https://www.instagram.com/stretcherforever",
+  "plain_language": "4-Way Stretch is a personal narrative of Stretcher Hartout navigating the discovery of his gender identity through the queer artform of drag. Relating to his own experiences, Stretcher unpacks the complicated and underrepresented history of drag kings in the media. Through drag acts and storytelling, does Stretcher find an answer to his struggles? Or is he left questioning his discoveries?",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Performance Art",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 45 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>The Roxy Theatre",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 31: Nancy Power Theatre",
+  "locationId": 31,
+  "location": "31: Nancy Power Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Mental Illness/Disorders, Nudity, Political Content, Religious Content</div> </span>",
+  "location_html": "<h3>The Roxy Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> <p>T5M 0H1</p> </div> <!--<a href=\"#\"></a>--> <span>780-453-2440</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>31: Nancy Power Theatre</h3> <div class=\"addres-pin\"> <p>10708 124 ST NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.55171317,-113.53618310&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42855",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-15 17:30:00",
+          "performanceDate": "15th August 2025 17:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:42856",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-17 20:00:00",
+          "performanceDate": "17th August 2025 20:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42857",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:00",
+          "performanceRealTime": "2025-08-19 15:00:00",
+          "performanceDate": "19th August 2025 15:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42858",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-20 17:00:00",
+          "performanceDate": "20th August 2025 17:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42859",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-21 20:00:00",
+          "performanceDate": "21st August 2025 20:00",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42860",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:30",
+          "performanceRealTime": "2025-08-22 21:30:00",
+          "performanceDate": "22nd August 2025 21:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42861",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:30",
+          "performanceRealTime": "2025-08-23 17:30:00",
+          "performanceDate": "23rd August 2025 17:30",
+          "availability": 173,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6594",
+    "showAvailabilityInCalendar": true
+  }
+}

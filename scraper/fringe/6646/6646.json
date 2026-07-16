@@ -1,0 +1,131 @@
+{
+  "image": "6646\\6646.jpg",
+  "title": "Fear Fables: The Horror Drag Anthology",
+  "description": "Prepare yourselves for a collection of terrifying tales... Fear Fables is where theatre, drag, and horror meet, in a way you've never seen before. In 2025, FF takes a galactic spin as we search the universe alongside narrator Emmonia, to unravel the cosmos' most horrifying legends through performance art, dance, and costume.",
+  "credits": "<strong>Director</strong>: Mørtis X &amp; Emmonia<br><strong>Cast</strong>: Emmonia, Mørtis X, Art Official, CallMeKeeks, Damien Ghoul, Jizz Elle, Mx Jackson, Romulus<br/></br>",
+  "website": "https://instagram.com/epo.artsco",
+  "plain_language": "\"Fear Fables: The Horror Drag Anthology\" is a 60-minute drag show where each number tells a different horror story. This show is narrated/hosted by Emmonia, a local drag icon, who plays an ancient demon that feeds on terror to survive. Follow her as she navigates the galaxy collecting horror legends for her Fear Fables book, the collection of horror stories where she holds all of her demonic power.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Performance Art",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $18.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 16-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Fringe Theatre Arts Barns",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 02: The Next Act Backstage Theatre",
+  "locationId": 2,
+  "location": "02: The Next Act Backstage Theatre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Death, Nudity, Political Content, Sexual Content, Strobe Lights, Violence</div> </span>",
+  "location_html": "<h3>Fringe Theatre Arts Barns</h3> <div class=\"addres-pin\"> <p>10330 84 Ave NW</p> <p>T6E 2G9</p> </div> <!--<a href=\"#\"></a>--> <span>780-448-9000</span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>02: The Next Act Backstage Theatre</h3> <div class=\"addres-pin\"> <p>10330 84 Avenue NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51987100,-113.49598200&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-16": [
+        {
+          "id": "601:43318",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-16 21:00:00",
+          "performanceDate": "16th August 2025 21:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43319",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:00",
+          "performanceRealTime": "2025-08-17 17:00:00",
+          "performanceDate": "17th August 2025 17:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43320",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-19 19:00:00",
+          "performanceDate": "19th August 2025 19:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43321",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:15",
+          "performanceRealTime": "2025-08-20 12:15:00",
+          "performanceDate": "20th August 2025 12:15",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43322",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:00",
+          "performanceRealTime": "2025-08-22 23:00:00",
+          "performanceDate": "22nd August 2025 23:00",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43323",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-23 14:15:00",
+          "performanceDate": "23rd August 2025 14:15",
+          "availability": 134,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6646",
+    "showAvailabilityInCalendar": true
+  }
+}

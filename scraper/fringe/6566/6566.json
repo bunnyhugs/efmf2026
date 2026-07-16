@@ -1,0 +1,114 @@
+{
+  "image": "6566\\6566.jpg",
+  "title": "La Dernière Nuit de la Reine / The Queen's Last Night",
+  "description": "Galerie CAVA / 45 to 60 min / French and English performances / When all your deranged, sometimes humorous, sometimes tragic attempts at validation fail, what are you left with? Yourself? Oh, God, no! / “Raw, well-written and polished. Presents a reality not often heard of but all too familiar.” RAD – Showcase 2025.",
+  "credits": "<strong>Playwright</strong>: Gilbert Drapeau<br/><strong>Director</strong>: Olivier Laroche<br/><strong>Cast</strong>: Gilbert Drapeau<br/>",
+  "website": "",
+  "plain_language": "La Dernière Nuit de la Reine / The Queen’s Last Night tells the story of an older performer who is tired of living by other people’s rules. Looking back at his life, he sees how his family, community, and society's expectations shaped him. He learns from these sometimes humorous, sometimes tragic experiences and finds a way to free himself... or does he?",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy/Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 22, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Galerie CAVA",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 37: Galerie CAVA",
+  "locationId": 37,
+  "location": "37: Galerie CAVA",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 18A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Drugs/Alcohol, Sexual Content, Sexual Violence, Violence</div> </span>",
+  "location_html": "<h3>Galerie CAVA</h3> <div class=\"addres-pin\"> <p>9103 95 Ave NW</p> <p>T6C 1Z4</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>37: Galerie CAVA</h3> <div class=\"addres-pin\"> <p>9103 95 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.53156383,-113.46732259&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-22"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42626",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-15 19:30:00",
+          "performanceDate": "15th August 2025 19:30",
+          "availability": 44,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42627",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-16 19:30:00",
+          "performanceDate": "16th August 2025 19:30",
+          "availability": 44,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:42628",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-19 19:30:00",
+          "performanceDate": "19th August 2025 19:30",
+          "availability": 44,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42629",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-21 19:30:00",
+          "performanceDate": "21st August 2025 19:30",
+          "availability": 44,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:42630",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-22 19:30:00",
+          "performanceDate": "22nd August 2025 19:30",
+          "availability": 44,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6566",
+    "showAvailabilityInCalendar": true
+  }
+}

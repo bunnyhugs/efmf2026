@@ -1,0 +1,165 @@
+{
+  "image": "6718\\6718.jpg",
+  "title": "The Misadventures of Romeo and Juliet",
+  "description": "Welcome to the final dress rehearsal for Romeo and Juliet, where the director is trying to wrangle actors, stagehands, a stage manager and even a few lost actors who have come to the wrong rehearsal! Can the director's sanity last long enough to make it to opening night?",
+  "credits": "<strong>Playwright</strong>: Stephen Frankenfield<br/><strong>Director</strong>: Elaine Dunbar<br/><strong>Cast</strong>: Underdog Theatre Company - Youth Performers<br/>",
+  "website": "",
+  "plain_language": "A comedy, a play within a play. A group of actors try to get through the last rehearsal of Shakespeare's \"Romeo and Juliet\" but everything keeps going wrong.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $17.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Holy Trinity Anglican Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 21: The Sanctuary Stage",
+  "locationId": 21,
+  "location": "21: The Sanctuary Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "",
+  "location_html": "<h3>Holy Trinity Anglican Church</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> <p>T6E 2G6</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>21: The Sanctuary Stage</h3> <div class=\"addres-pin\"> <p>10037 84 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52050040,-113.49051258&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:43877",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-15 11:00:00",
+          "performanceDate": "15th August 2025 11:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43878",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-16 11:00:00",
+          "performanceDate": "16th August 2025 11:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43879",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-18 11:00:00",
+          "performanceDate": "18th August 2025 11:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43880",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-19 11:00:00",
+          "performanceDate": "19th August 2025 11:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43881",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-20 11:00:00",
+          "performanceDate": "20th August 2025 11:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43882",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-21 11:00:00",
+          "performanceDate": "21st August 2025 11:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43883",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-22 11:00:00",
+          "performanceDate": "22nd August 2025 11:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43884",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "11:00",
+          "performanceRealTime": "2025-08-23 11:00:00",
+          "performanceDate": "23rd August 2025 11:00",
+          "availability": 209,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6718",
+    "showAvailabilityInCalendar": true
+  }
+}

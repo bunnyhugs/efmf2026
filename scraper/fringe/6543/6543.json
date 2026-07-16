@@ -1,0 +1,131 @@
+{
+  "image": "6543\\6543.jpg",
+  "title": "Inherently Disordered",
+  "description": "Oh GOD, not another GAY-ass show... Inherently Disordered is a one-man comedy show of Aldrick’s experiences studying in Montreal, living in Toronto, and working in Chicago. He details a crisis of faith trying to reconcile Catholicism with his sexuality. (But funny!)",
+  "credits": "<strong>Playwright</strong>: Aldrick Dugarte<br><strong>Director</strong>: Kalin Jensen<br/><strong>Cast</strong>: Aldrick Dugarte<br/></br>",
+  "website": "",
+  "plain_language": "Inherently Disordered is a one-man comedy show of Aldrick’s experiences studying in Montreal, living in Toronto, and working in Chicago. Aldrick recounts his journey in coming to terms with his queerness. He details a crisis of faith trying to reconcile Catholicism with his sexuality. Although some of the themes can be deep and dark, it is told with a sense of humor that alternates between whimsical and observational to biting and political.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Comedy",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 15-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Yardbird Suite",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 07: Chianti Yardbird Suite",
+  "locationId": 7,
+  "location": "07: Chianti Yardbird Suite",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Political Content, Religious Content</div> </span>",
+  "location_html": "<h3>Yardbird Suite</h3> <div class=\"addres-pin\"> <p>11 Tommy Banks Way</p> <p>T6E 2M2</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>07: Chianti Yardbird Suite</h3> <div class=\"addres-pin\"> <p></p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52149972,-113.49477768&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-15": [
+        {
+          "id": "601:42436",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:15",
+          "performanceRealTime": "2025-08-15 23:15:00",
+          "performanceDate": "15th August 2025 23:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:42437",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:30",
+          "performanceRealTime": "2025-08-16 14:30:00",
+          "performanceDate": "16th August 2025 14:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:42438",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:15",
+          "performanceRealTime": "2025-08-18 19:15:00",
+          "performanceDate": "18th August 2025 19:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:42439",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-20 17:15:00",
+          "performanceDate": "20th August 2025 17:15",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:42440",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "21:00",
+          "performanceRealTime": "2025-08-21 21:00:00",
+          "performanceDate": "21st August 2025 21:00",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:42441",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:30",
+          "performanceRealTime": "2025-08-23 12:30:00",
+          "performanceDate": "23rd August 2025 12:30",
+          "availability": 94,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6543",
+    "showAvailabilityInCalendar": true
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "image": "6653\\6653.jpg",
+  "title": "Sam's Clam and Oyster Bar",
+  "description": "After last year’s booming ★★★★★ hit \"Soup and Hogan's\", Sam Daly and Ethan Lang crawl out of their caves with Sam’s Clam and Oyster Bar! A mother-shucking gorgeous musical full of seafood, chaotic romance, and mythological madness. Bring your barrels, they'll be full of laughs.",
+  "credits": "<strong>Playwright</strong>: Sam Daly and Ethan Lang<br/><strong>Director</strong>: Elizabeth Janzen<br/><strong>Cast</strong>: Nico Maiorana, Sarah Kyle, Șam Daly, Ethan Lang, Astrid Deibert, Ali Balloun, Ben Healey, Marshall Eglinski<br/><strong>Designers</strong>: Ethan Lang, Elizabeth Janzen and Sam Daly<br/><strong>Stage Manager</strong>: Meg Walker<br/>",
+  "website": "https://www.instagram.com/Topbunktheatre",
+  "plain_language": "Sam's Clam and Oyster Bar is a comedic musical about a man named Sam who loses his Grandpa and has to run his failing Clam shop. Pearl, the bartender, helps convince Sam not to give up on his dreams when, by chance, a new supplier starts delivering to their shop. With their luck turning towards the better, how will Sam and Pearl keep the greedy townsfolk at bay from eating their whole supply without them turning on the business owners?",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Music/Musical Theatre",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 23, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Trinity Evangelical Lutheran Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 18: The FOH PRO Stage",
+  "locationId": 18,
+  "location": "18: The FOH PRO Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Cartoonish Violence, Death, Gunshots,</div> </span>",
+  "location_html": "<h3>Trinity Evangelical Lutheran Church</h3> <div class=\"addres-pin\"> <p>10014 81 Ave NW</p> <p>T6E 1W8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>18: The FOH PRO Stage</h3> <div class=\"addres-pin\"> <p>10014 81 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51736254,-113.48933039&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-21",
+      "2025-08-23"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43377",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:45",
+          "performanceRealTime": "2025-08-14 23:45:00",
+          "performanceDate": "14th August 2025 23:45",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:43378",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:15",
+          "performanceRealTime": "2025-08-15 18:15:00",
+          "performanceDate": "15th August 2025 18:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43379",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "14:15",
+          "performanceRealTime": "2025-08-16 14:15:00",
+          "performanceDate": "16th August 2025 14:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43380",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:15",
+          "performanceRealTime": "2025-08-17 22:15:00",
+          "performanceDate": "17th August 2025 22:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43381",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:30",
+          "performanceRealTime": "2025-08-18 19:30:00",
+          "performanceDate": "18th August 2025 19:30",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43382",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "15:30",
+          "performanceRealTime": "2025-08-19 15:30:00",
+          "performanceDate": "19th August 2025 15:30",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43383",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:15",
+          "performanceRealTime": "2025-08-21 23:15:00",
+          "performanceDate": "21st August 2025 23:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43384",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:00",
+          "performanceRealTime": "2025-08-23 16:00:00",
+          "performanceDate": "23rd August 2025 16:00",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6653",
+    "showAvailabilityInCalendar": true
+  }
+}

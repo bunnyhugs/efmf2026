@@ -1,0 +1,182 @@
+{
+  "image": "6644\\6644.jpg",
+  "title": "Orphan Well",
+  "description": "Capping an abandoned oil well at the compound of a spiritual leader who preaches environmental apocalypse even as he stands accused of disturbing crimes, Katie hears voices from underground, sending her down her own dark well. Ripped from the headlines, an Alberta ghost story about faith, charlatanism and toxic legacies.",
+  "credits": "<strong>Playwright</strong>: Len Falkenstein<br/><strong>Director</strong>: Len Falkenstein<br/><strong>Cast</strong>: Jake Martin, Rebekah Chasse, Mary Walker<br/><strong>Designers</strong>: Sound Design and Music: Devin Rockwell<br/>",
+  "website": "https://theatrefreeradical.wordpress.com",
+  "plain_language": "Orphan Well is a dark Alberta ghost story about Katie, a woman who seals old oil wells. While working at the site of a religious leader accused of abuse, she starts hearing voices underground. The experience brings up painful memories from her past. As she searches for the truth, Katie struggles to tell what’s real and avoid falling under the preacher’s influence. Inspired by real events, the show explores abuse of power, environmental damage, and the lasting effects of patriarchy.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Drama",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 65 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>La Cité Francophone",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 13: SERVUS Credit Union Théâtre",
+  "locationId": 13,
+  "location": "13: SERVUS Credit Union Théâtre",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> 14A",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Adult Language/Content, Mental Illness/Disorders, Religious Content, Sexual Violence</div> </span>",
+  "location_html": "<h3>La Cité Francophone</h3> <div class=\"addres-pin\"> <p>8627 rue Marie Anne Gaboury (91 Street)</p> <p>T6C 3N1</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:\"></a> <h3>13: SERVUS Credit Union Théâtre</h3> <div class=\"addres-pin\"> <p>8627 rue Marie Anne Gaboury (91 Street)</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.52245100,-113.46643800&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-19",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43303",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:30",
+          "performanceRealTime": "2025-08-14 23:30:00",
+          "performanceDate": "14th August 2025 23:30",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43304",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-16 20:45:00",
+          "performanceDate": "16th August 2025 20:45",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43305",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "22:30",
+          "performanceRealTime": "2025-08-17 22:30:00",
+          "performanceDate": "17th August 2025 22:30",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "id": "601:43306",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:00",
+          "performanceRealTime": "2025-08-18 12:00:00",
+          "performanceDate": "18th August 2025 12:00",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43307",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "17:15",
+          "performanceRealTime": "2025-08-19 17:15:00",
+          "performanceDate": "19th August 2025 17:15",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "id": "601:43308",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:45",
+          "performanceRealTime": "2025-08-20 20:45:00",
+          "performanceDate": "20th August 2025 20:45",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-21": [
+        {
+          "id": "601:43309",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "19:00",
+          "performanceRealTime": "2025-08-21 19:00:00",
+          "performanceDate": "21st August 2025 19:00",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43310",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "13:45",
+          "performanceRealTime": "2025-08-22 13:45:00",
+          "performanceDate": "22nd August 2025 13:45",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43311",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:00",
+          "performanceRealTime": "2025-08-24 18:00:00",
+          "performanceDate": "24th August 2025 18:00",
+          "availability": 179,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6644",
+    "showAvailabilityInCalendar": true
+  }
+}

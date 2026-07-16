@@ -1,0 +1,165 @@
+{
+  "image": "6616\\6616.jpg",
+  "title": "yegDND",
+  "description": "“A must-see for fans of the fantasy genre!” yegDND returns to the Fringe with its biggest adventure yet— with more lovable heroes, epic stage battles, and gripping stories than ever before! With giant D20s rolled by the audience, you control the fate of our heroes in this epic improvised tale inspired by Dungeons &amp; Dragons.",
+  "credits": "<strong>Playwright</strong>: Sorry Not Sorry Improv<br/><strong>Director</strong>: Matt Ness<br/><strong>Cast</strong>: Laena Anderson, Liam Creswick, Joel Dinicola, Corina Dransutavicius, Lea DuCoeur, Adam Keefe, Liam McKinnon, Jesse Tollestrup, Ross Zimmerman and the players of Sorry Not Sorry Improv<br/>",
+  "website": "https://sorrynotsorry.ca",
+  "plain_language": "yegDND is an improvised fantasy adventure inspired by Dungeons &amp; Dragons. Over eight shows, the audience helps shape the story by rolling giant dice and giving suggestions. Guided by a Dungeon Master and the Sorry Not Sorry cast, each show features wild quests, magical creatures, silly songs, and spontaneous storytelling.",
+  "show_type": "<span> <img alt=\"\" src=\"/images/icon_type.svg\"/> </span> Improv/Sketch",
+  "price": "<span> <img alt=\"\" src=\"/images/event-icon.svg\"/></span> $20.00 inc $5.00 fee",
+  "run": "<span> <img alt=\"\" src=\"/images/calendar.svg\"/> </span> 14-August 24, 2025",
+  "playtime": "<span> <img alt=\"\" src=\"/images/icon_duration.svg\"/> </span> 60 minutes - 120 minutes",
+  "venue": "<span> <img alt=\"\" src=\"/images/location.svg\"/></span>Trinity Evangelical Lutheran Church",
+  "site": "<span> <img alt=\"subvenue\" src=\"/images/subvenue.svg\"/> </span> 18: The FOH PRO Stage",
+  "locationId": 18,
+  "location": "18: The FOH PRO Stage",
+  "age": "<span> <img alt=\"\" src=\"/images/age-restriction.svg\"/></span> General (G)",
+  "warnings": "<span> <img alt=\"warning\" class=\"warning-image\" src=\"/images/warning.svg\"/> <div class=\"warning-box\">Show Contains: Cartoonish Violence, Death</div> </span>",
+  "location_html": "<h3>Trinity Evangelical Lutheran Church</h3> <div class=\"addres-pin\"> <p>10014 81 Ave NW</p> <p>T6E 1W8</p> </div> <!--<a href=\"#\"></a>--> <span></span> <a href=\"mailto:boxoffice@fringetheatre.ca\">boxoffice@fringetheatre.ca</a> <h3>18: The FOH PRO Stage</h3> <div class=\"addres-pin\"> <p>10014 81 Ave NW</p> </div>",
+  "map_html": "<iframe allowfullscreen=\"\" height=\"296\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps?key=AIzaSyDZTvScmHYmftgyIKzsmX3MW7t4sDhxUcg&amp;layer=c&amp;q=53.51736254,-113.48933039&amp;z=17&amp;output=embed\" style=\"border:0\" width=\"100%\"> </iframe>",
+  "performances": {
+    "dates": [
+      "2025-08-14",
+      "2025-08-15",
+      "2025-08-16",
+      "2025-08-17",
+      "2025-08-19",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-24"
+    ],
+    "times": {
+      "2025-08-14": [
+        {
+          "id": "601:43089",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:15",
+          "performanceRealTime": "2025-08-14 20:15:00",
+          "performanceDate": "14th August 2025 20:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "id": "601:43090",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "16:30",
+          "performanceRealTime": "2025-08-15 16:30:00",
+          "performanceDate": "15th August 2025 16:30",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-16": [
+        {
+          "id": "601:43091",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:45",
+          "performanceRealTime": "2025-08-16 18:45:00",
+          "performanceDate": "16th August 2025 18:45",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-17": [
+        {
+          "id": "601:43092",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:30",
+          "performanceRealTime": "2025-08-17 20:30:00",
+          "performanceDate": "17th August 2025 20:30",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-19": [
+        {
+          "id": "601:43093",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "23:15",
+          "performanceRealTime": "2025-08-19 23:15:00",
+          "performanceDate": "19th August 2025 23:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "id": "601:43094",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "18:15",
+          "performanceRealTime": "2025-08-22 18:15:00",
+          "performanceDate": "22nd August 2025 18:15",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-23": [
+        {
+          "id": "601:43095",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "12:30",
+          "performanceRealTime": "2025-08-23 12:30:00",
+          "performanceDate": "23rd August 2025 12:30",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ],
+      "2025-08-24": [
+        {
+          "id": "601:43096",
+          "title": null,
+          "description": null,
+          "presentationFormat": "PHYSICAL",
+          "performanceTime": "20:00",
+          "performanceRealTime": "2025-08-24 20:00:00",
+          "performanceDate": "24th August 2025 20:00",
+          "availability": 187,
+          "reserved": false,
+          "contentUrl": null,
+          "admissionTime": "",
+          "cssClass": "green"
+        }
+      ]
+    },
+    "data": [],
+    "eventId": "601:6616",
+    "showAvailabilityInCalendar": true
+  }
+}
