@@ -2,6 +2,36 @@ import json
 import os
 import requests
 
+def downloadFile(url: str, output_path: str) -> str:
+    if os.path.exists(output_path):
+        return f"Skipped: '{output_path}' already exists."
+    try:
+        with requests.get(url, stream=True) as response:
+            response.raise_for_status()
+            output_dir = os.path.dirname(output_path)
+            if output_dir:
+              os.makedirs(output_dir, exist_ok=True)
+            with open(output_path, "wb") as file:
+              for chunk in response.iter_content(chunk_size=8192):
+                if chunk:
+                   file.write(chunk)
+
+        return f"Success: Saved to {output_path}"
+
+    except requests.exceptions.RequestException as e:
+        return f"Down1oad failed ： {e}"
+
+def downloadJsonFile(url: str, output_path: str) -> str:
+    return downloadFile("https://goeventweb-static.greencopper.com/db769c897a254756b594aafdce55deed/edmontonfolkfestivalwebwidget-2025/data/eng/" + url + ".json", output_path)
+
+downloadJsonFile("artists", "artistsOrig.json")
+downloadJsonFile("tags", "tags.json")
+downloadJsonFile("shows", "shows.json")
+downloadJsonFile("events", "events.json")
+downloadJsonFile("venues", "venues.json")
+downloadJsonFile("texts", "texts.json")
+
+ 
 # Load artists.json
 with open('artistsOrig.json', 'r') as f:
     artists = json.load(f)
