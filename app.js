@@ -1152,11 +1152,48 @@ function populateHeader(headerSection, dateObj) {
 	headerSection.appendChild(dateHeader);
 }
 
-function exportLocalStorageToLink() {
+let toastTimer;
+
+function showToast(message, duration = 2000) {
+    const toast = document.getElementById("toast");
+
+    toast.textContent = message;
+    toast.classList.add("show");
+
+    clearTimeout(toastTimer);
+
+    toastTimer = setTimeout(() => {
+        toast.classList.remove("show");
+    }, duration);
+}
+
+async function exportLocalStorageToLink() {
     const url = utils.getCompressedShareableURL();
-    navigator.clipboard.writeText(url).then(() => {
-        alert("Copied share URL to clipboard!");
-    });
+    try {
+        await navigator.clipboard.writeText(url);
+        showToast("Share URL copied.");
+    } catch (err) {
+        console.warn("Clipboard API failed:", err);
+
+        // Fallback for mobile browsers
+        const myText = document.createElement("myText");
+        myText.value = url;
+        myText.style.position = "fixed";
+        myText.style.left = "-9999px";
+
+        document.body.appendChild(myText);
+        myText.focus();
+        myText.select();
+
+        try {
+            document.execCommand("copy");
+            showToast("Share URL copied.");
+        } catch (e) {
+            showToast("Unable to copy URL. Please copy it manually.");
+        }
+
+        document.body.removeChild(myText);
+	}
 }
 
 function showShareDialog() {
@@ -1197,7 +1234,7 @@ async function checkForSharedData() {
     }
     catch (err) {
         console.error(err);
-        alert("The shared data is invalid or corrupted.");
+        showToast("The shared data is invalid or corrupted.");
         return;
     }
 
