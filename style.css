@@ -1205,7 +1205,7 @@ div.food *:not(div.food) {
 	border-radius: initial;
 	overflow: initial;
 	vertical-align: middle;
-	display: inline-block;
+	/* display: inline-block;*/
 }
 
 div.fl-col, 
