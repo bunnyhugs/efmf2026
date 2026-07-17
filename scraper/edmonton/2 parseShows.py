@@ -54,17 +54,31 @@ for show_id, show_details in shows.items():
     formatted_date_end = format_date(date_end) if date_end else None
     
     # Determine type based on tags
-    if 350 in show_details.get('tags', []):
+    showTags = show_details.get('tags', [])
+
+    main_stage_tag = any(tags['shows'][str(tag_id)]['title'] == "Main Stage" for tag_id in show_details.get('tags', []))
+    concert_tag = any(tags['shows'][str(tag_id)]['title'] == "Concert" for tag_id in show_details.get('tags', []))
+    session_tag = any(tags['shows'][str(tag_id)]['title'] == "Session" for tag_id in show_details.get('tags', []))
+
+    if main_stage_tag or concert_tag:
         show_type = "Concert"
-    elif 349 in show_details.get('tags', []):
+    elif session_tag:
         show_type = "Session"
     else:
-        # Check if "Main Stage" tag is present
-        main_stage_tag = any(tags['shows'][str(tag_id)]['title'] == "Main Stage" for tag_id in show_details.get('tags', []))
-        if main_stage_tag:
-            show_type = "Concert"
-        else:
-            show_type = "Other"  # Default value if neither tag is found
+        show_type = "Other"
+
+    ## UPDATE EACH YEAR, use the tags under "show" in tags.json
+    # if 1018 in showTags or 1019 in showTags or 1022 in showTags:
+    #     show_type = "Concert"
+    # elif 1250 in showTags:
+    #     show_type = "Session"
+    # else:
+    #    # Check if "Main Stage" tag is present
+    #    main_stage_tag = any(tags['shows'][str(tag_id)]['title'] == "Main Stage" for tag_id in show_details.get('tags', []))
+    #    if main_stage_tag:
+    #        show_type = "Concert"
+    #    else:
+    #        show_type = "Other"  # Default value if neither tag is found
     
     # Filter out unwanted tags
     filtered_tags = [tags['shows'][str(tag_id)]['title'] for tag_id in show_details.get('tags', [])

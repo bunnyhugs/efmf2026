@@ -40,7 +40,7 @@
                 "startTime": "17:05:00",
                 "endTime": "17:55:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1345",
                 "showName": "Rob Ickes & Trey Hensley Concert",
                 "locationId": 955
@@ -53,7 +53,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:10:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1342",
                 "showName": "Nothing To Fret About",
                 "locationId": 952
@@ -89,7 +89,7 @@
                 "startTime": "19:00:00",
                 "endTime": "20:00:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1346",
                 "showName": "Rockin' Dopsie Jr & The Zydeco Twisters Concert",
                 "locationId": 950
@@ -121,7 +121,7 @@
                 "startTime": "18:00:00",
                 "endTime": "19:45:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1338",
                 "showName": "School of Song Concert",
                 "locationId": 951
@@ -157,7 +157,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1361",
                 "showName": "The Story",
                 "locationId": 953
@@ -170,7 +170,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1354",
                 "showName": "Tall Tales",
                 "locationId": 955
@@ -183,7 +183,7 @@
                 "startTime": "16:25:00",
                 "endTime": "17:30:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1344",
                 "showName": "Peaks and Valleys",
                 "locationId": 952
@@ -196,7 +196,7 @@
                 "startTime": "12:05:00",
                 "endTime": "12:55:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1350",
                 "showName": "Sister Ray Concert",
                 "locationId": 955
@@ -268,7 +268,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1311",
                 "showName": "Finding Your Voice",
                 "locationId": 952
@@ -281,7 +281,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1365",
                 "showName": "Turning Point",
                 "locationId": 950
@@ -294,7 +294,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1315",
                 "showName": "Heroes",
                 "locationId": 950
@@ -307,7 +307,7 @@
                 "startTime": "16:25:00",
                 "endTime": "17:30:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1344",
                 "showName": "Peaks and Valleys",
                 "locationId": 952
@@ -320,7 +320,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:10:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1352",
                 "showName": "SupaLung Concert",
                 "locationId": 952
@@ -356,7 +356,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1311",
                 "showName": "Finding Your Voice",
                 "locationId": 952
@@ -369,7 +369,7 @@
                 "startTime": "19:00:00",
                 "endTime": "20:00:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1353",
                 "showName": "SYML Concert",
                 "locationId": 952
@@ -405,7 +405,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:55:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1313",
                 "showName": "Goin' Up The Country",
                 "locationId": 954
@@ -418,7 +418,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1317",
                 "showName": "If You Could Read My Mind",
                 "locationId": 954
@@ -431,7 +431,7 @@
                 "startTime": "16:25:00",
                 "endTime": "17:30:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1355",
                 "showName": "The Brudi Brothers Concert",
                 "locationId": 953
@@ -467,7 +467,7 @@
                 "startTime": "16:35:00",
                 "endTime": "17:35:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1356",
                 "showName": "The Mbira Renaissance Band Concert",
                 "locationId": 951
@@ -503,7 +503,7 @@
                 "startTime": "19:05:00",
                 "endTime": "20:00:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1351",
                 "showName": "Song Sung Blue",
                 "locationId": 954
@@ -516,7 +516,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1317",
                 "showName": "If You Could Read My Mind",
                 "locationId": 954
@@ -529,7 +529,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:55:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1357",
                 "showName": "The Milk Carton Kids Concert",
                 "locationId": 952
@@ -565,7 +565,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1339",
                 "showName": "Moods and Grooves",
                 "locationId": 953
@@ -578,7 +578,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1348",
                 "showName": "Roots and Branches",
                 "locationId": 950
@@ -591,7 +591,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:45:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1360",
                 "showName": "The Point. Concert",
                 "locationId": 951
@@ -627,7 +627,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1329",
                 "showName": "Lessons Learned",
                 "locationId": 955
@@ -640,7 +640,7 @@
                 "startTime": "19:05:00",
                 "endTime": "20:00:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1358",
                 "showName": "The Pairs Concert",
                 "locationId": 955
@@ -653,7 +653,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1354",
                 "showName": "Tall Tales",
                 "locationId": 955
@@ -666,7 +666,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1312",
                 "showName": "Full Circles",
                 "locationId": 951
@@ -773,7 +773,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1339",
                 "showName": "Moods and Grooves",
                 "locationId": 953
@@ -786,7 +786,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1349",
                 "showName": "Sing Out",
                 "locationId": 952
@@ -799,7 +799,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1362",
                 "showName": "Tia Wood Concert",
                 "locationId": 952
@@ -835,7 +835,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1347",
                 "showName": "Rolling Tones",
                 "locationId": 954
@@ -848,7 +848,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1293",
                 "showName": "A New Day",
                 "locationId": 953
@@ -861,7 +861,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:55:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1364",
                 "showName": "Trousdale Concert",
                 "locationId": 954
@@ -892,7 +892,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -923,7 +923,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -954,7 +954,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -985,7 +985,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -1016,7 +1016,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -1047,7 +1047,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -1078,7 +1078,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -1109,7 +1109,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -1140,7 +1140,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -1171,7 +1171,7 @@
                 "startTime": "12:00:00",
                 "endTime": "18:00:00",
                 "location": "Nikamowin Program Area",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1334",
                 "showName": "Nikamowin Programming (Saturday)",
                 "locationId": 956
@@ -1184,7 +1184,7 @@
                 "startTime": "11:00:00",
                 "endTime": "18:00:00",
                 "location": "Nikamowin Program Area",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1335",
                 "showName": "Nikamowin Programming (Sunday)",
                 "locationId": 956
@@ -1197,7 +1197,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -1228,7 +1228,7 @@
                 "startTime": "11:00:00",
                 "endTime": "11:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1336",
                 "showName": "Nikamowin",
                 "locationId": 955
@@ -1264,7 +1264,7 @@
                 "startTime": "16:30:00",
                 "endTime": "17:30:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1343",
                 "showName": "On The Road Again",
                 "locationId": 953
@@ -1277,7 +1277,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1354",
                 "showName": "Tall Tales",
                 "locationId": 955
@@ -1290,7 +1290,7 @@
                 "startTime": "15:05:00",
                 "endTime": "15:55:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1296",
                 "showName": "Adam Baldwin Concert",
                 "locationId": 955
@@ -1303,7 +1303,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1312",
                 "showName": "Full Circles",
                 "locationId": 951
@@ -1351,7 +1351,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1311",
                 "showName": "Finding Your Voice",
                 "locationId": 952
@@ -1387,7 +1387,7 @@
                 "startTime": "15:05:00",
                 "endTime": "15:55:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1297",
                 "showName": "Anna Tivel Concert",
                 "locationId": 955
@@ -1400,7 +1400,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1366",
                 "showName": "Master Class",
                 "locationId": 951
@@ -1413,7 +1413,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1318",
                 "showName": "Imagine",
                 "locationId": 954
@@ -1462,7 +1462,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1347",
                 "showName": "Rolling Tones",
                 "locationId": 954
@@ -1475,7 +1475,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1349",
                 "showName": "Sing Out",
                 "locationId": 952
@@ -1524,7 +1524,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1319",
                 "showName": "Influences",
                 "locationId": 954
@@ -1560,7 +1560,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1294",
                 "showName": "A Secret Chord",
                 "locationId": 951
@@ -1573,7 +1573,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1298",
                 "showName": "\u00c1sgeir Concert",
                 "locationId": 951
@@ -1586,7 +1586,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1359",
                 "showName": "The Poet Game",
                 "locationId": 954
@@ -1622,7 +1622,7 @@
                 "startTime": "12:30:00",
                 "endTime": "13:45:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1299",
                 "showName": "Bella White Concert",
                 "locationId": 953
@@ -1635,7 +1635,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1302",
                 "showName": "Changes",
                 "locationId": 951
@@ -1648,7 +1648,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1318",
                 "showName": "Imagine",
                 "locationId": 954
@@ -1684,7 +1684,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1348",
                 "showName": "Roots and Branches",
                 "locationId": 950
@@ -1710,7 +1710,7 @@
                 "startTime": "16:30:00",
                 "endTime": "17:35:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1295",
                 "showName": "A Sense of Wonder",
                 "locationId": 954
@@ -1746,7 +1746,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:45:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1363",
                 "showName": "Traditions",
                 "locationId": 950
@@ -1759,7 +1759,7 @@
                 "startTime": "16:05:00",
                 "endTime": "16:50:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1300",
                 "showName": "Brianna Lizotte Concert",
                 "locationId": 955
@@ -1772,7 +1772,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:10:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1342",
                 "showName": "Nothing To Fret About",
                 "locationId": 952
@@ -1843,7 +1843,7 @@
                 "startTime": "16:30:00",
                 "endTime": "17:35:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1295",
                 "showName": "A Sense of Wonder",
                 "locationId": 954
@@ -1856,7 +1856,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1301",
                 "showName": "Buyepongo Concert",
                 "locationId": 950
@@ -1905,7 +1905,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1319",
                 "showName": "Influences",
                 "locationId": 954
@@ -1977,7 +1977,7 @@
                 "startTime": "17:45:00",
                 "endTime": "18:55:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1303",
                 "showName": "Courtney Marie Andrews Concert",
                 "locationId": 953
@@ -1990,7 +1990,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1366",
                 "showName": "Master Class",
                 "locationId": 951
@@ -2003,7 +2003,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1331",
                 "showName": "Magical Thinking",
                 "locationId": 953
@@ -2039,7 +2039,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:55:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1304",
                 "showName": "D.K. Harrell Concert",
                 "locationId": 950
@@ -2052,7 +2052,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1349",
                 "showName": "Sing Out",
                 "locationId": 952
@@ -2088,7 +2088,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:45:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1363",
                 "showName": "Traditions",
                 "locationId": 950
@@ -2101,7 +2101,7 @@
                 "startTime": "18:05:00",
                 "endTime": "18:55:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1305",
                 "showName": "Daby Tour\u00e9 Concert",
                 "locationId": 955
@@ -2127,7 +2127,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1315",
                 "showName": "Heroes",
                 "locationId": 950
@@ -2176,7 +2176,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:55:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1313",
                 "showName": "Goin' Up The Country",
                 "locationId": 954
@@ -2211,7 +2211,7 @@
                 "startTime": "17:10:00",
                 "endTime": "18:00:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1306",
                 "showName": "Damien O'Kane & Ron Block Concert",
                 "locationId": 955
@@ -2247,7 +2247,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:45:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1073",
                 "showName": "Dana Sipos Concert",
                 "locationId": 955
@@ -2260,7 +2260,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1302",
                 "showName": "Changes",
                 "locationId": 951
@@ -2273,7 +2273,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1331",
                 "showName": "Magical Thinking",
                 "locationId": 953
@@ -2309,7 +2309,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1333",
                 "showName": "Mentors",
                 "locationId": 952
@@ -2322,7 +2322,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1307",
                 "showName": "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block Concert",
                 "locationId": 950
@@ -2335,7 +2335,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1315",
                 "showName": "Heroes",
                 "locationId": 950
@@ -2370,7 +2370,7 @@
                 "startTime": "12:40:00",
                 "endTime": "13:50:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1308",
                 "showName": "Djely Tapa Concert",
                 "locationId": 950
@@ -2405,7 +2405,7 @@
                 "startTime": "19:05:00",
                 "endTime": "20:00:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1351",
                 "showName": "Song Sung Blue",
                 "locationId": 954
@@ -2418,7 +2418,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1367",
                 "showName": "Dove Ellis Concert",
                 "locationId": 954
@@ -2453,7 +2453,7 @@
                 "startTime": "16:30:00",
                 "endTime": "17:30:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1343",
                 "showName": "On The Road Again",
                 "locationId": 953
@@ -2466,7 +2466,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1347",
                 "showName": "Rolling Tones",
                 "locationId": 954
@@ -2479,7 +2479,7 @@
                 "startTime": "16:10:00",
                 "endTime": "17:00:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1309",
                 "showName": "DUG Concert",
                 "locationId": 955
@@ -2515,7 +2515,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1361",
                 "showName": "The Story",
                 "locationId": 953
@@ -2528,7 +2528,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1317",
                 "showName": "If You Could Read My Mind",
                 "locationId": 954
@@ -2541,7 +2541,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1293",
                 "showName": "A New Day",
                 "locationId": 953
@@ -2554,7 +2554,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:10:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1310",
                 "showName": "Fantastic Cat Concert",
                 "locationId": 954
@@ -2590,7 +2590,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:55:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1313",
                 "showName": "Goin' Up The Country",
                 "locationId": 954
@@ -2616,7 +2616,7 @@
                 "startTime": "18:10:00",
                 "endTime": "19:00:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1314",
                 "showName": "Gwenifer Raymond Concert",
                 "locationId": 955
@@ -2652,7 +2652,7 @@
                 "startTime": "19:05:00",
                 "endTime": "20:00:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1351",
                 "showName": "Song Sung Blue",
                 "locationId": 954
@@ -2665,7 +2665,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1316",
                 "showName": "Hurray for the Riff Raff Concert",
                 "locationId": 952
@@ -2701,7 +2701,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1294",
                 "showName": "A Secret Chord",
                 "locationId": 951
@@ -2714,7 +2714,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1366",
                 "showName": "Master Class",
                 "locationId": 951
@@ -2727,7 +2727,7 @@
                 "startTime": "16:35:00",
                 "endTime": "17:30:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1320",
                 "showName": "Jake Xerxes Fussell Concert",
                 "locationId": 951
@@ -2763,7 +2763,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1319",
                 "showName": "Influences",
                 "locationId": 954
@@ -2776,7 +2776,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1366",
                 "showName": "Master Class",
                 "locationId": 951
@@ -2789,7 +2789,7 @@
                 "startTime": "17:45:00",
                 "endTime": "18:50:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1321",
                 "showName": "Jeffrey Martin Concert",
                 "locationId": 951
@@ -2825,7 +2825,7 @@
                 "startTime": "16:30:00",
                 "endTime": "17:35:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1322",
                 "showName": "Jeremie Albino Concert",
                 "locationId": 950
@@ -2838,7 +2838,7 @@
                 "startTime": "16:30:00",
                 "endTime": "17:35:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1295",
                 "showName": "A Sense of Wonder",
                 "locationId": 954
@@ -2874,7 +2874,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1329",
                 "showName": "Lessons Learned",
                 "locationId": 955
@@ -2887,7 +2887,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1302",
                 "showName": "Changes",
                 "locationId": 951
@@ -2900,7 +2900,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:45:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1323",
                 "showName": "Joe Nolan Concert",
                 "locationId": 951
@@ -2936,7 +2936,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:10:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1324",
                 "showName": "Joel Plaskett Emergency",
                 "locationId": 953
@@ -2949,7 +2949,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1293",
                 "showName": "A New Day",
                 "locationId": 953
@@ -2962,7 +2962,7 @@
                 "startTime": "16:25:00",
                 "endTime": "17:30:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1344",
                 "showName": "Peaks and Valleys",
                 "locationId": 952
@@ -2998,7 +2998,7 @@
                 "startTime": "16:30:00",
                 "endTime": "17:30:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1343",
                 "showName": "On The Road Again",
                 "locationId": 953
@@ -3011,7 +3011,7 @@
                 "startTime": "17:45:00",
                 "endTime": "18:50:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1325",
                 "showName": "John R. Miller Concert",
                 "locationId": 953
@@ -3024,7 +3024,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:10:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1342",
                 "showName": "Nothing To Fret About",
                 "locationId": 952
@@ -3060,7 +3060,7 @@
                 "startTime": "16:35:00",
                 "endTime": "17:35:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1326",
                 "showName": "Julian Taylor Concert",
                 "locationId": 954
@@ -3073,7 +3073,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1333",
                 "showName": "Mentors",
                 "locationId": 952
@@ -3086,7 +3086,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1331",
                 "showName": "Magical Thinking",
                 "locationId": 953
@@ -3122,7 +3122,7 @@
                 "startTime": "16:35:00",
                 "endTime": "17:40:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1327",
                 "showName": "Kate Rusby Concert",
                 "locationId": 952
@@ -3135,7 +3135,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1333",
                 "showName": "Mentors",
                 "locationId": 952
@@ -3148,7 +3148,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1318",
                 "showName": "Imagine",
                 "locationId": 954
@@ -3197,7 +3197,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1312",
                 "showName": "Full Circles",
                 "locationId": 951
@@ -3210,7 +3210,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:10:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1328",
                 "showName": "La D\u00e9ferlance Concert",
                 "locationId": 953
@@ -3259,7 +3259,7 @@
                 "startTime": "16:25:00",
                 "endTime": "17:30:00",
                 "location": "Stage 3",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1344",
                 "showName": "Peaks and Valleys",
                 "locationId": 952
@@ -3272,7 +3272,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1359",
                 "showName": "The Poet Game",
                 "locationId": 954
@@ -3308,7 +3308,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:45:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1363",
                 "showName": "Traditions",
                 "locationId": 950
@@ -3321,7 +3321,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1319",
                 "showName": "Influences",
                 "locationId": 954
@@ -3334,7 +3334,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:10:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1330",
                 "showName": "Madalitso Band Concert",
                 "locationId": 950
@@ -3370,7 +3370,7 @@
                 "startTime": "19:00:00",
                 "endTime": "19:55:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1332",
                 "showName": "Mariel Buckley Concert",
                 "locationId": 953
@@ -3383,7 +3383,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1361",
                 "showName": "The Story",
                 "locationId": 953
@@ -3396,7 +3396,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 2",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1294",
                 "showName": "A Secret Chord",
                 "locationId": 951
@@ -3432,7 +3432,7 @@
                 "startTime": "17:50:00",
                 "endTime": "18:50:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1329",
                 "showName": "Lessons Learned",
                 "locationId": 955
@@ -3445,7 +3445,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 5",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1339",
                 "showName": "Moods and Grooves",
                 "locationId": 953
@@ -3458,7 +3458,7 @@
                 "startTime": "13:05:00",
                 "endTime": "13:55:00",
                 "location": "Stage 7",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1337",
                 "showName": "Mia Kelly Concert",
                 "locationId": 955
@@ -3529,7 +3529,7 @@
                 "startTime": "15:05:00",
                 "endTime": "16:15:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1348",
                 "showName": "Roots and Branches",
                 "locationId": 950
@@ -3542,7 +3542,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1318",
                 "showName": "Imagine",
                 "locationId": 954
@@ -3555,7 +3555,7 @@
                 "startTime": "16:30:00",
                 "endTime": "17:35:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Concert",
                 "showId": "1341",
                 "showName": "Nick Mulvey Concert",
                 "locationId": 950
@@ -3591,7 +3591,7 @@
                 "startTime": "11:00:00",
                 "endTime": "12:15:00",
                 "location": "Stage 1",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1365",
                 "showName": "Turning Point",
                 "locationId": 950
@@ -3617,7 +3617,7 @@
                 "startTime": "12:35:00",
                 "endTime": "13:50:00",
                 "location": "Stage 6",
-                "type": "Other",
+                "type": "Session",
                 "showId": "1359",
                 "showName": "The Poet Game",
                 "locationId": 954
