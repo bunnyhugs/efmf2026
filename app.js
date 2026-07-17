@@ -802,12 +802,12 @@ function buildEvent(startDate, event, favourites, heardList) {
 		nameDiv.className = 'name';
 
 		const link = document.createElement('a');
-		link.title = artist.name ?? "-";
-		link.href = `#${artist.slug}` ?? "#";
+		link.title = artist ? artist.name : "-";
+		link.href = artist ? `#${artist.slug}` : "#";
 		link.className = 'artistLink';
 		link.setAttribute('data-tip', ' ');
-		link.setAttribute('data-artistId', artist.slug ?? "#");
-		link.textContent = artist.name ?? "-";
+		link.setAttribute('data-artistId', artist ? artist.slug : "#");
+		link.textContent = artist ? artist.name : "-";
 
 		nameDiv.appendChild(link);
 		slotItem.appendChild(nameDiv);
@@ -823,8 +823,8 @@ function buildEvent(startDate, event, favourites, heardList) {
 		imageDiv.className = 'artistImage';
 
 		const img = document.createElement('img');
-		img.src = artist.image ?? "";
-		img.alt = artist.name ?? "-";
+		img.src = artist ? artist.image : "";
+		img.alt = artist ? artist.name : "-";
 
 		imageDiv.appendChild(img);
 		slotItem.appendChild(imageDiv);
