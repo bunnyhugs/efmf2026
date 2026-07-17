@@ -1,0 +1,2691 @@
+{
+    "2026-08-06": {
+        "date": "Thu, Aug 06 2026",
+        "gate_open_time": "",
+        "schedule": {
+            "1035": {
+                "showId": "1035",
+                "showName": "The Womack Sisters Concert",
+                "showDesc": "<p>The Womack Sisters, BG, Zeimani and Kucha Womack, are a new generation of soul royalty, renowned for their blend of R&amp;B, soul, and gospel influences drawn from their rich family legacy. As granddaughters of the legendary Sam Cooke, daughters of renowned soul and R&amp;B artists Womack &amp; Womack, and nieces of Bobby Womack, they carry on the Womack family\u2019s musical traditions, infusing their work with the soul and passion that has defined the family\u2019s impact on music for generations.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-06",
+                "endDate": "2026-08-06",
+                "startTime": "18:30:00",
+                "endTime": "19:30:00",
+                "startTimeRounded": "18:30:00",
+                "endTimeRounded": "19:30:00",
+                "startDateTime": "2026-08-06T18:30:00",
+                "endDateTime": "2026-08-06T19:30:00",
+                "tags": [
+                    "The Womack Sisters"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "the-womack-sisters": {
+                        "slug": "the-womack-sisters",
+                        "name": "The Womack Sisters"
+                    }
+                }
+            },
+            "1036": {
+                "showId": "1036",
+                "showName": "Corb Lund Concert",
+                "showDesc": "<p>Corb Lund has received multiple CCMA, JUNO, and international award nominations and wins. A rural Albertan hailing from the foothills of the Rocky Mountains with a long family lineage of ranchers and rodeo people, Lund is about as authentic as they come. Embracing both his Western heritage and his indie rock past through his music, he has been known to filter a range of cowboy themes past and present through his unique lens.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-06",
+                "endDate": "2026-08-06",
+                "startTime": "19:51:00",
+                "endTime": "20:57:00",
+                "startTimeRounded": "19:50:00",
+                "endTimeRounded": "20:55:00",
+                "startDateTime": "2026-08-06T19:51:00",
+                "endDateTime": "2026-08-06T20:57:00",
+                "tags": [
+                    "Corb Lund"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "corb-lund": {
+                        "slug": "corb-lund",
+                        "name": "Corb Lund"
+                    }
+                }
+            },
+            "1037": {
+                "showId": "1037",
+                "showName": "Thee Sacred Souls Concert",
+                "showDesc": "<p>The highly anticipated follow-up to their breakout 2022 self-titled debut, <i>Thee Sacred Soul\u2019s Got A Story To Tell</i>, features 12 original songs, a soaring statement of exquisite craftsmanship from this young band from San Diego, whose own story grows bigger by the day. The group boasts millions of monthly listeners on Spotify, celebrity fans like SZA, Alicia Keys, and Kylie Jenner, an NPR Tiny Desk performance that burned the house down \u2013 and all in the first two years of the band\u2019s existence.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-06",
+                "endDate": "2026-08-06",
+                "startTime": "21:25:00",
+                "endTime": "22:45:00",
+                "startTimeRounded": "21:25:00",
+                "endTimeRounded": "22:45:00",
+                "startDateTime": "2026-08-06T21:25:00",
+                "endDateTime": "2026-08-06T22:45:00",
+                "tags": [
+                    "Thee Sacred Souls"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "thee-sacred-souls": {
+                        "slug": "thee-sacred-souls",
+                        "name": "Thee Sacred Souls"
+                    }
+                }
+            },
+            "1051": {
+                "showId": "1051",
+                "showName": "Festival Welcome",
+                "showDesc": "<p>Please join us on Thursday evening as we gather to open the festival in a good way. We are grateful to the traditional Knowledge Keepers Lyndon Aginas and Dwight Paul, for sharing their teachings, presence, and blessing with us.</p>",
+                "type": "Other",
+                "startDate": "2026-08-06",
+                "endDate": "2026-08-06",
+                "startTime": "18:10:00",
+                "endTime": "18:30:00",
+                "startTimeRounded": "18:10:00",
+                "endTimeRounded": "18:30:00",
+                "startDateTime": "2026-08-06T18:10:00",
+                "endDateTime": "2026-08-06T18:30:00",
+                "tags": [],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {}
+            }
+        }
+    },
+    "2026-08-07": {
+        "date": "Fri, Aug 07 2026",
+        "gate_open_time": "",
+        "schedule": {
+            "1038": {
+                "showId": "1038",
+                "showName": "Amble Concert",
+                "showDesc": "<p>Irish trio Amble harness a rare magic threaded into the fabric of their novelistic folk. The group of Robbie Cunningham, Ross McNerney, and Oisin McCaffrey have unassumingly gone from quitting their day jobs in rural Ireland to the doorstep of an international breakthrough buoyed by over 100 million streams and sold-out shows around the world. Their relatability, intimate storytelling, and authenticity marry seamlessly with no-frills acoustic instrumentation, calm-inducing soundscapes, and heavenly natural harmonies.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "20:06:00",
+                "endTime": "21:06:00",
+                "startTimeRounded": "20:05:00",
+                "endTimeRounded": "21:05:00",
+                "startDateTime": "2026-08-07T20:06:00",
+                "endDateTime": "2026-08-07T21:06:00",
+                "tags": [
+                    "Amble"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "amble": {
+                        "slug": "amble",
+                        "name": "Amble"
+                    }
+                }
+            },
+            "1039": {
+                "showId": "1039",
+                "showName": "Buffalo Traffic Jam Concert",
+                "showDesc": "<p>Buffalo Traffic Jam is a band born in the heart of Bozeman where its members first crossed paths as students at Montana State University. United by a love for the raw beauty of acoustic sound, they began crafting music that evokes wide-open landscapes and the emotions that live quietly beneath the surface of everyday life. The result was a self-titled debut EP followed by singles, \u201cRescue Me\u201d and \u201cForgot Your Roots,\u201d the latter of which saw the band gain their first bit of online momentum, leading to explosive growth in the past year.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "21:26:00",
+                "endTime": "22:28:00",
+                "startTimeRounded": "21:25:00",
+                "endTimeRounded": "22:25:00",
+                "startDateTime": "2026-08-07T21:26:00",
+                "endDateTime": "2026-08-07T22:28:00",
+                "tags": [
+                    "Buffalo Traffic Jam"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "buffalo-traffic-jam": {
+                        "slug": "buffalo-traffic-jam",
+                        "name": "Buffalo Traffic Jam"
+                    }
+                }
+            },
+            "1040": {
+                "showId": "1040",
+                "showName": "Of Monsters and Men Concert",
+                "showDesc": "<p>Of Monsters and Men went from the talk of Iceland to the top of the global conversation on their 2011 debut, <i>My Head Is An Animal</i>, earning them performances at festivals such as Coachella, Lollapalooza, Glastonbury, and beyond. Their 2025 album, <i>All is Love and Pain in the Mouse Parade</i>, \u201cshows off an emotional depth and darkness not necessarily associated with the \u2018Little Talks\u2019 party starters. It\u2019s more introspective, the band say, and the vocals of Nanna Hilmarsd\u00f3ttir allow their message to hit with a proper punch.\u201d (Rolling Stone)</p>",
+                "type": "Concert",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "22:48:00",
+                "endTime": "23:59:00",
+                "startTimeRounded": "22:45:00",
+                "endTimeRounded": "23:55:00",
+                "startDateTime": "2026-08-07T22:48:00",
+                "endDateTime": "2026-08-07T23:59:00",
+                "tags": [
+                    "Of Monsters and Men"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "of-monsters-and-men": {
+                        "slug": "of-monsters-and-men",
+                        "name": "Of Monsters and Men"
+                    }
+                }
+            },
+            "1050": {
+                "showId": "1050",
+                "showName": "Friday Sessions and Concerts",
+                "showDesc": "<p>Enjoy more than 2 hours of sessions and concerts across 6 side stages. Take in concerts with Dove Ellis, Mariel Buckley, SYML, The Mbira Renaissance Band, The Milk Carton Kids, and The Pairs, as well as sessions featuring Brianna Lizotte, Fantastic Cat, School of Song (Caylie G, Mitch Gorman, Paul Cournoyer, The Western Thistles), Hurray for the Riff Raff, Joe Nolan, Madalitso Band, Mia Kelly, Rockin' Dopsie Jr. &amp; The Zydeco Twisters, Sister Ray, and SupaLung.</p><p>Full Session Stage schedule will be available in the coming weeks.<br>Lineup subject to change.</p>",
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "17:45:00",
+                "endTime": "20:00:00",
+                "startTimeRounded": "17:45:00",
+                "endTimeRounded": "20:00:00",
+                "startDateTime": "2026-08-07T17:45:00",
+                "endDateTime": "2026-08-07T20:00:00",
+                "tags": [],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {}
+            },
+            "1311": {
+                "showId": "1311",
+                "showName": "Finding Your Voice",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "17:50:00",
+                "endTime": "18:50:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:50:00",
+                "startDateTime": "2026-08-07T17:50:00",
+                "endDateTime": "2026-08-07T18:50:00",
+                "tags": [
+                    "SupaLung",
+                    "SYML",
+                    "Amble"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "supalung": {
+                        "slug": "supalung",
+                        "name": "SupaLung"
+                    },
+                    "syml": {
+                        "slug": "syml",
+                        "name": "SYML"
+                    },
+                    "amble": {
+                        "slug": "amble",
+                        "name": "Amble"
+                    }
+                }
+            },
+            "1329": {
+                "showId": "1329",
+                "showName": "Lessons Learned",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "17:50:00",
+                "endTime": "18:50:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:50:00",
+                "startDateTime": "2026-08-07T17:50:00",
+                "endDateTime": "2026-08-07T18:50:00",
+                "tags": [
+                    "Joe Nolan",
+                    "The Pairs",
+                    "Mia Kelly"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "joe-nolan": {
+                        "slug": "joe-nolan",
+                        "name": "Joe Nolan"
+                    },
+                    "the-pairs": {
+                        "slug": "the-pairs",
+                        "name": "The Pairs"
+                    },
+                    "mia-kelly": {
+                        "slug": "mia-kelly",
+                        "name": "Mia Kelly"
+                    }
+                }
+            },
+            "1332": {
+                "showId": "1332",
+                "showName": "Mariel Buckley Concert",
+                "showDesc": "<p>Unapologetically genuine, wry and soft-hearted, Mariel Buckley has planted her flag firmly as a songwriter who\u2019s in it for the long haul. Raised in the heart of Canada\u2019s rodeo and country music scenes, Buckley was destined to challenge the boundaries around her, both in life and in song. Written largely during a reflective period in Edmonton and finished in Nashville, her latest album, <i>Strange Trip Ahead</i>, is a meditation on the push and pull of creative life \u2014 the exhaustion and exhilaration of pursuing meaning through art.</p>",
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "19:00:00",
+                "endTime": "19:55:00",
+                "startTimeRounded": "19:00:00",
+                "endTimeRounded": "19:55:00",
+                "startDateTime": "2026-08-07T19:00:00",
+                "endDateTime": "2026-08-07T19:55:00",
+                "tags": [
+                    "Mariel Buckley"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "mariel-buckley": {
+                        "slug": "mariel-buckley",
+                        "name": "Mariel Buckley"
+                    }
+                }
+            },
+            "1338": {
+                "showId": "1338",
+                "showName": "School of Song Concert",
+                "showDesc": "<p><b>School of Song</b> (Canada/AB)</p><p><b><i>Caylie G</i></b><i> (they/she) is a queer artist based in Edmonton, Alberta, on Treaty Six Territory. With roots firmly planted in their prairie upbringings and a soft spot for glittering theatrics, Caylie has cultivated a sound best described as sparkly cowboy-pop. Their music explores the valleys and swells of love, heartbreak, and the complexities of humanness and queerness with a tender balance of vulnerability and strength. Caylie\u2019s lyrics resonate with folks from all walks of life, capturing the essence of the human experience with softness and candour.</i></p><p><b><i>Mitch Gorman</i></b><i> is an emerging indie-folk singer-songwriter from Grand Prairie, Alberta. Known for his heartfelt lyrics and captivating melodies, Mitch draws inspiration from a blend of folk and alternative influences, channeling the essence of artists like Noah Kahan, Bon Iver, and Gregory Alan Isakov.</i></p><p><i>With 27k followers on TikTok, Mitch has cultivated a dedicated fan base through his engaging content, which features both original songs and creative covers. His cover of Tenerife Sea by Ed Sheeran has garnered over 1M views, earning recognition from Sheeran himself, who commented, \u201cNailed it.\u201d In addition, several of his other TikTok videos have reached over 500K+ views, demonstrating his growing popularity and ability to resonate with listeners.</i></p><p><b><i>Paul Cournoyer </i></b><i>has built a body of work around the tension between sound and silence, presence and restraint. Marrying acoustic and electronic, weaving words, languages, and rhythms, his music moves fluidly between folk, rock, and pop without ever feeling rushed. An Edmonton native and member of bilingual folk duo Post Script, Cournoyer delivers his solo work in French as an ode to his Franco-Albertan roots and community.</i></p><p><i>His most recent album, Victoires et D\u00e9faites, is the clearest expression of that instinct yet: a rich, nuanced record rooted in the folk tradition but never confined by it, connecting heart and mind one song at a time.</i></p><p><i>Blending old-time roots with modern-day storytelling, </i><b><i>The Western Thistles</i></b><i> are an Edmonton folk duo known for their clawhammer banjo, rhythm guitar, and rich vocal harmonies. The group was born from the musical connection between Mark Boer and Sabrina (Bri) Huot-Boer, who came together to weld their talents for the sake of the song. Their sound draws from folk, roots, and old-time traditions while carving out a space distinctly their own.&nbsp;</i></p><p><i>In 2025, The Western Thistles released their self-titled debut album, recorded live off the floor and co-produced by Miles Wilkinson (Guy Clark, Emmylou Harris, Darrell Scott). The album reached #26 on CKUA\u2019s Top 100 most-played albums of the year, standing as a testament to their commitment to crafting songs with heart, grit, and intention.</i></p><p><i>As songwriters and performers, they channel lived experience into work that reflects both personal narrative and musical lineage. Rooted in a dedication to craft, they shape songs that foster connection, creating space for listeners to hear their own stories reflected in the music.</i></p>",
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "18:00:00",
+                "endTime": "19:45:00",
+                "startTimeRounded": "18:00:00",
+                "endTimeRounded": "19:45:00",
+                "startDateTime": "2026-08-07T18:00:00",
+                "endDateTime": "2026-08-07T19:45:00",
+                "tags": [
+                    "School of Song (Caylie G, Mitch Gorman, Paul Cournoyer, The Western Thistles)"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "school-of-song-caylie-g-mitch-gorman-paul-cournoyer-the-western-thistles": {
+                        "slug": "school-of-song-caylie-g-mitch-gorman-paul-cournoyer-the-western-thistles",
+                        "name": "School of Song - Caylie G, Mitch Gorman, Paul Cournoyer & The Western Thistles"
+                    }
+                }
+            },
+            "1346": {
+                "showId": "1346",
+                "showName": "Rockin' Dopsie Jr & The Zydeco Twisters Concert",
+                "showDesc": "<p>Rockin' Dopsie, Jr. &amp; The Zydeco Twisters, are referred to as \"Zydeco's Royal Family\". For seven decades the high-energy stage name Rockin\u2019 Dopsie (pronounced Doopsie) has stood tall in the deep-groove world of zydeco. In addition to his famous footwork, Dopsie\u2019s performance presence is further fueled by his fleet-fingered playing of the rub-board. Dopsie\u2019s percussive prowess both pushes and is propelled by the ferocious grooves fired up by the Zydeco Twisters.</p>",
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "19:00:00",
+                "endTime": "20:00:00",
+                "startTimeRounded": "19:00:00",
+                "endTimeRounded": "20:00:00",
+                "startDateTime": "2026-08-07T19:00:00",
+                "endDateTime": "2026-08-07T20:00:00",
+                "tags": [
+                    "Rockin' Dopsie Jr & The Zydeco Twisters"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "rockin-dopsie-jr-the-zydeco-twisters": {
+                        "slug": "rockin-dopsie-jr-the-zydeco-twisters",
+                        "name": "Rockin' Dopsie Jr & The Zydeco Twisters"
+                    }
+                }
+            },
+            "1351": {
+                "showId": "1351",
+                "showName": "Song Sung Blue",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "19:05:00",
+                "endTime": "20:00:00",
+                "startTimeRounded": "19:05:00",
+                "endTimeRounded": "20:00:00",
+                "startDateTime": "2026-08-07T19:05:00",
+                "endDateTime": "2026-08-07T20:00:00",
+                "tags": [
+                    "The Milk Carton Kids",
+                    "Dove Ellis",
+                    "Hurray for the Riff Raff"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "the-milk-carton-kids": {
+                        "slug": "the-milk-carton-kids",
+                        "name": "The Milk Carton Kids"
+                    },
+                    "dove-ellis": {
+                        "slug": "dove-ellis",
+                        "name": "Dove Ellis"
+                    },
+                    "hurray-for-the-riff-raff": {
+                        "slug": "hurray-for-the-riff-raff",
+                        "name": "Hurray for the Riff Raff"
+                    }
+                }
+            },
+            "1353": {
+                "showId": "1353",
+                "showName": "SYML Concert",
+                "showDesc": "<p>SYML is the solo venture of artist Brian Fennell. Welsh for \u201csimple\u201d, SYML makes music that taps into the instincts that drive us to places of sanctuary. His self-titled first release, included the multiplatinum song, \u201cWhere\u2019s My Love\u201d and the Gold Single fan favourite, \u201cGirl.\" His sophomore album, <i>The Day My Father Died</i>, was described by NPR as \u201ceuphoric,\u201d and featured collaborations with Lucius, Sara Watkins, and Charlotte Lawrence. SYML is also known for his presence across genres, including a feature on Lana Del Rey\u2019s song \u201cParis, Texas,\u201d, and contributions to songs by the UK-electronic artist George Fitzgerald and Colombian artist Elsa Y Elmar.</p>",
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "19:00:00",
+                "endTime": "20:00:00",
+                "startTimeRounded": "19:00:00",
+                "endTimeRounded": "20:00:00",
+                "startDateTime": "2026-08-07T19:00:00",
+                "endDateTime": "2026-08-07T20:00:00",
+                "tags": [
+                    "SYML"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "syml": {
+                        "slug": "syml",
+                        "name": "SYML"
+                    }
+                }
+            },
+            "1358": {
+                "showId": "1358",
+                "showName": "The Pairs Concert",
+                "showDesc": "<p>Their sibling harmonies and familial banter quickly connect them to their audience. Whether The Pairs are playing an intimate house concert or a sold-out show, these classically trained vocalists make it their mission to use three-part harmony and honest storytelling as powerful tools that soften and connect us. \u201cI first saw The Pairs at a folk festival do a rare thing - make a noisy, wandering crowd suddenly go quiet. You could tell right then they are something rare and one of the brightest new voices in Canadian folk.\u201d (Tom Power, CBC)</p>",
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "19:05:00",
+                "endTime": "20:00:00",
+                "startTimeRounded": "19:05:00",
+                "endTimeRounded": "20:00:00",
+                "startDateTime": "2026-08-07T19:05:00",
+                "endDateTime": "2026-08-07T20:00:00",
+                "tags": [
+                    "The Pairs"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "the-pairs": {
+                        "slug": "the-pairs",
+                        "name": "The Pairs"
+                    }
+                }
+            },
+            "1361": {
+                "showId": "1361",
+                "showName": "The Story",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "17:50:00",
+                "endTime": "18:50:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:50:00",
+                "startDateTime": "2026-08-07T17:50:00",
+                "endDateTime": "2026-08-07T18:50:00",
+                "tags": [
+                    "Sister Ray",
+                    "Fantastic Cat",
+                    "Mariel Buckley"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "sister-ray": {
+                        "slug": "sister-ray",
+                        "name": "Sister Ray"
+                    },
+                    "fantastic-cat": {
+                        "slug": "fantastic-cat",
+                        "name": "Fantastic Cat"
+                    },
+                    "mariel-buckley": {
+                        "slug": "mariel-buckley",
+                        "name": "Mariel Buckley"
+                    }
+                }
+            },
+            "1363": {
+                "showId": "1363",
+                "showName": "Traditions",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "17:50:00",
+                "endTime": "18:45:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:45:00",
+                "startDateTime": "2026-08-07T17:50:00",
+                "endDateTime": "2026-08-07T18:45:00",
+                "tags": [
+                    "Brianna Lizotte",
+                    "Daby Tour\u00e9",
+                    "Madalitso Band"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "brianna-lizotte": {
+                        "slug": "brianna-lizotte",
+                        "name": "Brianna Lizotte"
+                    },
+                    "daby-toure": {
+                        "slug": "daby-toure",
+                        "name": "Daby Tour\u00e9"
+                    },
+                    "madalitso-band": {
+                        "slug": "madalitso-band",
+                        "name": "Madalitso Band"
+                    }
+                }
+            },
+            "1367": {
+                "showId": "1367",
+                "showName": "Dove Ellis Concert",
+                "showDesc": "<p>Dove Ellis is a songwriter and performer from the west of Ireland. In the UK and Ireland's ever-accelerating post-Covid music scene, genres are dissolving faster than ever before, and Dove is a prime example of this shapeshifting next-Gen. His writing covers a range of styles \u2014 from soft acoustic ballads to hammering bass lines to visceral, ambient soundscapes \u2014 all kept tight and cohesive behind his high tenor croon. Cutting his teeth in Manchester's flourishing live scene, Dove has been spreading word-of-mouth after notable performances at End of the Road, support slots for Fabiana Palladino and dimly-lit headline shows in crumbling mansions. Dove has recently released his hotly anticipated debut single, \u2018To The Sandals\u2019, getting international plaudits from Stereogum, The Fader, So Young &amp; will be supporting Geese on their North American tour this fall.&nbsp;</p>",
+                "type": "Other",
+                "startDate": "2026-08-07",
+                "endDate": "2026-08-07",
+                "startTime": "17:50:00",
+                "endTime": "18:50:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:50:00",
+                "startDateTime": "2026-08-07T17:50:00",
+                "endDateTime": "2026-08-07T18:50:00",
+                "tags": [
+                    "Dove Ellis"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "dove-ellis": {
+                        "slug": "dove-ellis",
+                        "name": "Dove Ellis"
+                    }
+                }
+            }
+        }
+    },
+    "2026-08-08": {
+        "date": "Sat, Aug 08 2026",
+        "gate_open_time": "",
+        "schedule": {
+            "1041": {
+                "showId": "1041",
+                "showName": "Dailey & Vincent Concert",
+                "showDesc": "<p>Grand Ole Opry members and Grammy nominated, Dailey &amp; Vincent, are among the most respected and celebrated duos in American roots music. With unmatched harmonies, masterful musicianship, and a signature blend of bluegrass, country, and gospel, Jamie Dailey and Darrin Vincent have built a career defined by excellence, authenticity, and heart. In 2026, they reached a major milestone with \u201cRuby,\u201d a multi-week No. 1 song on the Bluegrass Today chart.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "14:00:00",
+                "endTime": "15:00:00",
+                "startTimeRounded": "14:00:00",
+                "endTimeRounded": "15:00:00",
+                "startDateTime": "2026-08-08T14:00:00",
+                "endDateTime": "2026-08-08T15:00:00",
+                "tags": [
+                    "Dailey & Vincent"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "dailey-vincent": {
+                        "slug": "dailey-vincent",
+                        "name": "Dailey & Vincent"
+                    }
+                }
+            },
+            "1042": {
+                "showId": "1042",
+                "showName": "Leif Vollebekk Concert",
+                "showDesc": "<p>Leif Vollebekk is an acclaimed singer-songwriter originally from Ottawa who now resides in Montreal. Vollebekk has sold-out headlining tours across North America, Europe and Australia. His 2017 release, <i>Twin Solitude</i>, was a breakthrough album, landing a spot on the Polaris Music Prize shortlist, a JUNO nomination and gathering over 60 million streams. \u201c[His] songs [\u2026] are pensive and restless, blossoming with stream-of-consciousness verses that bear the marks of long nights spent alone on the road.\u201d (The New York Times)</p>",
+                "type": "Concert",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "20:15:00",
+                "endTime": "21:15:00",
+                "startTimeRounded": "20:15:00",
+                "endTimeRounded": "21:15:00",
+                "startDateTime": "2026-08-08T20:15:00",
+                "endDateTime": "2026-08-08T21:15:00",
+                "tags": [
+                    "Leif Vollebekk"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "leif-vollebekk": {
+                        "slug": "leif-vollebekk",
+                        "name": "Leif Vollebekk"
+                    }
+                }
+            },
+            "1043": {
+                "showId": "1043",
+                "showName": "Annie & The Caldwells",
+                "showDesc": "<p>Annie &amp; The Caldwells are a family that plays a powerful disco soul from West Point, Mississippi. Their latest album embraces the idea that \u201cYou don\u2019t need to share the Caldwells\u2019 faith to find something powerful and inspiring in [their lyrics], particularly given the current climate, which can easily incline you towards hopelessness; something steeped in tradition seems apropos right now. You should listen to <i>Can\u2019t Lose My (Soul)</i> purely on musical terms. Moreover, it\u2019s an album you might need.\u201d (The Guardian)</p>",
+                "type": "Concert",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "19:02:00",
+                "endTime": "19:59:00",
+                "startTimeRounded": "19:00:00",
+                "endTimeRounded": "19:55:00",
+                "startDateTime": "2026-08-08T19:02:00",
+                "endDateTime": "2026-08-08T19:59:00",
+                "tags": [
+                    "Annie & The Caldwells"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "annie-the-caldwells": {
+                        "slug": "annie-the-caldwells",
+                        "name": "Annie & The Caldwells"
+                    }
+                }
+            },
+            "1044": {
+                "showId": "1044",
+                "showName": "Arrested Development Concert",
+                "showDesc": "<p>Emerging as true trailblazers in the hip-hop scene, since 1991 Arrested Development stands as a cultural beacon of consciousness and empowerment worldwide. Their latest project, <i>Adult Contemporary Hip-Hop</i>, showcases their innovative spirit, unmatched lyricism, soulful storytelling, and profound awareness, exemplifying the unique artistry that only Arrested Development can provide.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "22:50:00",
+                "endTime": "23:59:00",
+                "startTimeRounded": "22:50:00",
+                "endTimeRounded": "23:55:00",
+                "startDateTime": "2026-08-08T22:50:00",
+                "endDateTime": "2026-08-08T23:59:00",
+                "tags": [
+                    "Arrested Development"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "arrested-development": {
+                        "slug": "arrested-development",
+                        "name": "Arrested Development"
+                    }
+                }
+            },
+            "1045": {
+                "showId": "1045",
+                "showName": "Cat Power Concert",
+                "showDesc": "<p>Cat Power\u2019s seventh studio album, <i>The Greatest</i> proved to be an immediate landmark in her already acclaimed career upon its 2006 release. Named by Rolling Stone at #6 on its \u201cTop 50 Albums of 2006\u201d as well #26 on its \u201c100 Best Albums of the 2000s,\u201d the collection was awarded with 2006\u2019s prestigious Shortlist Music Prize, making history as the first album by a female artist to be accorded that honour.&nbsp; The festival is honoured to celebrate the 20th year of one of Cat Power\u2019s most iconic albums.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "21:33:00",
+                "endTime": "22:33:00",
+                "startTimeRounded": "21:30:00",
+                "endTimeRounded": "22:30:00",
+                "startDateTime": "2026-08-08T21:33:00",
+                "endDateTime": "2026-08-08T22:33:00",
+                "tags": [
+                    "Cat Power"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "cat-power": {
+                        "slug": "cat-power",
+                        "name": "Cat Power"
+                    }
+                }
+            },
+            "1073": {
+                "showId": "1073",
+                "showName": "Dana Sipos Concert",
+                "showDesc": "<p>Dana Sipos coaxes silkworms out of their cocoons and spins them into song. She inhabited the far north before going nomad and her captivatingly nuanced songs are filled with a wild wind and a haunting surrealism. She now resides among the old growth of Vancouver Island. A consummate performer, Sipos has brought her unique brand of cosmic folk to living rooms, concert halls and festival stages across North America, Europe, Australia and New Zealand.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "12:35:00",
+                "endTime": "13:45:00",
+                "startTimeRounded": "12:35:00",
+                "endTimeRounded": "13:45:00",
+                "startDateTime": "2026-08-08T12:35:00",
+                "endDateTime": "2026-08-08T13:45:00",
+                "tags": [
+                    "Dana Sipos"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "dana-sipos": {
+                        "slug": "dana-sipos",
+                        "name": "Dana Sipos"
+                    }
+                }
+            },
+            "1294": {
+                "showId": "1294",
+                "showName": "A Secret Chord",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "15:05:00",
+                "endTime": "16:15:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:15:00",
+                "startDateTime": "2026-08-08T15:05:00",
+                "endDateTime": "2026-08-08T16:15:00",
+                "tags": [
+                    "\u00c1sgeir",
+                    "Jake Xerxes Fussell",
+                    "Mariel Buckley"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "asgeir": {
+                        "slug": "asgeir",
+                        "name": "\u00c1sgeir"
+                    },
+                    "jake-xerxes-fussell": {
+                        "slug": "jake-xerxes-fussell",
+                        "name": "Jake Xerxes Fussell"
+                    },
+                    "mariel-buckley": {
+                        "slug": "mariel-buckley",
+                        "name": "Mariel Buckley"
+                    }
+                }
+            },
+            "1297": {
+                "showId": "1297",
+                "showName": "Anna Tivel Concert",
+                "showDesc": "<p>Anna Tivel is a songwriter who is forever drawn to the quiet stories of ordinary life. Tivel has been likened to a short story writer and praised by NPR, Rolling Stone, Billboard, and others for her keen observations of the human condition. \"Anna Tivel is just one of my absolute favourite living songwriters. Her writing on [<i>Outsiders</i>] is at the same level as Paul Simon when he wrote 'The Boxer' and 'American Tune.\u2019\u201d (Ann Power, NPR)</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "15:05:00",
+                "endTime": "15:55:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "15:55:00",
+                "startDateTime": "2026-08-08T15:05:00",
+                "endDateTime": "2026-08-08T15:55:00",
+                "tags": [
+                    "Anna Tivel"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "anna-tivel": {
+                        "slug": "anna-tivel",
+                        "name": "Anna Tivel"
+                    }
+                }
+            },
+            "1299": {
+                "showId": "1299",
+                "showName": "Bella White Concert",
+                "showDesc": "<p>Bella White is a truly one-of-a-kind musical talent: a finespun breed of country-folk both fresh in perspective and wholly steeped in bluegrass tradition. \u201cHer coos and the breaks in her voice swell empathy and commiseration in the audience, and whether you\u2019re a young adult going through the same struggles of finding where you should to be and with whom, or an older person reminiscing on that era in your own life, the music of Bella White finds deep appeal.\u201d (Saving Country Music)</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "12:30:00",
+                "endTime": "13:45:00",
+                "startTimeRounded": "12:30:00",
+                "endTimeRounded": "13:45:00",
+                "startDateTime": "2026-08-08T12:30:00",
+                "endDateTime": "2026-08-08T13:45:00",
+                "tags": [
+                    "Bella White"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "bella-white": {
+                        "slug": "bella-white",
+                        "name": "Bella White"
+                    }
+                }
+            },
+            "1300": {
+                "showId": "1300",
+                "showName": "Brianna Lizotte Concert",
+                "showDesc": "<p>Brianna Lizotte is a JUNO nominated fiddle player from Edmonton. She grew up in a household where music was constantly played, whether it was from home videos or kitchen parties. Brianna\u2019s two albums, <i>Scratch \u2018Em</i>, and her newest project, <i>Winston &amp; I</i>, have received radio play on CBC Radio, CJSR, CFWE, and appeared on CKUA\u2019s Top 30 chart. She can also be found teaching Metis history through music and dance workshops to students across the province.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "16:05:00",
+                "endTime": "16:50:00",
+                "startTimeRounded": "16:05:00",
+                "endTimeRounded": "16:50:00",
+                "startDateTime": "2026-08-08T16:05:00",
+                "endDateTime": "2026-08-08T16:50:00",
+                "tags": [
+                    "Brianna Lizotte"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "brianna-lizotte": {
+                        "slug": "brianna-lizotte",
+                        "name": "Brianna Lizotte"
+                    }
+                }
+            },
+            "1302": {
+                "showId": "1302",
+                "showName": "Changes",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "17:50:00",
+                "endTime": "18:50:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:50:00",
+                "startDateTime": "2026-08-08T17:50:00",
+                "endDateTime": "2026-08-08T18:50:00",
+                "tags": [
+                    "Joe Nolan",
+                    "Bella White",
+                    "Dana Sipos"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "joe-nolan": {
+                        "slug": "joe-nolan",
+                        "name": "Joe Nolan"
+                    },
+                    "bella-white": {
+                        "slug": "bella-white",
+                        "name": "Bella White"
+                    },
+                    "dana-sipos": {
+                        "slug": "dana-sipos",
+                        "name": "Dana Sipos"
+                    }
+                }
+            },
+            "1303": {
+                "showId": "1303",
+                "showName": "Courtney Marie Andrews Concert",
+                "showDesc": "<p>From her 2016 breakthrough album, <i>Honest Life</i>, to 2020\u2019s Grammy-nominated, <i>Old Flowers</i>, Courtney Marie Andrews has been celebrated as an artist who challenges herself, and who finds new interplays of Folk and Americana. According to Andrews, her latest release, <i>Valentine</i>, is \u201ca record in pursuit of love\u201d. But love, it turns out, \u201cis a lot more than I gave it credit for,\u201d she explains. \u201cIt\u2019s built over years, it\u2019s built with trust, with changes, it becomes something new and unrecognizable, the deeper you go.\u201d</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "17:45:00",
+                "endTime": "18:55:00",
+                "startTimeRounded": "17:45:00",
+                "endTimeRounded": "18:55:00",
+                "startDateTime": "2026-08-08T17:45:00",
+                "endDateTime": "2026-08-08T18:55:00",
+                "tags": [
+                    "Courtney Marie Andrews"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "courtney-marie-andrews": {
+                        "slug": "courtney-marie-andrews",
+                        "name": "Courtney Marie Andrews"
+                    }
+                }
+            },
+            "1304": {
+                "showId": "1304",
+                "showName": "D.K. Harrell Concert",
+                "showDesc": "<p>Guitarist, vocalist and songwriter D.K. Harrell, one of the most formidable young stars of the current blues resurgence, sounds like no one else on the scene today. With his stinging, single-note string bending, deep soul vocals, and attention-grabbing original songs, Harrell is already in a league of his own. \u201cWith every exuberant turn of phrase, and each sharp guitar lick, the Louisiana born showman displays a pure joy in performing that\u2019s hard to resist. \u2026Ultimately, Harrell\u2019s greatest talent is just being his own larger-than-life self.\u201d (No Depression)\u2028</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "17:50:00",
+                "endTime": "18:55:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:55:00",
+                "startDateTime": "2026-08-08T17:50:00",
+                "endDateTime": "2026-08-08T18:55:00",
+                "tags": [
+                    "D.K. Harrell"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "dk-harrell": {
+                        "slug": "dk-harrell",
+                        "name": "D.K. Harrell"
+                    }
+                }
+            },
+            "1305": {
+                "showId": "1305",
+                "showName": "Daby Tour\u00e9 Concert",
+                "showDesc": "<p>Whether he appears solo or with his full band, Daby Tour\u00e9 never fails to astound audiences with his ethereal voice, masterful guitar work and catchy original songs of \u201cglobal soul-tinged pop.\u201d (BBC) Most recently, Daby composed and recorded the soundtrack for the 2025 documentary, <i>La Sang et La Boue</i> <i>(Of Blood and Mud)</i>, about the child miners in Congo who mine for coltan, a sought after mineral used in our cell phones. The music is as beautiful as is the scenery where the film was shot, accompanying an incredibly hard and important story.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "18:05:00",
+                "endTime": "18:55:00",
+                "startTimeRounded": "18:05:00",
+                "endTimeRounded": "18:55:00",
+                "startDateTime": "2026-08-08T18:05:00",
+                "endDateTime": "2026-08-08T18:55:00",
+                "tags": [
+                    "Daby Tour\u00e9"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "daby-toure": {
+                        "slug": "daby-toure",
+                        "name": "Daby Tour\u00e9"
+                    }
+                }
+            },
+            "1308": {
+                "showId": "1308",
+                "showName": "Djely Tapa Concert",
+                "showDesc": "<p>With <i>Dankoraba</i>, her 2025 JUNO award winning album, Djely Tapa pursues her artistic vision at the crossroads of Malian and Western cultures, past, present and future. Originally from the Kayes region of western Mali, Tapa shares the wise words and vocal art of the griots, emblematic figures of ancient and contemporary Malian society, whose origins date back to the 13th-century Mandingo Empire. Her repertoire blends Mandingo traditions, desert blues and electronic sounds.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "12:40:00",
+                "endTime": "13:50:00",
+                "startTimeRounded": "12:40:00",
+                "endTimeRounded": "13:50:00",
+                "startDateTime": "2026-08-08T12:40:00",
+                "endDateTime": "2026-08-08T13:50:00",
+                "tags": [
+                    "Djely Tapa"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "djely-tapa": {
+                        "slug": "djely-tapa",
+                        "name": "Djely Tapa"
+                    }
+                }
+            },
+            "1313": {
+                "showId": "1313",
+                "showName": "Goin' Up The Country",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "17:50:00",
+                "endTime": "18:55:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:55:00",
+                "startDateTime": "2026-08-08T17:50:00",
+                "endDateTime": "2026-08-08T18:55:00",
+                "tags": [
+                    "The Brudi Brothers",
+                    "Dailey & Vincent",
+                    "Gwenifer Raymond"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "the-brudi-brothers": {
+                        "slug": "the-brudi-brothers",
+                        "name": "The Brudi Brothers"
+                    },
+                    "dailey-vincent": {
+                        "slug": "dailey-vincent",
+                        "name": "Dailey & Vincent"
+                    },
+                    "gwenifer-raymond": {
+                        "slug": "gwenifer-raymond",
+                        "name": "Gwenifer Raymond"
+                    }
+                }
+            },
+            "1316": {
+                "showId": "1316",
+                "showName": "Hurray for the Riff Raff Concert",
+                "showDesc": "<p>Hurray for the Riff Raff founder, Alynda Segarra, has been something of a modern Huck Finn, an itinerant traveler whose adventures prompt art that reminds us there are always other ways to live. Born in the Bronx and of Puerto Rican heritage, Segarra was raised by a blue-collar aunt and uncle, where they were radicalized before they were a teenager, baptized in the anti-war movement and galvanized in New York\u2019s punk haunts and queer spaces. They steadily rose from house shows to a major label, where Segarra became a pan-everything fixture of the modern folk movement.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "15:05:00",
+                "endTime": "16:15:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:15:00",
+                "startDateTime": "2026-08-08T15:05:00",
+                "endDateTime": "2026-08-08T16:15:00",
+                "tags": [
+                    "Hurray for the Riff Raff"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "hurray-for-the-riff-raff": {
+                        "slug": "hurray-for-the-riff-raff",
+                        "name": "Hurray for the Riff Raff"
+                    }
+                }
+            },
+            "1317": {
+                "showId": "1317",
+                "showName": "If You Could Read My Mind",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "12:35:00",
+                "endTime": "13:50:00",
+                "startTimeRounded": "12:35:00",
+                "endTimeRounded": "13:50:00",
+                "startDateTime": "2026-08-08T12:35:00",
+                "endDateTime": "2026-08-08T13:50:00",
+                "tags": [
+                    "The Milk Carton Kids",
+                    "The Brudi Brothers",
+                    "Fantastic Cat"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "the-milk-carton-kids": {
+                        "slug": "the-milk-carton-kids",
+                        "name": "The Milk Carton Kids"
+                    },
+                    "the-brudi-brothers": {
+                        "slug": "the-brudi-brothers",
+                        "name": "The Brudi Brothers"
+                    },
+                    "fantastic-cat": {
+                        "slug": "fantastic-cat",
+                        "name": "Fantastic Cat"
+                    }
+                }
+            },
+            "1319": {
+                "showId": "1319",
+                "showName": "Influences",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "15:05:00",
+                "endTime": "16:15:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:15:00",
+                "startDateTime": "2026-08-08T15:05:00",
+                "endDateTime": "2026-08-08T16:15:00",
+                "tags": [
+                    "Jeffrey Martin",
+                    "Arrested Development",
+                    "Cat Power",
+                    "Madalitso Band"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "jeffrey-martin": {
+                        "slug": "jeffrey-martin",
+                        "name": "Jeffrey Martin"
+                    },
+                    "arrested-development": {
+                        "slug": "arrested-development",
+                        "name": "Arrested Development"
+                    },
+                    "cat-power": {
+                        "slug": "cat-power",
+                        "name": "Cat Power"
+                    },
+                    "madalitso-band": {
+                        "slug": "madalitso-band",
+                        "name": "Madalitso Band"
+                    }
+                }
+            },
+            "1322": {
+                "showId": "1322",
+                "showName": "Jeremie Albino Concert",
+                "showDesc": "<p>Jeremie Albino\u2019s songs are grounded in the gritty storytelling of classic country music, propelled by the rhythms of old-school R&amp;B, played with the wild abandon of early rock \u2019n\u2019 roll, and sung with the deep feeling of southern soul. Thanks to his sweaty, livewire concerts, he has been steadily growing his audience from a few passersby to packed houses around Canada and the United States.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "16:30:00",
+                "endTime": "17:35:00",
+                "startTimeRounded": "16:30:00",
+                "endTimeRounded": "17:35:00",
+                "startDateTime": "2026-08-08T16:30:00",
+                "endDateTime": "2026-08-08T17:35:00",
+                "tags": [
+                    "Jeremie Albino"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "jeremie-albino": {
+                        "slug": "jeremie-albino",
+                        "name": "Jeremie Albino"
+                    }
+                }
+            },
+            "1323": {
+                "showId": "1323",
+                "showName": "Joe Nolan Concert",
+                "showDesc": "<p>A virtuoso guitarist, elusive poet, and musical chameleon, Joe Nolan was raised in the rural community of Sturgeon County, and has always lived on the outskirts, being a hard one to pin down. Breaking genres and defying labels, he defines his sound as \"...my caravan diaries.\" Hailed by The Globe and Mail as \"an Americana wunderkind to watch out for,\" Joe Nolan is proving that praise is well-deserved with his newly released album, <i>Luv in the New World</i>, produced by Grammy Award-winner Tyler Chester.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "12:35:00",
+                "endTime": "13:45:00",
+                "startTimeRounded": "12:35:00",
+                "endTimeRounded": "13:45:00",
+                "startDateTime": "2026-08-08T12:35:00",
+                "endDateTime": "2026-08-08T13:45:00",
+                "tags": [
+                    "Joe Nolan"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "joe-nolan": {
+                        "slug": "joe-nolan",
+                        "name": "Joe Nolan"
+                    }
+                }
+            },
+            "1324": {
+                "showId": "1324",
+                "showName": "Joel Plaskett Emergency",
+                "showDesc": "<p>For over three decades, Joel Plaskett has proven himself a spinning wheel of reinvention. The Nova Scotia songwriter's eclectic body of work reveals a restless and playful spirit, always transforming and expanding. His revered career, saw the release of, <i>Songs From The Gang \u2013 A Celebration of Joel Plaskett</i> \u2013 a deluxe covers album featuring the music of Joel Plaskett performed by Arkells, Sloan, Jill Barber, The Sheepdogs, Julian Taylor, Jenn Grant, Bahamas, City and Colour, Rose Cousins, Frank Turner, and many more.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "15:05:00",
+                "endTime": "16:10:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:10:00",
+                "startDateTime": "2026-08-08T15:05:00",
+                "endDateTime": "2026-08-08T16:10:00",
+                "tags": [
+                    "Joel Plaskett Emergency"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "joel-plaskett-emergency": {
+                        "slug": "joel-plaskett-emergency",
+                        "name": "Joel Plaskett Emergency"
+                    }
+                }
+            },
+            "1326": {
+                "showId": "1326",
+                "showName": "Julian Taylor Concert",
+                "showDesc": "<p>Award-winning, Toronto-based singer-songwriter Julian Taylor has been part of the musical fabric and landscape in Canada for two decades. He enjoyed a breakthrough year in 2020, when his second solo acoustic album, <i>The Ridge</i>, earned more than five million plays on Spotify, and praise from press worldwide. In addition to winning \u201cSolo Artist of the Year\u201d at the Canadian Folk Music Awards, <i>The Ridge</i> was also nominated for two JUNO Awards, the Polaris Prize Long List, and a Summer Solstice Indigenous Award.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "16:35:00",
+                "endTime": "17:35:00",
+                "startTimeRounded": "16:35:00",
+                "endTimeRounded": "17:35:00",
+                "startDateTime": "2026-08-08T16:35:00",
+                "endDateTime": "2026-08-08T17:35:00",
+                "tags": [
+                    "Julian Taylor"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "julian-taylor": {
+                        "slug": "julian-taylor",
+                        "name": "Julian Taylor"
+                    }
+                }
+            },
+            "1327": {
+                "showId": "1327",
+                "showName": "Kate Rusby Concert",
+                "showDesc": "<p>For over three decades, Kate Rusby has stood as one of the most influential and beloved figures in British folk music. Frequently described as \u201c...a superstar of the British acoustic scene\u201d (The Telegraph), and affectionately hailed as \u201cFolk Royalty\u201d (The Daily), she has carved a singular place in the UK\u2019s musical landscape. Among her many accolades, she has also been awarded an impressive three Honorary Doctorates from three separate universities, all for her service to music, the arts and the preservation of folk song.&nbsp;</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "16:35:00",
+                "endTime": "17:40:00",
+                "startTimeRounded": "16:35:00",
+                "endTimeRounded": "17:40:00",
+                "startDateTime": "2026-08-08T16:35:00",
+                "endDateTime": "2026-08-08T17:40:00",
+                "tags": [
+                    "Kate Rusby"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "kate-rusby": {
+                        "slug": "kate-rusby",
+                        "name": "Kate Rusby"
+                    }
+                }
+            },
+            "1333": {
+                "showId": "1333",
+                "showName": "Mentors",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "12:35:00",
+                "endTime": "13:50:00",
+                "startTimeRounded": "12:35:00",
+                "endTimeRounded": "13:50:00",
+                "startDateTime": "2026-08-08T12:35:00",
+                "endDateTime": "2026-08-08T13:50:00",
+                "tags": [
+                    "Julian Taylor",
+                    "Kate Rusby",
+                    "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "julian-taylor": {
+                        "slug": "julian-taylor",
+                        "name": "Julian Taylor"
+                    },
+                    "kate-rusby": {
+                        "slug": "kate-rusby",
+                        "name": "Kate Rusby"
+                    },
+                    "djekady-feat-balla-kouyate-mike-block": {
+                        "slug": "djekady-feat-balla-kouyate-mike-block",
+                        "name": "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block"
+                    }
+                }
+            },
+            "1334": {
+                "showId": "1334",
+                "showName": "Nikamowin Programming (Saturday)",
+                "showDesc": "<p><i>Join us once again as the Edmonton Folk Music Festival celebrates First Nations, M\u00e9tis, and Inuit artists through the Nikamowin Program and Indigenous-led programming across the festival site.</i></p><p><i>We acknowledge that the Edmonton Folk Music Festival takes place on Treaty 6 Territory, the traditional lands of the Cree, Dene, Blackfoot, Saulteaux, Nakota Sioux, and M\u00e9tis peoples. We honour the enduring relationships Indigenous Peoples have with these lands and their ongoing contributions to our communities.</i></p><p><i>We invite festival-goers to gather in a spirit of respect, learning, and celebration as we share Indigenous stories, songs, cultures, and traditions through music, art, and community.</i></p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "12:00:00",
+                "endTime": "18:00:00",
+                "startTimeRounded": "12:00:00",
+                "endTimeRounded": "18:00:00",
+                "startDateTime": "2026-08-08T12:00:00",
+                "endDateTime": "2026-08-08T18:00:00",
+                "tags": [
+                    "Nikamowin Program Area",
+                    "Nikamowin"
+                ],
+                "location": "Nikamowin Program Area",
+                "locationId": 956,
+                "slugs": {
+                    "levi-wolfe-nikamowin": {
+                        "slug": "levi-wolfe-nikamowin",
+                        "name": "Levi Wolfe (Nikamowin)"
+                    }
+                }
+            },
+            "1339": {
+                "showId": "1339",
+                "showName": "Moods and Grooves",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-08T11:00:00",
+                "endDateTime": "2026-08-08T12:15:00",
+                "tags": [
+                    "Tia Wood",
+                    "The Point.",
+                    "Mia Kelly"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "tia-wood": {
+                        "slug": "tia-wood",
+                        "name": "Tia Wood"
+                    },
+                    "the-point": {
+                        "slug": "the-point",
+                        "name": "The Point."
+                    },
+                    "mia-kelly": {
+                        "slug": "mia-kelly",
+                        "name": "Mia Kelly"
+                    }
+                }
+            },
+            "1340": {
+                "showId": "1340",
+                "showName": "Naturally",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-08T11:00:00",
+                "endDateTime": "2026-08-08T12:15:00",
+                "tags": [
+                    "La D\u00e9ferlance",
+                    "Daby Tour\u00e9",
+                    "Gwenifer Raymond",
+                    "Rob Ickes & Trey Hensley"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "la-deferlance": {
+                        "slug": "la-deferlance",
+                        "name": "La D\u00e9ferlance"
+                    },
+                    "daby-toure": {
+                        "slug": "daby-toure",
+                        "name": "Daby Tour\u00e9"
+                    },
+                    "gwenifer-raymond": {
+                        "slug": "gwenifer-raymond",
+                        "name": "Gwenifer Raymond"
+                    },
+                    "rob-ickes-trey-hensley": {
+                        "slug": "rob-ickes-trey-hensley",
+                        "name": "Rob Ickes & Trey Hensley"
+                    }
+                }
+            },
+            "1343": {
+                "showId": "1343",
+                "showName": "On The Road Again",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "16:30:00",
+                "endTime": "17:30:00",
+                "startTimeRounded": "16:30:00",
+                "endTimeRounded": "17:30:00",
+                "startDateTime": "2026-08-08T16:30:00",
+                "endDateTime": "2026-08-08T17:30:00",
+                "tags": [
+                    "Adam Baldwin",
+                    "John R. Miller",
+                    "DUG"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "adam-baldwin": {
+                        "slug": "adam-baldwin",
+                        "name": "Adam Baldwin"
+                    },
+                    "john-r-miller": {
+                        "slug": "john-r-miller",
+                        "name": "John R. Miller"
+                    },
+                    "dug": {
+                        "slug": "dug",
+                        "name": "DUG"
+                    }
+                }
+            },
+            "1345": {
+                "showId": "1345",
+                "showName": "Rob Ickes & Trey Hensley Concert",
+                "showDesc": "<p>Take a 15-time IBMA (International Bluegrass Music Association) Dobro Player of the Year and a Tennessee-born guitar prodigy who made his Grand Ole Opry debut at the age of 11, and you have Rob Ickes and Trey Hensley, a powerhouse acoustic duo that has electrified the acoustic music scene. Known for their white-hot picking, stone country vocals with soul and world class live musicianship, Ickes and Hensley meld together blues, bluegrass, country, rock and other string band music of all kinds to form a signature blend of music that defies restrictions of genre.&nbsp;&nbsp;</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "17:05:00",
+                "endTime": "17:55:00",
+                "startTimeRounded": "17:05:00",
+                "endTimeRounded": "17:55:00",
+                "startDateTime": "2026-08-08T17:05:00",
+                "endDateTime": "2026-08-08T17:55:00",
+                "tags": [
+                    "Rob Ickes & Trey Hensley"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "rob-ickes-trey-hensley": {
+                        "slug": "rob-ickes-trey-hensley",
+                        "name": "Rob Ickes & Trey Hensley"
+                    }
+                }
+            },
+            "1347": {
+                "showId": "1347",
+                "showName": "Rolling Tones",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-08T11:00:00",
+                "endDateTime": "2026-08-08T12:15:00",
+                "tags": [
+                    "Trousdale",
+                    "Annie & The Caldwells",
+                    "DUG"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "trousdale": {
+                        "slug": "trousdale",
+                        "name": "Trousdale"
+                    },
+                    "annie-the-caldwells": {
+                        "slug": "annie-the-caldwells",
+                        "name": "Annie & The Caldwells"
+                    },
+                    "dug": {
+                        "slug": "dug",
+                        "name": "DUG"
+                    }
+                }
+            },
+            "1348": {
+                "showId": "1348",
+                "showName": "Roots and Branches",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "15:05:00",
+                "endTime": "16:15:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:15:00",
+                "startDateTime": "2026-08-08T15:05:00",
+                "endDateTime": "2026-08-08T16:15:00",
+                "tags": [
+                    "Bombino",
+                    "The Point.",
+                    "Nick Mulvey"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "bombino": {
+                        "slug": "bombino",
+                        "name": "Bombino"
+                    },
+                    "the-point": {
+                        "slug": "the-point",
+                        "name": "The Point."
+                    },
+                    "nick-mulvey": {
+                        "slug": "nick-mulvey",
+                        "name": "Nick Mulvey"
+                    }
+                }
+            },
+            "1354": {
+                "showId": "1354",
+                "showName": "Tall Tales",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-08T11:00:00",
+                "endDateTime": "2026-08-08T12:15:00",
+                "tags": [
+                    "Adam Baldwin",
+                    "Sister Ray",
+                    "The Pairs"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "adam-baldwin": {
+                        "slug": "adam-baldwin",
+                        "name": "Adam Baldwin"
+                    },
+                    "sister-ray": {
+                        "slug": "sister-ray",
+                        "name": "Sister Ray"
+                    },
+                    "the-pairs": {
+                        "slug": "the-pairs",
+                        "name": "The Pairs"
+                    }
+                }
+            },
+            "1356": {
+                "showId": "1356",
+                "showName": "The Mbira Renaissance Band Concert",
+                "showDesc": "<p>The Mbira Renaissance Band is one of Edmonton's most exciting groups. Their first full-length 2025 album, <i>Roto</i>, reached the top spot on the CKUA radio charts in its first week. Centered around the soulful sounds of the mbira, a traditional instrument from Zimbabwe, their music offers a fresh, energetic and spellbinding experience of cyclical arrangements, polyrhythm, layered vocals and improvisation. Seamlessly moving between re-interpretations of traditional repertoires and original compositions the band sings songs of family, heritage, celebrations and gatherings.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "16:35:00",
+                "endTime": "17:35:00",
+                "startTimeRounded": "16:35:00",
+                "endTimeRounded": "17:35:00",
+                "startDateTime": "2026-08-08T16:35:00",
+                "endDateTime": "2026-08-08T17:35:00",
+                "tags": [
+                    "The Mbira Renaissance Band"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "the-mbira-renaissance-band": {
+                        "slug": "the-mbira-renaissance-band",
+                        "name": "The Mbira Renaissance Band"
+                    }
+                }
+            },
+            "1357": {
+                "showId": "1357",
+                "showName": "The Milk Carton Kids Concert",
+                "showDesc": "<p>The Milk Carton Kids have remained committed to a deceptively simple idea: music can help turn down the volume on a chaotic world and make room for what matters most. The latest release from the Grammy nominated duo, <i>Lost Cause Lover Fool</i>, is the clearest distillation of that idea yet. With roots-leaning arrangements and a deep trust in space, the album expands the duo\u2019s signature minimalist sound while somehow making it even more focused.</p>",
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "17:50:00",
+                "endTime": "18:55:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:55:00",
+                "startDateTime": "2026-08-08T17:50:00",
+                "endDateTime": "2026-08-08T18:55:00",
+                "tags": [
+                    "The Milk Carton Kids"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "the-milk-carton-kids": {
+                        "slug": "the-milk-carton-kids",
+                        "name": "The Milk Carton Kids"
+                    }
+                }
+            },
+            "1365": {
+                "showId": "1365",
+                "showName": "Turning Point",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-08T11:00:00",
+                "endDateTime": "2026-08-08T12:15:00",
+                "tags": [
+                    "SupaLung",
+                    "Ocie Elliott"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "supalung": {
+                        "slug": "supalung",
+                        "name": "SupaLung"
+                    },
+                    "ocie-elliott": {
+                        "slug": "ocie-elliott",
+                        "name": "Ocie Elliott"
+                    }
+                }
+            },
+            "1366": {
+                "showId": "1366",
+                "showName": "Master Class",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-08",
+                "endDate": "2026-08-08",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-08T11:00:00",
+                "endDateTime": "2026-08-08T12:15:00",
+                "tags": [
+                    "Jeffrey Martin",
+                    "Anna Tivel",
+                    "Courtney Marie Andrews",
+                    "Jake Xerxes Fussell"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "jeffrey-martin": {
+                        "slug": "jeffrey-martin",
+                        "name": "Jeffrey Martin"
+                    },
+                    "anna-tivel": {
+                        "slug": "anna-tivel",
+                        "name": "Anna Tivel"
+                    },
+                    "courtney-marie-andrews": {
+                        "slug": "courtney-marie-andrews",
+                        "name": "Courtney Marie Andrews"
+                    },
+                    "jake-xerxes-fussell": {
+                        "slug": "jake-xerxes-fussell",
+                        "name": "Jake Xerxes Fussell"
+                    }
+                }
+            }
+        }
+    },
+    "2026-08-09": {
+        "date": "Sun, Aug 09 2026",
+        "gate_open_time": "",
+        "schedule": {
+            "1046": {
+                "showId": "1046",
+                "showName": "Bombino Concert",
+                "showDesc": "<p>Grammy-nominated Nigerien Tuareg guitar hero Bombino, hailed by The New York Times as the \"Sultan of Shred\", continues to redefine desert blues and rock for a global audience. Over the years, Bombino has collaborated with acclaimed producers such as Dan Auerbach (The Black Keys) on <i>Nomad</i> and David Longstreth (Dirty Projectors) on <i>Azel</i>, earning praise from icons including Keith Richards, Stevie Wonder, Robert Plant, and Arcade Fire.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "14:00:00",
+                "endTime": "15:00:00",
+                "startTimeRounded": "14:00:00",
+                "endTimeRounded": "15:00:00",
+                "startDateTime": "2026-08-09T14:00:00",
+                "endDateTime": "2026-08-09T15:00:00",
+                "tags": [
+                    "Bombino"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "bombino": {
+                        "slug": "bombino",
+                        "name": "Bombino"
+                    }
+                }
+            },
+            "1047": {
+                "showId": "1047",
+                "showName": "St. Paul & The Broken Bones",
+                "showDesc": "<p>St. Paul &amp; The Broken Bones are a powerhouse soul ensemble from Alabama known for their electrifying live shows and impassioned vocals. The group has shared stages with The Rolling Stones and Black Pumas, and has performed at major festivals like Coachella, Glastonbury, Lollapalooza, and Bonnaroo. Their new self-titled sixth album marks a creative renewal, melding the band\u2019s adventurous spirit with a return to soulful, song-focused roots.&nbsp;</p>",
+                "type": "Concert",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "19:01:00",
+                "endTime": "20:08:00",
+                "startTimeRounded": "19:00:00",
+                "endTimeRounded": "20:05:00",
+                "startDateTime": "2026-08-09T19:01:00",
+                "endDateTime": "2026-08-09T20:08:00",
+                "tags": [
+                    "St. Paul & The Broken Bones"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "st-paul-the-broken-bones": {
+                        "slug": "st-paul-the-broken-bones",
+                        "name": "St. Paul & The Broken Bones"
+                    }
+                }
+            },
+            "1048": {
+                "showId": "1048",
+                "showName": "Ocie Elliott Concert",
+                "showDesc": "<p>Ocie Elliott is the JUNO nominated musical duo of Jon Middleton and Sierra Lundy. The two have come a long way in a short time since a chance encounter in a Salt Spring Island caf\u00e9 led to a spark, collaboration, and their ultimate partnership in music. The duo pens tunes that feel lived-in. You can hear their memories, moments, and emotions in the dusty acoustic guitars, the sparse production, and the graceful harmonies between Middleton and Lundy. The duo has been aptly described by one reviewer as \u201c...the aural equivalent of indigo painted skies and the first summer stars.\"</p>",
+                "type": "Concert",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "20:26:00",
+                "endTime": "21:20:00",
+                "startTimeRounded": "20:25:00",
+                "endTimeRounded": "21:20:00",
+                "startDateTime": "2026-08-09T20:26:00",
+                "endDateTime": "2026-08-09T21:20:00",
+                "tags": [
+                    "Ocie Elliott"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "ocie-elliott": {
+                        "slug": "ocie-elliott",
+                        "name": "Ocie Elliott"
+                    }
+                }
+            },
+            "1049": {
+                "showId": "1049",
+                "showName": "Nathaniel Rateliff Concert",
+                "showDesc": "<p>Raised in Hermann, Missouri, Nathaniel Rateliff began his music career playing drums in his family\u2019s church band. \u201cWhether he\u2019s grinding out old-school soul with the Night Sweats or flying solo, he\u2019s obsessed with the idea of authenticity: the idea that a song isn\u2019t a song unless it can be convincingly played alone on an acoustic guitar.\u201d (Pitchfork) Showcasing his true craftsmanship as a songwriter first, it is an honour to feature a solo Ratefill \u2013 the perfect punctuation to the 2026 festival.</p>",
+                "type": "Concert",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "21:42:00",
+                "endTime": "22:50:00",
+                "startTimeRounded": "21:40:00",
+                "endTimeRounded": "22:50:00",
+                "startDateTime": "2026-08-09T21:42:00",
+                "endDateTime": "2026-08-09T22:50:00",
+                "tags": [
+                    "Nathaniel Rateliff"
+                ],
+                "location": "Main Stage",
+                "locationId": 949,
+                "slugs": {
+                    "nathaniel-rateliff": {
+                        "slug": "nathaniel-rateliff",
+                        "name": "Nathaniel Rateliff"
+                    }
+                }
+            },
+            "1293": {
+                "showId": "1293",
+                "showName": "A New Day",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-09T11:00:00",
+                "endDateTime": "2026-08-09T12:15:00",
+                "tags": [
+                    "Joel Plaskett Emergency",
+                    "Trousdale",
+                    "Fantastic Cat"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "joel-plaskett-emergency": {
+                        "slug": "joel-plaskett-emergency",
+                        "name": "Joel Plaskett Emergency"
+                    },
+                    "trousdale": {
+                        "slug": "trousdale",
+                        "name": "Trousdale"
+                    },
+                    "fantastic-cat": {
+                        "slug": "fantastic-cat",
+                        "name": "Fantastic Cat"
+                    }
+                }
+            },
+            "1295": {
+                "showId": "1295",
+                "showName": "A Sense of Wonder",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "16:30:00",
+                "endTime": "17:35:00",
+                "startTimeRounded": "16:30:00",
+                "endTimeRounded": "17:35:00",
+                "startDateTime": "2026-08-09T16:30:00",
+                "endDateTime": "2026-08-09T17:35:00",
+                "tags": [
+                    "Jeremie Albino",
+                    "Bombino",
+                    "Buyepongo"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "jeremie-albino": {
+                        "slug": "jeremie-albino",
+                        "name": "Jeremie Albino"
+                    },
+                    "bombino": {
+                        "slug": "bombino",
+                        "name": "Bombino"
+                    },
+                    "buyepongo": {
+                        "slug": "buyepongo",
+                        "name": "Buyepongo"
+                    }
+                }
+            },
+            "1296": {
+                "showId": "1296",
+                "showName": "Adam Baldwin Concert",
+                "showDesc": "<p>With his sophomore full-length album, <i>Concertos &amp; Serenades</i>, Adam Baldwin offers an east coast testimony that challenges the typical tourism marketing gloss. Through eight masterful yarns, the songwriter bears witness and pays tribute to a tradition of desperation, sinners and losers, perpetual failures, and down-and-out phantoms that haunt his home\u2019s coastlines and back roads - without a passing judgement. Some of the tales happened, some didn\u2019t, and most walk a tightrope between truth and fiction.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "15:05:00",
+                "endTime": "15:55:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "15:55:00",
+                "startDateTime": "2026-08-09T15:05:00",
+                "endDateTime": "2026-08-09T15:55:00",
+                "tags": [
+                    "Adam Baldwin"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "adam-baldwin": {
+                        "slug": "adam-baldwin",
+                        "name": "Adam Baldwin"
+                    }
+                }
+            },
+            "1298": {
+                "showId": "1298",
+                "showName": "\u00c1sgeir Concert",
+                "showDesc": "<p>As one of Iceland\u2019s most successful exports, singer-songwriter \u00c1sgeir has always pushed the boundaries of his thoughtful brand of folk-pop. His debut album, <i>D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn</i>, became the best-selling debut in Icelandic history, leading to the English-language version, \u2018In The Silence\u2019 in 2014.&nbsp; He continued to refine his sound with albums <i>Afterglow</i>, <i>Bury The Moon</i>, and <i>Time On My Hands</i>, earning praise from press and radio worldwide, including The Independent, MOJO, NME, Clash Magazine, BBC 6 Music and Radio X.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "15:05:00",
+                "endTime": "16:15:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:15:00",
+                "startDateTime": "2026-08-09T15:05:00",
+                "endDateTime": "2026-08-09T16:15:00",
+                "tags": [
+                    "\u00c1sgeir"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "asgeir": {
+                        "slug": "asgeir",
+                        "name": "\u00c1sgeir"
+                    }
+                }
+            },
+            "1301": {
+                "showId": "1301",
+                "showName": "Buyepongo Concert",
+                "showDesc": "<p>Buyepongo, a band known for their infectious Buyangu sound, has become a well-known name in the Los Angeles music scene. Their music is a riotous fusion of influences, seamlessly blending cumbia, hip-hop, punk, funk, and jazz into a deliriously infectious tropical mix that spans the rich tapestry of Latin American culture. This dynamic ensemble has shared the stage with musical heavyweights like Miguel, Warren G, Common, Ozomatli, Celso Pi\u00f1a, Sister Nancy, Sharon Jones and the Dap Kings, and Antibalas.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "12:35:00",
+                "endTime": "13:50:00",
+                "startTimeRounded": "12:35:00",
+                "endTimeRounded": "13:50:00",
+                "startDateTime": "2026-08-09T12:35:00",
+                "endDateTime": "2026-08-09T13:50:00",
+                "tags": [
+                    "Buyepongo"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "buyepongo": {
+                        "slug": "buyepongo",
+                        "name": "Buyepongo"
+                    }
+                }
+            },
+            "1306": {
+                "showId": "1306",
+                "showName": "Damien O'Kane & Ron Block Concert",
+                "showDesc": "<p>What do you get when an American bluegrass banjo and an Irish tenor banjo join forces? In the case of Coleraine\u2019s Damien O\u2019Kane and California\u2019s Ron Block \u2013 fireworks. Widely regarded as two of the greatest exponents of the banjo, they have collaborated to create arguably their own genre, Banjophony, something never heard before that is subtle, awe-inspiring, energetic and majestic.</p><p></p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "17:10:00",
+                "endTime": "18:00:00",
+                "startTimeRounded": "17:10:00",
+                "endTimeRounded": "18:00:00",
+                "startDateTime": "2026-08-09T17:10:00",
+                "endDateTime": "2026-08-09T18:00:00",
+                "tags": [
+                    "Damien O'Kane & Ron Block"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "damien-okane-ron-block": {
+                        "slug": "damien-okane-ron-block",
+                        "name": "Damien O'Kane & Ron Block"
+                    }
+                }
+            },
+            "1307": {
+                "showId": "1307",
+                "showName": "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block Concert",
+                "showDesc": "<p>Balla Kouyat\u00e9 and Mike Block met through their work with the Silkroad Ensemble, and have found a simpatico relationship with each other. \u201cBalla\u2019s joy and unbridled enthusiasm is infectious,\u201d Block says. \u201cThere is so much trust between us,\u201d offers Kouyat\u00e9. \u201cWe treat each other like brothers.\u201d Dj\u00e9kady is a Mandinka word with the meaning, \u201ccoming together is good.\u201d Every song is a trust fall, with each musician leaping higher and higher knowing their bandmates will catch them every time.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "17:50:00",
+                "endTime": "18:50:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:50:00",
+                "startDateTime": "2026-08-09T17:50:00",
+                "endDateTime": "2026-08-09T18:50:00",
+                "tags": [
+                    "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "djekady-feat-balla-kouyate-mike-block": {
+                        "slug": "djekady-feat-balla-kouyate-mike-block",
+                        "name": "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block"
+                    }
+                }
+            },
+            "1309": {
+                "showId": "1309",
+                "showName": "DUG Concert",
+                "showDesc": "<p>The duo\u2019s music stems from roots in musical traditions spanning both sides of the pond. In one breath, echoing the great American folk troubadours, and in another, comfortably channeling the elder statesmen of Irish folk. This is no accident. DUG have a shared musical heritage, with members having been born in America and Scotland before arriving in Ireland.&nbsp;</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "16:10:00",
+                "endTime": "17:00:00",
+                "startTimeRounded": "16:10:00",
+                "endTimeRounded": "17:00:00",
+                "startDateTime": "2026-08-09T16:10:00",
+                "endDateTime": "2026-08-09T17:00:00",
+                "tags": [
+                    "DUG"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "dug": {
+                        "slug": "dug",
+                        "name": "DUG"
+                    }
+                }
+            },
+            "1310": {
+                "showId": "1310",
+                "showName": "Fantastic Cat Concert",
+                "showDesc": "<p>Individually, each member of Fantastic Cat boasts their own impressive r\u00e9sum\u00e9 along with a litany of critical acclaim. Collectively, though, the four transcend their respective roots, emerging as a velvet-clad rock and roll cooperative far greater than the sum of its parts. They say some cats are born fantastic; others have fantasy thrust upon them. These guys are somewhere in the middle.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "15:05:00",
+                "endTime": "16:10:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:10:00",
+                "startDateTime": "2026-08-09T15:05:00",
+                "endDateTime": "2026-08-09T16:10:00",
+                "tags": [
+                    "Fantastic Cat"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "fantastic-cat": {
+                        "slug": "fantastic-cat",
+                        "name": "Fantastic Cat"
+                    }
+                }
+            },
+            "1312": {
+                "showId": "1312",
+                "showName": "Full Circles",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-09T11:00:00",
+                "endDateTime": "2026-08-09T12:15:00",
+                "tags": [
+                    "Adam Baldwin",
+                    "La D\u00e9ferlance",
+                    "The Pairs"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "adam-baldwin": {
+                        "slug": "adam-baldwin",
+                        "name": "Adam Baldwin"
+                    },
+                    "la-deferlance": {
+                        "slug": "la-deferlance",
+                        "name": "La D\u00e9ferlance"
+                    },
+                    "the-pairs": {
+                        "slug": "the-pairs",
+                        "name": "The Pairs"
+                    }
+                }
+            },
+            "1314": {
+                "showId": "1314",
+                "showName": "Gwenifer Raymond Concert",
+                "showDesc": "<p>Wales born instrumentalist Gwenifer Raymond is a celebrated champion of the finger-style guitar. She has drawn international acclaim for her repurposing of Mississippi blues and John Fahey\u2019s intricate Americana to embody her roots in rural South Wales. The Guardian has described her as a \u201cprofound talent\u201d whilst The Observer has praised her \u201cawe-inspiring technique and intense musicality\u201d, and Uncut Magazine has championed her \u201cfast-developing talents as a composer of eerie menace.\u201d</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "18:10:00",
+                "endTime": "19:00:00",
+                "startTimeRounded": "18:10:00",
+                "endTimeRounded": "19:00:00",
+                "startDateTime": "2026-08-09T18:10:00",
+                "endDateTime": "2026-08-09T19:00:00",
+                "tags": [
+                    "Gwenifer Raymond"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "gwenifer-raymond": {
+                        "slug": "gwenifer-raymond",
+                        "name": "Gwenifer Raymond"
+                    }
+                }
+            },
+            "1315": {
+                "showId": "1315",
+                "showName": "Heroes",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-09T11:00:00",
+                "endDateTime": "2026-08-09T12:15:00",
+                "tags": [
+                    "SupaLung",
+                    "Daby Tour\u00e9",
+                    "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "supalung": {
+                        "slug": "supalung",
+                        "name": "SupaLung"
+                    },
+                    "daby-toure": {
+                        "slug": "daby-toure",
+                        "name": "Daby Tour\u00e9"
+                    },
+                    "djekady-feat-balla-kouyate-mike-block": {
+                        "slug": "djekady-feat-balla-kouyate-mike-block",
+                        "name": "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block"
+                    }
+                }
+            },
+            "1318": {
+                "showId": "1318",
+                "showName": "Imagine",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "11:00:00",
+                "endTime": "12:15:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:15:00",
+                "startDateTime": "2026-08-09T11:00:00",
+                "endDateTime": "2026-08-09T12:15:00",
+                "tags": [
+                    "Kate Rusby",
+                    "Anna Tivel",
+                    "Bella White",
+                    "Nick Mulvey"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "kate-rusby": {
+                        "slug": "kate-rusby",
+                        "name": "Kate Rusby"
+                    },
+                    "anna-tivel": {
+                        "slug": "anna-tivel",
+                        "name": "Anna Tivel"
+                    },
+                    "bella-white": {
+                        "slug": "bella-white",
+                        "name": "Bella White"
+                    },
+                    "nick-mulvey": {
+                        "slug": "nick-mulvey",
+                        "name": "Nick Mulvey"
+                    }
+                }
+            },
+            "1320": {
+                "showId": "1320",
+                "showName": "Jake Xerxes Fussell Concert",
+                "showDesc": "<p>Reared in Georgia and settled in North Carolina, Jake Xerxes Fussell has established himself as a devoted listener and contemplative interpreter of a vast array of folk songs, lovingly sourced from a personal store of favourites. On his latest album, <i>When I\u2019m Called</i>, his first as a parent, Fussell returns to a well of music that holds lifelong sentimental meaning, loosely contemplating the passage of time and the procession of life\u2019s unexpected offerings.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "16:35:00",
+                "endTime": "17:30:00",
+                "startTimeRounded": "16:35:00",
+                "endTimeRounded": "17:30:00",
+                "startDateTime": "2026-08-09T16:35:00",
+                "endDateTime": "2026-08-09T17:30:00",
+                "tags": [
+                    "Jake Xerxes Fussell"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "jake-xerxes-fussell": {
+                        "slug": "jake-xerxes-fussell",
+                        "name": "Jake Xerxes Fussell"
+                    }
+                }
+            },
+            "1321": {
+                "showId": "1321",
+                "showName": "Jeffrey Martin Concert",
+                "showDesc": "<p>Jeffrey Martin has been reaching for quiet and stories since he was a kid hiding under the covers with a Discman. He wrote his way through a writing degree, a teaching degree, and years of high school English classes filled with unruly brilliance, all while making records and playing shows whenever he could. Eventually, he left teaching to follow the same dream he encouraged his students to chase. After releasing, <i>Thank God We Left the Garden</i>, he recorded, <i>Alive, July 25, 2025</i>, a no-edits live album captured in Portland with Sam Weber.&nbsp;</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "17:45:00",
+                "endTime": "18:50:00",
+                "startTimeRounded": "17:45:00",
+                "endTimeRounded": "18:50:00",
+                "startDateTime": "2026-08-09T17:45:00",
+                "endDateTime": "2026-08-09T18:50:00",
+                "tags": [
+                    "Jeffrey Martin"
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "jeffrey-martin": {
+                        "slug": "jeffrey-martin",
+                        "name": "Jeffrey Martin"
+                    }
+                }
+            },
+            "1325": {
+                "showId": "1325",
+                "showName": "John R. Miller Concert",
+                "showDesc": "<p>John R. Miller grew up in Hedgesville, a small town in eastern West Virginia where the mountains meet I-81. Crafting his own blend of laid-back country, blues and folk, he has performed music in nearly all 50 states, Canada, Ireland, the UK, Japan, and much of Europe. His songs have been performed and recorded by several notable artists, including Tyler Childers and David F. Bello. John\u2019s latest album, <i>The Trouble You Follow</i>, \u201c...is about taking all the wrong forks in the road and never being dealt a lucky draw, but deciding to be content and live your life anyway, the mess be damned.\u201d (Saving Country Music)</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "17:45:00",
+                "endTime": "18:50:00",
+                "startTimeRounded": "17:45:00",
+                "endTimeRounded": "18:50:00",
+                "startDateTime": "2026-08-09T17:45:00",
+                "endDateTime": "2026-08-09T18:50:00",
+                "tags": [
+                    "John R. Miller"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "john-r-miller": {
+                        "slug": "john-r-miller",
+                        "name": "John R. Miller"
+                    }
+                }
+            },
+            "1328": {
+                "showId": "1328",
+                "showName": "La D\u00e9ferlance Concert",
+                "showDesc": "<p>La D\u00e9ferlance offers a refreshing and brightly coloured take on traditional music. Alongside imaginative arrangements of lively tunes and traditional songs, the band\u2019s repertoire features many original compositions. Their energetic and polished performances are a testament to its members' years of varied musical experience, notably in jazz and classical music. Recipient of numerous nominations, the group now travels around the globe to present its new show, <i>\u00c2mes des bois</i>, created from its second album released in 2025.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "15:05:00",
+                "endTime": "16:10:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:10:00",
+                "startDateTime": "2026-08-09T15:05:00",
+                "endDateTime": "2026-08-09T16:10:00",
+                "tags": [
+                    "La D\u00e9ferlance"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "la-deferlance": {
+                        "slug": "la-deferlance",
+                        "name": "La D\u00e9ferlance"
+                    }
+                }
+            },
+            "1330": {
+                "showId": "1330",
+                "showName": "Madalitso Band Concert",
+                "showDesc": "<p>A dynamic musical duo from Lilongwe, Malawi who are known for their infectious energy and distinctive sound that is created using homemade instruments, Madalitso Band\u2019s music blends Malawian traditions with a raw, rhythmic intensity that captivates audiences worldwide. Their name, \u201cMadalitso,\u201d meaning \u201cblessings,\u201d reflects both their uplifting spirit and the remarkable journey that has taken them from the streets of Malawi to global stages. What began as street performances to survive has evolved into an international touring career, for Yobu Maligwa and Yosefe Kalekeni.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "15:05:00",
+                "endTime": "16:10:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:10:00",
+                "startDateTime": "2026-08-09T15:05:00",
+                "endDateTime": "2026-08-09T16:10:00",
+                "tags": [
+                    "Madalitso Band"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "madalitso-band": {
+                        "slug": "madalitso-band",
+                        "name": "Madalitso Band"
+                    }
+                }
+            },
+            "1331": {
+                "showId": "1331",
+                "showName": "Magical Thinking",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "12:35:00",
+                "endTime": "13:50:00",
+                "startTimeRounded": "12:35:00",
+                "endTimeRounded": "13:50:00",
+                "startDateTime": "2026-08-09T12:35:00",
+                "endDateTime": "2026-08-09T13:50:00",
+                "tags": [
+                    "Julian Taylor",
+                    "Courtney Marie Andrews",
+                    "Dana Sipos"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "julian-taylor": {
+                        "slug": "julian-taylor",
+                        "name": "Julian Taylor"
+                    },
+                    "courtney-marie-andrews": {
+                        "slug": "courtney-marie-andrews",
+                        "name": "Courtney Marie Andrews"
+                    },
+                    "dana-sipos": {
+                        "slug": "dana-sipos",
+                        "name": "Dana Sipos"
+                    }
+                }
+            },
+            "1335": {
+                "showId": "1335",
+                "showName": "Nikamowin Programming (Sunday)",
+                "showDesc": "<p><i>Join us once again as the Edmonton Folk Music Festival celebrates First Nations, M\u00e9tis, and Inuit artists through the Nikamowin Program and Indigenous-led programming across the festival site.</i></p><p><i>We acknowledge that the Edmonton Folk Music Festival takes place on Treaty 6 Territory, the traditional lands of the Cree, Dene, Blackfoot, Saulteaux, Nakota Sioux, and M\u00e9tis peoples. We honour the enduring relationships Indigenous Peoples have with these lands and their ongoing contributions to our communities.</i></p><p><i>We invite festival-goers to gather in a spirit of respect, learning, and celebration as we share Indigenous stories, songs, cultures, and traditions through music, art, and community.</i></p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "11:00:00",
+                "endTime": "18:00:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "18:00:00",
+                "startDateTime": "2026-08-09T11:00:00",
+                "endDateTime": "2026-08-09T18:00:00",
+                "tags": [
+                    "Nikamowin Program Area",
+                    "Nikamowin"
+                ],
+                "location": "Nikamowin Program Area",
+                "locationId": 956,
+                "slugs": {
+                    "levi-wolfe-nikamowin": {
+                        "slug": "levi-wolfe-nikamowin",
+                        "name": "Levi Wolfe (Nikamowin)"
+                    }
+                }
+            },
+            "1336": {
+                "showId": "1336",
+                "showName": "Nikamowin",
+                "showDesc": "<p>Stage 7 comes alive on Sunday morning with special performances by Lyndon Aginas and Darla Daniels.</p><p><i>Join us once again as the Edmonton Folk Music Festival celebrates First Nations, M\u00e9tis, and Inuit artists through the Nikamowin Program and Indigenous-led programming across the festival site.</i></p><p><i>We acknowledge that the Edmonton Folk Music Festival takes place on Treaty 6 Territory, the traditional lands of the Cree, Dene, Blackfoot, Saulteaux, Nakota Sioux, and M\u00e9tis peoples. We honour the enduring relationships Indigenous Peoples have with these lands and their ongoing contributions to our communities.</i></p><p><i>We invite festival-goers to gather in a spirit of respect, learning, and celebration as we share Indigenous stories, songs, cultures, and traditions through music, art, and community.</i></p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "11:00:00",
+                "endTime": "11:45:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "11:45:00",
+                "startDateTime": "2026-08-09T11:00:00",
+                "endDateTime": "2026-08-09T11:45:00",
+                "tags": [
+                    "Nikamowin",
+                    "Lyndon Aginas (Nikamowin)",
+                    "Darla Daniels (Nikamowin)"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "anna-muskego-nikamowin": {
+                        "slug": "anna-muskego-nikamowin",
+                        "name": "Anna Muskego (Nikamowin)"
+                    },
+                    "carmen-miller-nikamowin": {
+                        "slug": "carmen-miller-nikamowin",
+                        "name": "Carmen Miller (Nikamowin)"
+                    },
+                    "darla-daniels-nikamowin": {
+                        "slug": "darla-daniels-nikamowin",
+                        "name": "Darla Daniels (Nikamowin)"
+                    },
+                    "lyndon-aginas-nikamowin": {
+                        "slug": "lyndon-aginas-nikamowin",
+                        "name": "Lyndon Aginas (Nikamowin)"
+                    },
+                    "metis-child-family-jiggers-nikamowin": {
+                        "slug": "metis-child-family-jiggers-nikamowin",
+                        "name": "M\u00e9tis Child & Family Jiggers (Nikamowin)"
+                    },
+                    "oskinakosiwin-indigenous-dance-group-nikamowin": {
+                        "slug": "oskinakosiwin-indigenous-dance-group-nikamowin",
+                        "name": "Oskinakosiwin Indigenous Dance Group (Nikamowin)"
+                    },
+                    "celina-loyer-nikamowin": {
+                        "slug": "celina-loyer-nikamowin",
+                        "name": "Celina Loyer (Nikamowin)"
+                    },
+                    "ekti-margaret-cardinal-nikamowin": {
+                        "slug": "ekti-margaret-cardinal-nikamowin",
+                        "name": "Ekti Margaret Cardinal (Nikamowin)"
+                    },
+                    "goota-desmarais-nikamowin": {
+                        "slug": "goota-desmarais-nikamowin",
+                        "name": "Goota Desmarais (Nikamowin)"
+                    },
+                    "levi-wolfe-nikamowin": {
+                        "slug": "levi-wolfe-nikamowin",
+                        "name": "Levi Wolfe (Nikamowin)"
+                    },
+                    "matt-hiltermann-nikamowin": {
+                        "slug": "matt-hiltermann-nikamowin",
+                        "name": "Matt Hiltermann (Nikamowin)"
+                    }
+                }
+            },
+            "1337": {
+                "showId": "1337",
+                "showName": "Mia Kelly Concert",
+                "showDesc": "<p>Mia Kelly is an award-winning singer-songwriter from Gatineau, Quebec, making her mark on the Canadian folk music scene with a distinctive blend of folk, rock, and blues. Since releasing her 2022 debut album, <i>Garden Through The War</i>, she has been recognized as a poetic lyricist with a powerful and versatile voice. Known for her ability to weave the stories of those around her into her music, Kelly is an imaginative storyteller who channels raw, vulnerable emotion through expertly crafted songs.</p><p><br></p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "13:05:00",
+                "endTime": "13:55:00",
+                "startTimeRounded": "13:05:00",
+                "endTimeRounded": "13:55:00",
+                "startDateTime": "2026-08-09T13:05:00",
+                "endDateTime": "2026-08-09T13:55:00",
+                "tags": [
+                    "Mia Kelly"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "mia-kelly": {
+                        "slug": "mia-kelly",
+                        "name": "Mia Kelly"
+                    }
+                }
+            },
+            "1341": {
+                "showId": "1341",
+                "showName": "Nick Mulvey Concert",
+                "showDesc": "<p>His songs don\u2019t shout for attention, yet they demand it, with the poetic weight of Leonard Cohen, the introspective fragility of Nick Drake, and the hypnotic, polyrhythmic pulse of West African guitar masters like Ali Farka Tour\u00e9. He studied music and art in Havana, Cuba, and was an integral part of the Mercury Award-nominated Portico Quartet, before launching his solo career. His album, <i>First Mind</i>, was a remarkable debut that left a lasting impression on all who listened.&nbsp;</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "16:30:00",
+                "endTime": "17:35:00",
+                "startTimeRounded": "16:30:00",
+                "endTimeRounded": "17:35:00",
+                "startDateTime": "2026-08-09T16:30:00",
+                "endDateTime": "2026-08-09T17:35:00",
+                "tags": [
+                    "Nick Mulvey"
+                ],
+                "location": "Stage 1",
+                "locationId": 950,
+                "slugs": {
+                    "nick-mulvey": {
+                        "slug": "nick-mulvey",
+                        "name": "Nick Mulvey"
+                    }
+                }
+            },
+            "1342": {
+                "showId": "1342",
+                "showName": "Nothing To Fret About",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "11:00:00",
+                "endTime": "12:10:00",
+                "startTimeRounded": "11:00:00",
+                "endTimeRounded": "12:10:00",
+                "startDateTime": "2026-08-09T11:00:00",
+                "endDateTime": "2026-08-09T12:10:00",
+                "tags": [
+                    "John R. Miller",
+                    "Brianna Lizotte",
+                    "Rob Ickes & Trey Hensley"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "john-r-miller": {
+                        "slug": "john-r-miller",
+                        "name": "John R. Miller"
+                    },
+                    "brianna-lizotte": {
+                        "slug": "brianna-lizotte",
+                        "name": "Brianna Lizotte"
+                    },
+                    "rob-ickes-trey-hensley": {
+                        "slug": "rob-ickes-trey-hensley",
+                        "name": "Rob Ickes & Trey Hensley"
+                    }
+                }
+            },
+            "1344": {
+                "showId": "1344",
+                "showName": "Peaks and Valleys",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "16:25:00",
+                "endTime": "17:30:00",
+                "startTimeRounded": "16:25:00",
+                "endTimeRounded": "17:30:00",
+                "startDateTime": "2026-08-09T16:25:00",
+                "endDateTime": "2026-08-09T17:30:00",
+                "tags": [
+                    "Joel Plaskett Emergency",
+                    "Leif Vollebekk",
+                    "Sister Ray",
+                    "SupaLung"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "joel-plaskett-emergency": {
+                        "slug": "joel-plaskett-emergency",
+                        "name": "Joel Plaskett Emergency"
+                    },
+                    "leif-vollebekk": {
+                        "slug": "leif-vollebekk",
+                        "name": "Leif Vollebekk"
+                    },
+                    "sister-ray": {
+                        "slug": "sister-ray",
+                        "name": "Sister Ray"
+                    },
+                    "supalung": {
+                        "slug": "supalung",
+                        "name": "SupaLung"
+                    }
+                }
+            },
+            "1349": {
+                "showId": "1349",
+                "showName": "Sing Out",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "12:35:00",
+                "endTime": "13:50:00",
+                "startTimeRounded": "12:35:00",
+                "endTimeRounded": "13:50:00",
+                "startDateTime": "2026-08-09T12:35:00",
+                "endDateTime": "2026-08-09T13:50:00",
+                "tags": [
+                    "Tia Wood",
+                    "Annie & The Caldwells",
+                    "D.K. Harrell"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "tia-wood": {
+                        "slug": "tia-wood",
+                        "name": "Tia Wood"
+                    },
+                    "annie-the-caldwells": {
+                        "slug": "annie-the-caldwells",
+                        "name": "Annie & The Caldwells"
+                    },
+                    "dk-harrell": {
+                        "slug": "dk-harrell",
+                        "name": "D.K. Harrell"
+                    }
+                }
+            },
+            "1350": {
+                "showId": "1350",
+                "showName": "Sister Ray Concert",
+                "showDesc": "<p>At some point you confront the fact that you\u2019ve evolved into the person you\u2019ll be forever. <i>Believer</i>, the sophomore effort by Sister Ray, is an expansive folk project led by Toronto-based singer-songwriter Ella Coyes. They evaluate what it means to hold your centre while continually reappraising how to make sense of the world. Conjuring the barbed alternative folk and sweeping Americana of Tom Waits, Smog, and Lucinda Williams, the album unfurls and claws towards a greater emotional precision.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "12:05:00",
+                "endTime": "12:55:00",
+                "startTimeRounded": "12:05:00",
+                "endTimeRounded": "12:55:00",
+                "startDateTime": "2026-08-09T12:05:00",
+                "endDateTime": "2026-08-09T12:55:00",
+                "tags": [
+                    "Sister Ray"
+                ],
+                "location": "Stage 7",
+                "locationId": 955,
+                "slugs": {
+                    "sister-ray": {
+                        "slug": "sister-ray",
+                        "name": "Sister Ray"
+                    }
+                }
+            },
+            "1352": {
+                "showId": "1352",
+                "showName": "SupaLung Concert",
+                "showDesc": "<p>SupaLung, a name paying homage to late-'60s rock powerhouse Terry Reid, affectionately known as \u201cSuperlungs\u201d, is a firecracker four-piece that\u2019s quickly becoming essential listening for fans of live alt-indie rock who celebrate depth, joy and groove. Fronted by the hauntingly earnest vocals and sharp songwriting of Sam Brookes, and co-piloted by multi-instrumentalist and producer Pete Josef, SupaLung is not just a band, it\u2019s a moment, a feeling, a sonic hug with the heart of a drum that kicks.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "15:05:00",
+                "endTime": "16:10:00",
+                "startTimeRounded": "15:05:00",
+                "endTimeRounded": "16:10:00",
+                "startDateTime": "2026-08-09T15:05:00",
+                "endDateTime": "2026-08-09T16:10:00",
+                "tags": [
+                    "SupaLung"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "supalung": {
+                        "slug": "supalung",
+                        "name": "SupaLung"
+                    }
+                }
+            },
+            "1355": {
+                "showId": "1355",
+                "showName": "The Brudi Brothers Concert",
+                "showDesc": "<p>The Brudi Brothers are a dynamic band hailing from Seattle, who have an inimitable musical and performance dynamic replete with wit and humour. Often recognized as the city's favourite buskers and street poets, they are known for their raucous performances and distinctive old-world soul that stands out in the sphere of modern music. Alongside a touring r\u00e9sum\u00e9 that includes support for Sierra Ferrell, The Head and the Heart, and Charley Crockett, they gained rapid popularity worldwide when a live clip of their 2025 single, \"Me More Cowboy Than You,\" went viral, garnering over 60 million streams.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "16:25:00",
+                "endTime": "17:30:00",
+                "startTimeRounded": "16:25:00",
+                "endTimeRounded": "17:30:00",
+                "startDateTime": "2026-08-09T16:25:00",
+                "endDateTime": "2026-08-09T17:30:00",
+                "tags": [
+                    "The Brudi Brothers"
+                ],
+                "location": "Stage 5",
+                "locationId": 953,
+                "slugs": {
+                    "the-brudi-brothers": {
+                        "slug": "the-brudi-brothers",
+                        "name": "The Brudi Brothers"
+                    }
+                }
+            },
+            "1359": {
+                "showId": "1359",
+                "showName": "The Poet Game",
+                "showDesc": null,
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "12:35:00",
+                "endTime": "13:50:00",
+                "startTimeRounded": "12:35:00",
+                "endTimeRounded": "13:50:00",
+                "startDateTime": "2026-08-09T12:35:00",
+                "endDateTime": "2026-08-09T13:50:00",
+                "tags": [
+                    "Leif Vollebekk",
+                    "\u00c1sgeir",
+                    "Ocie Elliott"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "leif-vollebekk": {
+                        "slug": "leif-vollebekk",
+                        "name": "Leif Vollebekk"
+                    },
+                    "asgeir": {
+                        "slug": "asgeir",
+                        "name": "\u00c1sgeir"
+                    },
+                    "ocie-elliott": {
+                        "slug": "ocie-elliott",
+                        "name": "Ocie Elliott"
+                    }
+                }
+            },
+            "1360": {
+                "showId": "1360",
+                "showName": "The Point. Concert",
+                "showDesc": "<p>Despite their influences ranging across the world, The Point. are a band that could only have started in Austin. Fusing psychedelia, Saharan guitar music, and cumbia with jam-band sensibilities, the trio creates a laid-back vibe that\u2019s more than the sum of its parts. Their latest, <i>Maldito Animal (Deluxe Edition)</i>, finds the band exploring new directions, the aural equivalent of a record store crate-digger showing off their collection, a panoply of taste culled into one source.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "12:35:00",
+                "endTime": "13:45:00",
+                "startTimeRounded": "12:35:00",
+                "endTimeRounded": "13:45:00",
+                "startDateTime": "2026-08-09T12:35:00",
+                "endDateTime": "2026-08-09T13:45:00",
+                "tags": [
+                    "The Point."
+                ],
+                "location": "Stage 2",
+                "locationId": 951,
+                "slugs": {
+                    "the-point": {
+                        "slug": "the-point",
+                        "name": "The Point."
+                    }
+                }
+            },
+            "1362": {
+                "showId": "1362",
+                "showName": "Tia Wood Concert",
+                "showDesc": "<p>Her powerful, soulful voice carries the spirit of her peoples\u2019 songs that have echoed from her homelands since time immemorial, and the musical roots of her family tree run deep. Growing up in a home rich with music and culture, she began singing as soon as she could talk, inspired and nurtured by her parents, siblings, and her dual Plains Cree and Coast Salish heritage. Her 2025 release, \u201cSage My Soul\u201d, \u201cis Tia Wood\u2019s most impressive vocal performance to date, her voice unabashed and soaring.\u201d (Kelsey Adams, CBC)</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "17:50:00",
+                "endTime": "18:50:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:50:00",
+                "startDateTime": "2026-08-09T17:50:00",
+                "endDateTime": "2026-08-09T18:50:00",
+                "tags": [
+                    "Tia Wood"
+                ],
+                "location": "Stage 3",
+                "locationId": 952,
+                "slugs": {
+                    "tia-wood": {
+                        "slug": "tia-wood",
+                        "name": "Tia Wood"
+                    }
+                }
+            },
+            "1364": {
+                "showId": "1364",
+                "showName": "Trousdale Concert",
+                "showDesc": "<p>Trousdale\u2019s debut album, <i>Out of My Mind</i>, earned raves from the likes of the Boston Globe, Consequence, and Atwood Magazine for its powerful songwriting, immaculate harmonies, and ability to bridge gaps between country and indie pop. The group further honed those strengths on the road, finding deeper grooves and learning how to meticulously highlight each of their voices. Their 2025 album, <i>Growing Pains</i>, stares down all the weight of its title, a trio of strong, independent women facing the threats of loneliness, broken hearts, loss, and more, and converting it into transformative, uplifting music.</p>",
+                "type": "Other",
+                "startDate": "2026-08-09",
+                "endDate": "2026-08-09",
+                "startTime": "17:50:00",
+                "endTime": "18:55:00",
+                "startTimeRounded": "17:50:00",
+                "endTimeRounded": "18:55:00",
+                "startDateTime": "2026-08-09T17:50:00",
+                "endDateTime": "2026-08-09T18:55:00",
+                "tags": [
+                    "Trousdale"
+                ],
+                "location": "Stage 6",
+                "locationId": 954,
+                "slugs": {
+                    "trousdale": {
+                        "slug": "trousdale",
+                        "name": "Trousdale"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,724 @@
+{
+  "1000": {
+    "_id": 1000,
+    "letter": "R",
+    "photo_suffix": "20260605073148_ef341e12",
+    "slug": "rob-ickes-trey-hensley",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Rob Ickes & Trey Hensley"
+  },
+  "1001": {
+    "_id": 1001,
+    "letter": "R",
+    "photo_suffix": "20260605073148_2da749bd",
+    "slug": "rockin-dopsie-jr-the-zydeco-twisters",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Rockin' Dopsie Jr & The Zydeco Twisters"
+  },
+  "1002": {
+    "_id": 1002,
+    "letter": "S",
+    "photo_suffix": "20260605073149_7eae38ce",
+    "slug": "school-of-song-caylie-g-mitch-gorman-paul-cournoyer-the-western-thistles",
+    "sort_order": null,
+    "subtitle": "Canada/AB",
+    "tags": [],
+    "title": "School of Song - Caylie G, Mitch Gorman, Paul Cournoyer & The Western Thistles"
+  },
+  "1003": {
+    "_id": 1003,
+    "letter": "S",
+    "photo_suffix": "20260605073150_4e7bb20e",
+    "slug": "sister-ray",
+    "sort_order": null,
+    "subtitle": "Canada/AB",
+    "tags": [],
+    "title": "Sister Ray"
+  },
+  "1004": {
+    "_id": 1004,
+    "letter": "S",
+    "photo_suffix": "20260605073150_8c5ba57d",
+    "slug": "st-paul-the-broken-bones",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "St. Paul & The Broken Bones"
+  },
+  "1005": {
+    "_id": 1005,
+    "letter": "S",
+    "photo_suffix": "20260605073151_9998ff33",
+    "slug": "supalung",
+    "sort_order": null,
+    "subtitle": "England",
+    "tags": [],
+    "title": "SupaLung"
+  },
+  "1006": {
+    "_id": 1006,
+    "letter": "S",
+    "photo_suffix": "20260605073151_34ff26a3",
+    "slug": "syml",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "SYML"
+  },
+  "1007": {
+    "_id": 1007,
+    "letter": "T",
+    "photo_suffix": "20260605073151_e6b4060b",
+    "slug": "the-brudi-brothers",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "The Brudi Brothers"
+  },
+  "1008": {
+    "_id": 1008,
+    "letter": "T",
+    "photo_suffix": "20260605073152_a9b19ce3",
+    "slug": "the-mbira-renaissance-band",
+    "sort_order": null,
+    "subtitle": "Canada/AB",
+    "tags": [],
+    "title": "The Mbira Renaissance Band"
+  },
+  "1009": {
+    "_id": 1009,
+    "letter": "T",
+    "photo_suffix": "20260605073153_37beb245",
+    "slug": "the-milk-carton-kids",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "The Milk Carton Kids"
+  },
+  "1010": {
+    "_id": 1010,
+    "letter": "T",
+    "photo_suffix": "20260605073153_b4f1ebdd",
+    "slug": "the-point",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "The Point."
+  },
+  "1011": {
+    "_id": 1011,
+    "letter": "T",
+    "photo_suffix": "20260605073153_f21c2e5f",
+    "slug": "the-pairs",
+    "sort_order": null,
+    "subtitle": "Canada/ON",
+    "tags": [],
+    "title": "The Pairs"
+  },
+  "1012": {
+    "_id": 1012,
+    "letter": "T",
+    "photo_suffix": "20260605073154_161c3fe1",
+    "slug": "the-womack-sisters",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "The Womack Sisters"
+  },
+  "1013": {
+    "_id": 1013,
+    "letter": "T",
+    "photo_suffix": "20260605073155_e0ec068a",
+    "slug": "thee-sacred-souls",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Thee Sacred Souls"
+  },
+  "1014": {
+    "_id": 1014,
+    "letter": "T",
+    "photo_suffix": "20260605073155_0465fb3d",
+    "slug": "tia-wood",
+    "sort_order": null,
+    "subtitle": "Canada/AB",
+    "tags": [],
+    "title": "Tia Wood"
+  },
+  "1015": {
+    "_id": 1015,
+    "letter": "T",
+    "photo_suffix": "20260605073155_81a1a46f",
+    "slug": "trousdale",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Trousdale"
+  },
+  "1076": {
+    "_id": 1076,
+    "letter": "A",
+    "photo_suffix": "20260612025617_34ea8a0d",
+    "slug": "anna-muskego-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Anna Muskego (Nikamowin)"
+  },
+  "1077": {
+    "_id": 1077,
+    "letter": "C",
+    "photo_suffix": "20260623022758_6f8b688e",
+    "slug": "carmen-miller-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Carmen Miller (Nikamowin)"
+  },
+  "1078": {
+    "_id": 1078,
+    "letter": "D",
+    "photo_suffix": "20260623045514_206706b5",
+    "slug": "darla-daniels-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Darla Daniels (Nikamowin)"
+  },
+  "1079": {
+    "_id": 1079,
+    "letter": "L",
+    "photo_suffix": "20260623051743_9e56c29e",
+    "slug": "lyndon-aginas-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Lyndon Aginas (Nikamowin)"
+  },
+  "1080": {
+    "_id": 1080,
+    "letter": "M",
+    "photo_suffix": "20260623022046_66d552df",
+    "slug": "metis-child-family-jiggers-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "M\u00e9tis Child & Family Jiggers (Nikamowin)"
+  },
+  "1081": {
+    "_id": 1081,
+    "letter": "O",
+    "photo_suffix": "20260623053017_03ced066",
+    "slug": "oskinakosiwin-indigenous-dance-group-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Oskinakosiwin Indigenous Dance Group (Nikamowin)"
+  },
+  "1082": {
+    "_id": 1082,
+    "letter": "C",
+    "photo_suffix": "20260623023405_b5a748e3",
+    "slug": "celina-loyer-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Celina Loyer (Nikamowin)"
+  },
+  "1083": {
+    "_id": 1083,
+    "letter": "E",
+    "photo_suffix": "20260623045909_e6369d10",
+    "slug": "ekti-margaret-cardinal-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Ekti Margaret Cardinal (Nikamowin)"
+  },
+  "1084": {
+    "_id": 1084,
+    "letter": "G",
+    "photo_suffix": "20260623051113_615f6206",
+    "slug": "goota-desmarais-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Goota Desmarais (Nikamowin)"
+  },
+  "1085": {
+    "_id": 1085,
+    "letter": "L",
+    "photo_suffix": "20260623022047_8076f0f5",
+    "slug": "levi-wolfe-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Levi Wolfe (Nikamowin)"
+  },
+  "1086": {
+    "_id": 1086,
+    "letter": "M",
+    "photo_suffix": "20260623052609_3fd07073",
+    "slug": "matt-hiltermann-nikamowin",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      1075
+    ],
+    "title": "Matt Hiltermann (Nikamowin)"
+  },
+  "957": {
+    "_id": 957,
+    "letter": "A",
+    "photo_suffix": "20260605073130_78c9e2ca",
+    "slug": "adam-baldwin",
+    "sort_order": null,
+    "subtitle": "Canada/NS",
+    "tags": [],
+    "title": "Adam Baldwin"
+  },
+  "958": {
+    "_id": 958,
+    "letter": "A",
+    "photo_suffix": "20260605073130_703d4c5f",
+    "slug": "amble",
+    "sort_order": null,
+    "subtitle": "Ireland",
+    "tags": [],
+    "title": "Amble"
+  },
+  "959": {
+    "_id": 959,
+    "letter": "A",
+    "photo_suffix": "20260605073130_57700ab2",
+    "slug": "anna-tivel",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Anna Tivel"
+  },
+  "960": {
+    "_id": 960,
+    "letter": "A",
+    "photo_suffix": "20260605073130_80e615ab",
+    "slug": "annie-the-caldwells",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Annie & The Caldwells"
+  },
+  "961": {
+    "_id": 961,
+    "letter": "A",
+    "photo_suffix": "20260605073130_db210911",
+    "slug": "arrested-development",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Arrested Development"
+  },
+  "962": {
+    "_id": 962,
+    "letter": "A",
+    "photo_suffix": "20260605073131_6c040d6b",
+    "slug": "asgeir",
+    "sort_order": null,
+    "subtitle": "Iceland",
+    "tags": [],
+    "title": "\u00c1sgeir"
+  },
+  "963": {
+    "_id": 963,
+    "letter": "B",
+    "photo_suffix": "20260605073132_2707e1b6",
+    "slug": "bella-white",
+    "sort_order": null,
+    "subtitle": "Canada/BC",
+    "tags": [],
+    "title": "Bella White"
+  },
+  "964": {
+    "_id": 964,
+    "letter": "B",
+    "photo_suffix": "20260605073132_49ab0819",
+    "slug": "bombino",
+    "sort_order": null,
+    "subtitle": "Niger",
+    "tags": [],
+    "title": "Bombino"
+  },
+  "965": {
+    "_id": 965,
+    "letter": "B",
+    "photo_suffix": "20260605073132_0af2ceb3",
+    "slug": "brianna-lizotte",
+    "sort_order": null,
+    "subtitle": "Canada/AB",
+    "tags": [],
+    "title": "Brianna Lizotte"
+  },
+  "966": {
+    "_id": 966,
+    "letter": "B",
+    "photo_suffix": "20260605073133_058fb78e",
+    "slug": "buffalo-traffic-jam",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Buffalo Traffic Jam"
+  },
+  "967": {
+    "_id": 967,
+    "letter": "B",
+    "photo_suffix": "20260605073133_5e78c681",
+    "slug": "buyepongo",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Buyepongo"
+  },
+  "968": {
+    "_id": 968,
+    "letter": "C",
+    "photo_suffix": "20260605073133_4c48c0c5",
+    "slug": "cat-power",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Cat Power"
+  },
+  "969": {
+    "_id": 969,
+    "letter": "C",
+    "photo_suffix": "20260605073134_41d6058d",
+    "slug": "corb-lund",
+    "sort_order": null,
+    "subtitle": "Canada/AB",
+    "tags": [],
+    "title": "Corb Lund"
+  },
+  "970": {
+    "_id": 970,
+    "letter": "C",
+    "photo_suffix": "20260605073134_22837215",
+    "slug": "courtney-marie-andrews",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Courtney Marie Andrews"
+  },
+  "971": {
+    "_id": 971,
+    "letter": "D",
+    "photo_suffix": "20260605073134_57aa3180",
+    "slug": "dk-harrell",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "D.K. Harrell"
+  },
+  "972": {
+    "_id": 972,
+    "letter": "D",
+    "photo_suffix": "20260605073135_f4170d6b",
+    "slug": "daby-toure",
+    "sort_order": null,
+    "subtitle": "Canada/QC/Mauritania",
+    "tags": [],
+    "title": "Daby Tour\u00e9"
+  },
+  "973": {
+    "_id": 973,
+    "letter": "D",
+    "photo_suffix": "20260605073135_00d3431a",
+    "slug": "dailey-vincent",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Dailey & Vincent"
+  },
+  "974": {
+    "_id": 974,
+    "letter": "D",
+    "photo_suffix": "20260605073136_9504c8da",
+    "slug": "damien-okane-ron-block",
+    "sort_order": null,
+    "subtitle": "Northern Ireland/USA",
+    "tags": [],
+    "title": "Damien O'Kane & Ron Block"
+  },
+  "975": {
+    "_id": 975,
+    "letter": "D",
+    "photo_suffix": "20260605073136_e61a6ec4",
+    "slug": "dana-sipos",
+    "sort_order": null,
+    "subtitle": "Canada/BC",
+    "tags": [],
+    "title": "Dana Sipos"
+  },
+  "976": {
+    "_id": 976,
+    "letter": "D",
+    "photo_suffix": "20260605073136_f25d3873",
+    "slug": "djekady-feat-balla-kouyate-mike-block",
+    "sort_order": null,
+    "subtitle": "Guinea/USA",
+    "tags": [],
+    "title": "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block"
+  },
+  "977": {
+    "_id": 977,
+    "letter": "D",
+    "photo_suffix": "20260605073137_a4abc81e",
+    "slug": "djely-tapa",
+    "sort_order": null,
+    "subtitle": "Canada/QC/Mal",
+    "tags": [],
+    "title": "Djely Tapa"
+  },
+  "978": {
+    "_id": 978,
+    "letter": "D",
+    "photo_suffix": "20260605073137_55a68440",
+    "slug": "dove-ellis",
+    "sort_order": null,
+    "subtitle": "Ireland",
+    "tags": [],
+    "title": "Dove Ellis"
+  },
+  "979": {
+    "_id": 979,
+    "letter": "D",
+    "photo_suffix": "20260605073137_250f0c1c",
+    "slug": "dug",
+    "sort_order": null,
+    "subtitle": "Scotland/Ireland/USA",
+    "tags": [],
+    "title": "DUG"
+  },
+  "980": {
+    "_id": 980,
+    "letter": "F",
+    "photo_suffix": "20260605073138_5dd4d25b",
+    "slug": "fantastic-cat",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Fantastic Cat"
+  },
+  "981": {
+    "_id": 981,
+    "letter": "G",
+    "photo_suffix": "20260605073138_8c5e2d73",
+    "slug": "gwenifer-raymond",
+    "sort_order": null,
+    "subtitle": "Wales",
+    "tags": [],
+    "title": "Gwenifer Raymond"
+  },
+  "982": {
+    "_id": 982,
+    "letter": "H",
+    "photo_suffix": "20260605073139_ff77d9f5",
+    "slug": "hurray-for-the-riff-raff",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Hurray for the Riff Raff"
+  },
+  "983": {
+    "_id": 983,
+    "letter": "J",
+    "photo_suffix": "20260605073139_c86f2347",
+    "slug": "jake-xerxes-fussell",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Jake Xerxes Fussell"
+  },
+  "984": {
+    "_id": 984,
+    "letter": "J",
+    "photo_suffix": "20260605073139_6b1b17c6",
+    "slug": "jeffrey-martin",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Jeffrey Martin"
+  },
+  "985": {
+    "_id": 985,
+    "letter": "J",
+    "photo_suffix": "20260605073139_6b3dec4e",
+    "slug": "jeremie-albino",
+    "sort_order": null,
+    "subtitle": "Canada/ON",
+    "tags": [],
+    "title": "Jeremie Albino"
+  },
+  "986": {
+    "_id": 986,
+    "letter": "J",
+    "photo_suffix": "20260605073139_bceff61c",
+    "slug": "joe-nolan",
+    "sort_order": null,
+    "subtitle": "Canada/AB",
+    "tags": [],
+    "title": "Joe Nolan"
+  },
+  "987": {
+    "_id": 987,
+    "letter": "J",
+    "photo_suffix": "20260605073141_1c39c893",
+    "slug": "joel-plaskett-emergency",
+    "sort_order": null,
+    "subtitle": "Canada/NS",
+    "tags": [],
+    "title": "Joel Plaskett Emergency"
+  },
+  "988": {
+    "_id": 988,
+    "letter": "J",
+    "photo_suffix": "20260605073141_f16a7400",
+    "slug": "john-r-miller",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "John R. Miller"
+  },
+  "989": {
+    "_id": 989,
+    "letter": "J",
+    "photo_suffix": "20260605073141_4e926325",
+    "slug": "julian-taylor",
+    "sort_order": null,
+    "subtitle": "Canada/ON",
+    "tags": [],
+    "title": "Julian Taylor"
+  },
+  "990": {
+    "_id": 990,
+    "letter": "K",
+    "photo_suffix": "20260605073142_ff72f435",
+    "slug": "kate-rusby",
+    "sort_order": null,
+    "subtitle": "England",
+    "tags": [],
+    "title": "Kate Rusby"
+  },
+  "991": {
+    "_id": 991,
+    "letter": "L",
+    "photo_suffix": "20260605073143_b2e1cb84",
+    "slug": "la-deferlance",
+    "sort_order": null,
+    "subtitle": "Canada/QC",
+    "tags": [],
+    "title": "La D\u00e9ferlance"
+  },
+  "992": {
+    "_id": 992,
+    "letter": "L",
+    "photo_suffix": "20260605073143_f2280a28",
+    "slug": "leif-vollebekk",
+    "sort_order": null,
+    "subtitle": "Canada/QC",
+    "tags": [],
+    "title": "Leif Vollebekk"
+  },
+  "993": {
+    "_id": 993,
+    "letter": "M",
+    "photo_suffix": "20260605073143_628f4c25",
+    "slug": "madalitso-band",
+    "sort_order": null,
+    "subtitle": "Malawi",
+    "tags": [],
+    "title": "Madalitso Band"
+  },
+  "994": {
+    "_id": 994,
+    "letter": "M",
+    "photo_suffix": "20260605073144_3eee83ae",
+    "slug": "mariel-buckley",
+    "sort_order": null,
+    "subtitle": "Canada/AB",
+    "tags": [],
+    "title": "Mariel Buckley"
+  },
+  "995": {
+    "_id": 995,
+    "letter": "M",
+    "photo_suffix": "20260605073144_0cedf4bf",
+    "slug": "mia-kelly",
+    "sort_order": null,
+    "subtitle": "Canada/QC",
+    "tags": [],
+    "title": "Mia Kelly"
+  },
+  "996": {
+    "_id": 996,
+    "letter": "N",
+    "photo_suffix": "20260605073146_a997a2e2",
+    "slug": "nathaniel-rateliff",
+    "sort_order": null,
+    "subtitle": "USA",
+    "tags": [],
+    "title": "Nathaniel Rateliff"
+  },
+  "997": {
+    "_id": 997,
+    "letter": "N",
+    "photo_suffix": "20260605073146_3539caec",
+    "slug": "nick-mulvey",
+    "sort_order": null,
+    "subtitle": "England",
+    "tags": [],
+    "title": "Nick Mulvey"
+  },
+  "998": {
+    "_id": 998,
+    "letter": "O",
+    "photo_suffix": "20260605073147_8fcb8085",
+    "slug": "ocie-elliott",
+    "sort_order": null,
+    "subtitle": "Canada/BC",
+    "tags": [],
+    "title": "Ocie Elliott"
+  },
+  "999": {
+    "_id": 999,
+    "letter": "O",
+    "photo_suffix": "20260605073148_b8b37fbf",
+    "slug": "of-monsters-and-men",
+    "sort_order": null,
+    "subtitle": "Iceland",
+    "tags": [],
+    "title": "Of Monsters and Men"
+  }
+}

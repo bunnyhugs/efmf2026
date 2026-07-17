@@ -1,0 +1,2752 @@
+{
+  "1035": {
+    "_id": 1035,
+    "date_end": "2026-08-06",
+    "date_start": "2026-08-06",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 920,
+      "title": "The Womack Sisters Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-06",
+    "ref_date_end": "2026-08-06",
+    "slug": "the-womack-sisters-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1020,
+      1022
+    ],
+    "time_end": "19:30:00",
+    "time_start": "18:30:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1036": {
+    "_id": 1036,
+    "date_end": "2026-08-06",
+    "date_start": "2026-08-06",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 921,
+      "title": "Corb Lund Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-06",
+    "ref_date_end": "2026-08-06",
+    "slug": "corb-lund-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1030
+    ],
+    "time_end": "20:57:00",
+    "time_start": "19:51:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1037": {
+    "_id": 1037,
+    "date_end": "2026-08-06",
+    "date_start": "2026-08-06",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 922,
+      "title": "Thee Sacred Souls Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-06",
+    "ref_date_end": "2026-08-06",
+    "slug": "thee-sacred-souls-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1021,
+      1022
+    ],
+    "time_end": "22:45:00",
+    "time_start": "21:25:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1038": {
+    "_id": 1038,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 923,
+      "title": "Amble Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "amble-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1019,
+      1022,
+      1024
+    ],
+    "time_end": "21:06:00",
+    "time_start": "20:06:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1039": {
+    "_id": 1039,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 924,
+      "title": "Buffalo Traffic Jam Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "buffalo-traffic-jam-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1028
+    ],
+    "time_end": "22:28:00",
+    "time_start": "21:26:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1040": {
+    "_id": 1040,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 925,
+      "title": "Of Monsters and Men Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "of-monsters-and-men-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1034
+    ],
+    "time_end": "23:59:00",
+    "time_start": "22:48:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1041": {
+    "_id": 1041,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 926,
+      "title": "Dailey & Vincent Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "dailey-vincent-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1031
+    ],
+    "time_end": "15:00:00",
+    "time_start": "14:00:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1042": {
+    "_id": 1042,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 928,
+      "title": "Leif Vollebekk Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "leif-vollebekk-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1017,
+      1019,
+      1022
+    ],
+    "time_end": "21:15:00",
+    "time_start": "20:15:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1043": {
+    "_id": 1043,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 927,
+      "title": "Annie & The Caldwells",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "annie-the-caldwells",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1025
+    ],
+    "time_end": "19:59:00",
+    "time_start": "19:02:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1044": {
+    "_id": 1044,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 930,
+      "title": "Arrested Development Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "arrested-development-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1026
+    ],
+    "time_end": "23:59:00",
+    "time_start": "22:50:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1045": {
+    "_id": 1045,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 929,
+      "title": "Cat Power Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "cat-power-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1029
+    ],
+    "time_end": "22:33:00",
+    "time_start": "21:33:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1046": {
+    "_id": 1046,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 931,
+      "title": "Bombino Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "bombino-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1027
+    ],
+    "time_end": "15:00:00",
+    "time_start": "14:00:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1047": {
+    "_id": 1047,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 932,
+      "title": "St. Paul & The Broken Bones",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "st-paul-the-broken-bones",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1023
+    ],
+    "time_end": "20:08:00",
+    "time_start": "19:01:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1048": {
+    "_id": 1048,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 933,
+      "title": "Ocie Elliott Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "ocie-elliott-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1033
+    ],
+    "time_end": "21:20:00",
+    "time_start": "20:26:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1049": {
+    "_id": 1049,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 934,
+      "title": "Nathaniel Rateliff Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "nathaniel-rateliff-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1019,
+      1022,
+      1032
+    ],
+    "time_end": "22:50:00",
+    "time_start": "21:42:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1050": {
+    "_id": 1050,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 935,
+      "title": "Friday Sessions and Concerts",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "friday-sessions-and-concerts",
+    "sort_order": null,
+    "tags": [],
+    "time_end": "20:00:00",
+    "time_start": "17:45:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1051": {
+    "_id": 1051,
+    "date_end": "2026-08-06",
+    "date_start": "2026-08-06",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 936,
+      "title": "Festival Welcome",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-06",
+    "ref_date_end": "2026-08-06",
+    "slug": "festival-welcome",
+    "sort_order": null,
+    "tags": [],
+    "time_end": "18:30:00",
+    "time_start": "18:10:00",
+    "venue": {
+      "_id": 949,
+      "title": "Main Stage"
+    }
+  },
+  "1073": {
+    "_id": 1073,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1070,
+      "title": "Dana Sipos Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "dana-sipos-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1072
+    ],
+    "time_end": "13:45:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1293": {
+    "_id": 1293,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1165,
+      "title": "A New Day",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "a-new-day",
+    "sort_order": null,
+    "tags": [
+      1244,
+      1016,
+      1250,
+      1251,
+      1254,
+      1279
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1294": {
+    "_id": 1294,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1166,
+      "title": "A Secret Chord",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "a-secret-chord",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1252,
+      1267,
+      1282,
+      1286
+    ],
+    "time_end": "16:15:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1295": {
+    "_id": 1295,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1167,
+      "title": "A Sense of Wonder",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "a-sense-of-wonder",
+    "sort_order": null,
+    "tags": [
+      1242,
+      1016,
+      1250,
+      1255,
+      1027,
+      1270
+    ],
+    "time_end": "17:35:00",
+    "time_start": "16:30:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1296": {
+    "_id": 1296,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1168,
+      "title": "Adam Baldwin Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "adam-baldwin-concert",
+    "sort_order": null,
+    "tags": [
+      1240,
+      1016,
+      1018,
+      1071
+    ],
+    "time_end": "15:55:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1297": {
+    "_id": 1297,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1169,
+      "title": "Anna Tivel Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "anna-tivel-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1266
+    ],
+    "time_end": "15:55:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1298": {
+    "_id": 1298,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1170,
+      "title": "\u00c1sgeir Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "asgeir-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1252,
+      1267
+    ],
+    "time_end": "16:15:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1299": {
+    "_id": 1299,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1171,
+      "title": "Bella White Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "bella-white-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1254,
+      1268
+    ],
+    "time_end": "13:45:00",
+    "time_start": "12:30:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1300": {
+    "_id": 1300,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1172,
+      "title": "Brianna Lizotte Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "brianna-lizotte-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1269
+    ],
+    "time_end": "16:50:00",
+    "time_start": "16:05:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1301": {
+    "_id": 1301,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1173,
+      "title": "Buyepongo Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "buyepongo-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1253,
+      1270
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1302": {
+    "_id": 1302,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1174,
+      "title": "Changes",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "changes",
+    "sort_order": null,
+    "tags": [
+      1243,
+      1016,
+      1250,
+      1252,
+      1268,
+      1072
+    ],
+    "time_end": "18:50:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1303": {
+    "_id": 1303,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1175,
+      "title": "Courtney Marie Andrews Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "courtney-marie-andrews-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1254,
+      1271
+    ],
+    "time_end": "18:55:00",
+    "time_start": "17:45:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1304": {
+    "_id": 1304,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1176,
+      "title": "D.K. Harrell Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "dk-harrell-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1253,
+      1272
+    ],
+    "time_end": "18:55:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1305": {
+    "_id": 1305,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1177,
+      "title": "Daby Tour\u00e9 Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "daby-toure-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1273
+    ],
+    "time_end": "18:55:00",
+    "time_start": "18:05:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1306": {
+    "_id": 1306,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1178,
+      "title": "Damien O'Kane & Ron Block Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "damien-okane-ron-block-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1274
+    ],
+    "time_end": "18:00:00",
+    "time_start": "17:10:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1307": {
+    "_id": 1307,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1179,
+      "title": "Dj\u00e9kady feat. Balla Kouyat\u00e9 & Mike Block Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "djekady-feat-balla-kouyate-mike-block-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1253,
+      1275
+    ],
+    "time_end": "18:50:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1308": {
+    "_id": 1308,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1180,
+      "title": "Djely Tapa Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "djely-tapa-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1253,
+      1276
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:40:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1309": {
+    "_id": 1309,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1181,
+      "title": "DUG Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "dug-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1278
+    ],
+    "time_end": "17:00:00",
+    "time_start": "16:10:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1310": {
+    "_id": 1310,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1182,
+      "title": "Fantastic Cat Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "fantastic-cat-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1255,
+      1279
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1311": {
+    "_id": 1311,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1183,
+      "title": "Finding Your Voice",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "finding-your-voice",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1256,
+      1260,
+      1261,
+      1024
+    ],
+    "time_end": "18:50:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1312": {
+    "_id": 1312,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1184,
+      "title": "Full Circles",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "full-circles",
+    "sort_order": null,
+    "tags": [
+      1240,
+      1016,
+      1247,
+      1250,
+      1252,
+      1283
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1313": {
+    "_id": 1313,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1185,
+      "title": "Goin' Up The Country",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "goin-up-the-country",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1255,
+      1262,
+      1031,
+      1280
+    ],
+    "time_end": "18:55:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1314": {
+    "_id": 1314,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1186,
+      "title": "Gwenifer Raymond Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "gwenifer-raymond-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1280
+    ],
+    "time_end": "19:00:00",
+    "time_start": "18:10:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1315": {
+    "_id": 1315,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1187,
+      "title": "Heroes",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "heroes",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1253,
+      1260,
+      1273,
+      1275
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1316": {
+    "_id": 1316,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1188,
+      "title": "Hurray for the Riff Raff Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "hurray-for-the-riff-raff-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1256,
+      1281
+    ],
+    "time_end": "16:15:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1317": {
+    "_id": 1317,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1189,
+      "title": "If You Could Read My Mind",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "if-you-could-read-my-mind",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1249,
+      1250,
+      1255,
+      1262,
+      1279
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1318": {
+    "_id": 1318,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1190,
+      "title": "Imagine",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "imagine",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1248,
+      1250,
+      1255,
+      1266,
+      1268,
+      1288
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1319": {
+    "_id": 1319,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1191,
+      "title": "Influences",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "influences",
+    "sort_order": null,
+    "tags": [
+      1241,
+      1016,
+      1250,
+      1255,
+      1026,
+      1029,
+      1285
+    ],
+    "time_end": "16:15:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1320": {
+    "_id": 1320,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1192,
+      "title": "Jake Xerxes Fussell Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "jake-xerxes-fussell-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1252,
+      1282
+    ],
+    "time_end": "17:30:00",
+    "time_start": "16:35:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1321": {
+    "_id": 1321,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1193,
+      "title": "Jeffrey Martin Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "jeffrey-martin-concert",
+    "sort_order": null,
+    "tags": [
+      1241,
+      1016,
+      1018,
+      1252
+    ],
+    "time_end": "18:50:00",
+    "time_start": "17:45:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1322": {
+    "_id": 1322,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1194,
+      "title": "Jeremie Albino Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "jeremie-albino-concert",
+    "sort_order": null,
+    "tags": [
+      1242,
+      1016,
+      1018,
+      1253
+    ],
+    "time_end": "17:35:00",
+    "time_start": "16:30:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1323": {
+    "_id": 1323,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1195,
+      "title": "Joe Nolan Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "joe-nolan-concert",
+    "sort_order": null,
+    "tags": [
+      1243,
+      1016,
+      1018,
+      1252
+    ],
+    "time_end": "13:45:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1324": {
+    "_id": 1324,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1196,
+      "title": "Joel Plaskett Emergency",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "joel-plaskett-emergency",
+    "sort_order": null,
+    "tags": [
+      1244,
+      1016,
+      1018,
+      1254
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1325": {
+    "_id": 1325,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1197,
+      "title": "John R. Miller Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "john-r-miller-concert",
+    "sort_order": null,
+    "tags": [
+      1245,
+      1016,
+      1018,
+      1254
+    ],
+    "time_end": "18:50:00",
+    "time_start": "17:45:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1326": {
+    "_id": 1326,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1198,
+      "title": "Julian Taylor Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "julian-taylor-concert",
+    "sort_order": null,
+    "tags": [
+      1246,
+      1016,
+      1018,
+      1255
+    ],
+    "time_end": "17:35:00",
+    "time_start": "16:35:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1327": {
+    "_id": 1327,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1199,
+      "title": "Kate Rusby Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "kate-rusby-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1248,
+      1018,
+      1256
+    ],
+    "time_end": "17:40:00",
+    "time_start": "16:35:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1328": {
+    "_id": 1328,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1200,
+      "title": "La D\u00e9ferlance Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "la-deferlance-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1247,
+      1018,
+      1254
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1329": {
+    "_id": 1329,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1201,
+      "title": "Lessons Learned",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "lessons-learned",
+    "sort_order": null,
+    "tags": [
+      1243,
+      1016,
+      1250,
+      1071,
+      1283,
+      1287
+    ],
+    "time_end": "18:50:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1330": {
+    "_id": 1330,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1202,
+      "title": "Madalitso Band Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "madalitso-band-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1253,
+      1285
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1331": {
+    "_id": 1331,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1203,
+      "title": "Magical Thinking",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "magical-thinking",
+    "sort_order": null,
+    "tags": [
+      1246,
+      1016,
+      1250,
+      1254,
+      1271,
+      1072
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1332": {
+    "_id": 1332,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1204,
+      "title": "Mariel Buckley Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "mariel-buckley-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1254,
+      1286
+    ],
+    "time_end": "19:55:00",
+    "time_start": "19:00:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1333": {
+    "_id": 1333,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1205,
+      "title": "Mentors",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "mentors",
+    "sort_order": null,
+    "tags": [
+      1246,
+      1016,
+      1248,
+      1250,
+      1256,
+      1275
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1334": {
+    "_id": 1334,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1206,
+      "title": "Nikamowin Programming (Saturday)",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "nikamowin-programming-saturday",
+    "sort_order": null,
+    "tags": [
+      1250,
+      1263,
+      1289
+    ],
+    "time_end": "18:00:00",
+    "time_start": "12:00:00",
+    "venue": {
+      "_id": 956,
+      "title": "Nikamowin Program Area"
+    }
+  },
+  "1335": {
+    "_id": 1335,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1207,
+      "title": "Nikamowin Programming (Sunday)",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "nikamowin-programming-sunday",
+    "sort_order": null,
+    "tags": [
+      1250,
+      1263,
+      1289
+    ],
+    "time_end": "18:00:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 956,
+      "title": "Nikamowin Program Area"
+    }
+  },
+  "1336": {
+    "_id": 1336,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1208,
+      "title": "Nikamowin",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "nikamowin",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1018,
+      1071,
+      1289,
+      1290,
+      1292
+    ],
+    "time_end": "11:45:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1337": {
+    "_id": 1337,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1209,
+      "title": "Mia Kelly Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "mia-kelly-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1287
+    ],
+    "time_end": "13:55:00",
+    "time_start": "13:05:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1338": {
+    "_id": 1338,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1210,
+      "title": "School of Song Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "school-of-song-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1252,
+      1258
+    ],
+    "time_end": "19:45:00",
+    "time_start": "18:00:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1339": {
+    "_id": 1339,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1211,
+      "title": "Moods and Grooves",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "moods-and-grooves",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1254,
+      1257,
+      1284,
+      1287
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1340": {
+    "_id": 1340,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1212,
+      "title": "Naturally",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "naturally",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1247,
+      1256,
+      1273,
+      1280,
+      1291
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1341": {
+    "_id": 1341,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1213,
+      "title": "Nick Mulvey Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "nick-mulvey-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1253,
+      1288
+    ],
+    "time_end": "17:35:00",
+    "time_start": "16:30:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1342": {
+    "_id": 1342,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1214,
+      "title": "Nothing To Fret About",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "nothing-to-fret-about",
+    "sort_order": null,
+    "tags": [
+      1245,
+      1016,
+      1250,
+      1256,
+      1269,
+      1291
+    ],
+    "time_end": "12:10:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1343": {
+    "_id": 1343,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1215,
+      "title": "On The Road Again",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "on-the-road-again",
+    "sort_order": null,
+    "tags": [
+      1240,
+      1245,
+      1016,
+      1250,
+      1254,
+      1278
+    ],
+    "time_end": "17:30:00",
+    "time_start": "16:30:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1344": {
+    "_id": 1344,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1216,
+      "title": "Peaks and Valleys",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "peaks-and-valleys",
+    "sort_order": null,
+    "tags": [
+      1244,
+      1016,
+      1017,
+      1250,
+      1256,
+      1259,
+      1260
+    ],
+    "time_end": "17:30:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1345": {
+    "_id": 1345,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1217,
+      "title": "Rob Ickes & Trey Hensley Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "rob-ickes-trey-hensley-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1291
+    ],
+    "time_end": "17:55:00",
+    "time_start": "17:05:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1346": {
+    "_id": 1346,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1218,
+      "title": "Rockin' Dopsie Jr & The Zydeco Twisters Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "rockin-dopsie-jr-the-zydeco-twisters-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1253,
+      1265
+    ],
+    "time_end": "20:00:00",
+    "time_start": "19:00:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1347": {
+    "_id": 1347,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1219,
+      "title": "Rolling Tones",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "rolling-tones",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1251,
+      1255,
+      1025,
+      1278
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1348": {
+    "_id": 1348,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1220,
+      "title": "Roots and Branches",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "roots-and-branches",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1253,
+      1027,
+      1284,
+      1288
+    ],
+    "time_end": "16:15:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1349": {
+    "_id": 1349,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1221,
+      "title": "Sing Out",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "sing-out",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1256,
+      1257,
+      1025,
+      1272
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1350": {
+    "_id": 1350,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1222,
+      "title": "Sister Ray Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "sister-ray-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1259
+    ],
+    "time_end": "12:55:00",
+    "time_start": "12:05:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1351": {
+    "_id": 1351,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1223,
+      "title": "Song Sung Blue",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "song-sung-blue",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1249,
+      1250,
+      1255,
+      1277,
+      1281
+    ],
+    "time_end": "20:00:00",
+    "time_start": "19:05:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1352": {
+    "_id": 1352,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1224,
+      "title": "SupaLung Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "supalung-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1256,
+      1260
+    ],
+    "time_end": "16:10:00",
+    "time_start": "15:05:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1353": {
+    "_id": 1353,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1225,
+      "title": "SYML Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "syml-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1256,
+      1261
+    ],
+    "time_end": "20:00:00",
+    "time_start": "19:00:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1354": {
+    "_id": 1354,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1226,
+      "title": "Tall Tales",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "tall-tales",
+    "sort_order": null,
+    "tags": [
+      1240,
+      1016,
+      1250,
+      1071,
+      1259,
+      1283
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1355": {
+    "_id": 1355,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1227,
+      "title": "The Brudi Brothers Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "the-brudi-brothers-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1254,
+      1262
+    ],
+    "time_end": "17:30:00",
+    "time_start": "16:25:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1356": {
+    "_id": 1356,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1228,
+      "title": "The Mbira Renaissance Band Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "the-mbira-renaissance-band-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1252,
+      1264
+    ],
+    "time_end": "17:35:00",
+    "time_start": "16:35:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1357": {
+    "_id": 1357,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1229,
+      "title": "The Milk Carton Kids Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "the-milk-carton-kids-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1249,
+      1018,
+      1256
+    ],
+    "time_end": "18:55:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1358": {
+    "_id": 1358,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1230,
+      "title": "The Pairs Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "the-pairs-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1071,
+      1283
+    ],
+    "time_end": "20:00:00",
+    "time_start": "19:05:00",
+    "venue": {
+      "_id": 955,
+      "title": "Stage 7"
+    }
+  },
+  "1359": {
+    "_id": 1359,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1231,
+      "title": "The Poet Game",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "the-poet-game",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1017,
+      1250,
+      1255,
+      1267,
+      1033
+    ],
+    "time_end": "13:50:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1360": {
+    "_id": 1360,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1232,
+      "title": "The Point. Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "the-point-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1252,
+      1284
+    ],
+    "time_end": "13:45:00",
+    "time_start": "12:35:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1361": {
+    "_id": 1361,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1233,
+      "title": "The Story",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "the-story",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1254,
+      1259,
+      1279,
+      1286
+    ],
+    "time_end": "18:50:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 953,
+      "title": "Stage 5"
+    }
+  },
+  "1362": {
+    "_id": 1362,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1234,
+      "title": "Tia Wood Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "tia-wood-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1256,
+      1257
+    ],
+    "time_end": "18:50:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 952,
+      "title": "Stage 3"
+    }
+  },
+  "1363": {
+    "_id": 1363,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1235,
+      "title": "Traditions",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "traditions",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1253,
+      1269,
+      1273,
+      1285
+    ],
+    "time_end": "18:45:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1364": {
+    "_id": 1364,
+    "date_end": "2026-08-09",
+    "date_start": "2026-08-09",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1236,
+      "title": "Trousdale Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-09",
+    "ref_date_end": "2026-08-09",
+    "slug": "trousdale-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1251,
+      1255
+    ],
+    "time_end": "18:55:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  },
+  "1365": {
+    "_id": 1365,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1237,
+      "title": "Turning Point",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "turning-point",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1250,
+      1253,
+      1260,
+      1033
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 950,
+      "title": "Stage 1"
+    }
+  },
+  "1366": {
+    "_id": 1366,
+    "date_end": "2026-08-08",
+    "date_start": "2026-08-08",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1238,
+      "title": "Master Class",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-08",
+    "ref_date_end": "2026-08-08",
+    "slug": "master-class",
+    "sort_order": null,
+    "tags": [
+      1241,
+      1016,
+      1250,
+      1252,
+      1266,
+      1271,
+      1282
+    ],
+    "time_end": "12:15:00",
+    "time_start": "11:00:00",
+    "venue": {
+      "_id": 951,
+      "title": "Stage 2"
+    }
+  },
+  "1367": {
+    "_id": 1367,
+    "date_end": "2026-08-07",
+    "date_start": "2026-08-07",
+    "linkTicket": null,
+    "livestreamUrl": null,
+    "object": {
+      "_id": 1239,
+      "title": "Dove Ellis Concert",
+      "type": 0
+    },
+    "price": null,
+    "ref_date": "2026-08-07",
+    "ref_date_end": "2026-08-07",
+    "slug": "dove-ellis-concert",
+    "sort_order": null,
+    "tags": [
+      1016,
+      1018,
+      1255,
+      1277
+    ],
+    "time_end": "18:50:00",
+    "time_start": "17:50:00",
+    "venue": {
+      "_id": 954,
+      "title": "Stage 6"
+    }
+  }
+}

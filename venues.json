@@ -1,0 +1,137 @@
+{
+  "949": {
+    "_id": 949,
+    "can_associate_shows": 1,
+    "gps_latitude": 53.53419,
+    "gps_longitude": -113.4726182,
+    "is_rateable": false,
+    "photo_suffix": "",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      947,
+      948
+    ],
+    "title": "Main Stage"
+  },
+  "950": {
+    "_id": 950,
+    "can_associate_shows": 1,
+    "gps_latitude": 53.53570122926461,
+    "gps_longitude": -113.46972141426392,
+    "is_rateable": false,
+    "photo_suffix": "",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      937,
+      943,
+      946,
+      947
+    ],
+    "title": "Stage 1"
+  },
+  "951": {
+    "_id": 951,
+    "can_associate_shows": 1,
+    "gps_latitude": 53.534834032568476,
+    "gps_longitude": -113.47055826347656,
+    "is_rateable": false,
+    "photo_suffix": "",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      938,
+      943,
+      946,
+      947
+    ],
+    "title": "Stage 2"
+  },
+  "952": {
+    "_id": 952,
+    "can_associate_shows": 1,
+    "gps_latitude": 53.53376914174246,
+    "gps_longitude": -113.47399149101562,
+    "is_rateable": false,
+    "photo_suffix": "",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      939,
+      943,
+      946,
+      947
+    ],
+    "title": "Stage 3"
+  },
+  "953": {
+    "_id": 953,
+    "can_associate_shows": 1,
+    "gps_latitude": 53.533807401756924,
+    "gps_longitude": -113.47618017357178,
+    "is_rateable": false,
+    "photo_suffix": "",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      940,
+      943,
+      946,
+      947
+    ],
+    "title": "Stage 5"
+  },
+  "954": {
+    "_id": 954,
+    "can_associate_shows": 1,
+    "gps_latitude": 53.53393493488872,
+    "gps_longitude": -113.47746763389893,
+    "is_rateable": false,
+    "photo_suffix": "",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      941,
+      943,
+      946,
+      947
+    ],
+    "title": "Stage 6"
+  },
+  "955": {
+    "_id": 955,
+    "can_associate_shows": 1,
+    "gps_latitude": 53.535541819439516,
+    "gps_longitude": -113.47248408954925,
+    "is_rateable": false,
+    "photo_suffix": "",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      942,
+      943,
+      946,
+      947
+    ],
+    "title": "Stage 7"
+  },
+  "956": {
+    "_id": 956,
+    "can_associate_shows": 1,
+    "gps_latitude": 53.53553544303398,
+    "gps_longitude": -113.4727791325409,
+    "is_rateable": false,
+    "photo_suffix": "",
+    "sort_order": null,
+    "subtitle": null,
+    "tags": [
+      942,
+      943,
+      944,
+      945,
+      947
+    ],
+    "title": "Nikamowin Program Area"
+  }
+}
