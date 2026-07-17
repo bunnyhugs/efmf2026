@@ -9,6 +9,14 @@ export function translateAvailability(availStr) {
 	return availStr;
 }
 
+export function getLastUpdate(availabilityData, eventKey) {
+	if (!availabilityData) return 0;
+    const eventAvailability = availabilityData[eventKey];
+    if (!eventAvailability) return 0;
+    if (!Number.isInteger(eventAvailability["lastUpdate"])) return "unknown";
+	return formatDuration(Math.floor(Date.now()/1000) - eventAvailability["lastUpdate"]);
+}
+
 export function getTotalAvailability(availabilityData, eventKey) {
     const eventAvailability = availabilityData[eventKey];
     if (!eventAvailability) return 0;
@@ -16,8 +24,9 @@ export function getTotalAvailability(availabilityData, eventKey) {
     let total = 0;
     let status = null; // Tracks the "highest priority" non-numeric status
 
-    for (const value of Object.values(eventAvailability)) {
-        const parsed = parseInt(value, 10);
+    for (const [key, value] of Object.entries(eventAvailability)) {
+        if (key == "lastUpdate") continue;
+		const parsed = parseInt(value, 10);
         if (!isNaN(parsed)) {
             total += parsed;
         } else {
@@ -90,6 +99,27 @@ export function time24format(timeString) {
     
     // Return formatted time
     return hours + ":" + minutes;
+}
+
+function formatDuration(seconds) {
+    if (seconds < 60) {
+        return `${Math.abs(seconds)}s`;
+    }
+
+    const minutes = Math.floor(seconds / 60);
+    const hours = Math.floor(minutes / 60);
+    const secs = seconds % 60;
+
+    let result = '';
+	if (hours > 0) {
+		result += `${hours}h`;
+	}
+    result += `${minutes % 60}m`;
+	if (hours == 0 && secs > 0) {
+        result += `${secs}s`;
+    }
+
+    return result;
 }
 
 export function getTime(dateObj) {
@@ -263,13 +293,13 @@ export function importLocalStorageFromFile(inputElement) {
     reader.readAsText(file);
 }
 
-function isValidLocalStorageData(data) {
+export function isValidLocalStorageData(data) {
     // Example validation: Ensure data is an object and keys are strings
     return (typeof data === 'object' && data !== null && !Array.isArray(data)) &&
            Object.keys(data).every(key => typeof key === 'string');
 }
 
-function sanitizeValue(value) {
+export function sanitizeValue(value) {
     // Example sanitization: Ensure value is a string
     return typeof value === 'string' ? value : JSON.stringify(value);
 }

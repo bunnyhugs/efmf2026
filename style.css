@@ -942,7 +942,7 @@ table.artistTable {
 
 #exportLink {
 	/* Todo: finish */
-	display: none;
+	/* display: none; */
 }
 
 .file-upload {
@@ -1205,7 +1205,7 @@ div.food *:not(div.food) {
 	border-radius: initial;
 	overflow: initial;
 	vertical-align: middle;
-	/* display: inline-block;*/
+	/* display: inline-block; */
 }
 
 div.fl-col, 
@@ -1251,4 +1251,32 @@ div.food img {
 div.food a {
 	text-decoration: none;
 	color: #000;
+}
+
+dialog {
+    border: none;
+    border-radius: 8px;
+    padding: 1.5rem;
+    max-width: 400px;
+    box-shadow: 0 0 20px rgba(0,0,0,.3);
+}
+
+dialog::backdrop {
+    background: rgba(0,0,0,.4);
+}
+
+dialog h2 {
+    margin-top: 0;
+}
+
+dialog menu {
+    display: flex;
+    justify-content: flex-end;
+    gap: .5rem;
+    padding: 0;
+    margin-top: 1.5rem;
+}
+
+dialog button {
+    padding: .5rem 1rem;
 }

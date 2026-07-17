@@ -121,7 +121,6 @@
 			It is where artists can be "Followed". -->
 		</section>
 
-		
 		<section id="about-section" class="hide">
 			
 		</section>
@@ -129,6 +128,22 @@
             <!-- Artists list will be dynamically populated here -->
         </section>
     </main>
+
+<dialog id="shareDialog">
+    <form method="dialog">
+        <h2>Shared Data Found</h2>
+
+        <p>
+            This link contains shared data. What would you like to do?
+        </p>
+
+        <menu>
+            <button value="ignore">Ignore</button>
+            <button value="merge">Merge</button>
+            <button value="replace">Replace</button>
+        </menu>
+    </form>
+</dialog>
     <script src="app.js" type="module"></script>
 </body>
 </html>
