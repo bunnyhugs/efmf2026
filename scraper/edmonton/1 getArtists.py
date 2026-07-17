@@ -2,6 +2,9 @@ import json
 import os
 import requests
 
+# Run 1, 2, 3, 4, 5
+# Copy locations.json, artists.json, schedule.json to root
+
 def downloadFile(url: str, output_path: str) -> str:
     if os.path.exists(output_path):
         return f"Skipped: '{output_path}' already exists."

@@ -1,11 +1,14 @@
 import * as utils from './utils.js';
 // import * as draw from './js';
 
-const appmode = {
-	"fringe": false,
-	"efmf": true,
-	"cfmf": false
-}
+const mode = document.documentElement.dataset.mode;
+
+const appmode = Object.freeze({
+    mode,
+    fringe: mode === "fringe",
+    efmf: mode === "efmf",
+    cfmf: mode === "cfmf"
+});
 
 const report = {};
 report.menTotal = 0;
@@ -1561,7 +1564,13 @@ async function populateSchedule() {
 		console.error('File input not found.');
 	}
 
+	setTimeout(() => {
+		if (window.location.hash === "#shows") {
+			document.querySelector("#artistsHeader > a").click();
+		}
+	}, 1000);
 }
+
 /**
  * Converts one event’s JSON into the structure we want
  * and merges it into availabilityDict.
@@ -1908,7 +1917,7 @@ function enableStarClick() {
 // Call the functions to populate the UI on page load
 window.addEventListener("load", () => {
     setTimeout(() => { populateSchedule(); }, 10);
-	setTimeout(() => { checkForSharedData(); }, 100);
+	setTimeout(() => { checkForSharedData(); }, 700);
 });
 
 // Register the service worker for offline capabilities
